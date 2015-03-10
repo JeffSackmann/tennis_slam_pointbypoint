@@ -1,0 +1,118 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2
+2011-wimbledon-1105,2011,wimbledon,1105,Juan Martin Del Potro,Flavio Cipolla,Complete,1,event_MS,round_1,Court 18,S,atpd683,atpc723,ARG,ITA
+2011-wimbledon-1112,2011,wimbledon,1112,Radek Stepanek,Fernando Verdasco,Complete,2,event_MS,round_1,No. 2 Court,C,atps694,atpv306,CZE,ESP
+2011-wimbledon-1117,2011,wimbledon,1117,Andy Murray,Daniel Gimeno-Traver,Complete,1,event_MS,round_1,Centre Court,A,atpmc10,atpg676,GBR,ESP
+2011-wimbledon-1120,2011,wimbledon,1120,Ivan Ljubicic,Marin Cilic,Complete,1,event_MS,round_1,No. 3 Court,D,atpl360,atpc977,CRO,CRO
+2011-wimbledon-1128,2011,wimbledon,1128,Ivo Karlovic,Janko Tipsarevic,Retired,1,event_MS,round_1,Court 12,M,atpk336,atpt742,CRO,SRB
+2011-wimbledon-1132,2011,wimbledon,1132,Andreas Beck,Andy Roddick,Complete,2,event_MS,round_1,No. 1 Court,B,atpba86,atpr485,GER,USA
+2011-wimbledon-1133,2011,wimbledon,1133,David Ferrer,Benoit Paire,Complete,1,event_MS,round_1,No. 3 Court,D,atpf401,atppd31,ESP,FRA
+2011-wimbledon-1142,2011,wimbledon,1142,John Isner,Nicolas Mahut,Complete,1,event_MS,round_1,No. 3 Court,D,atpi186,atpm873,USA,FRA
+2011-wimbledon-1148,2011,wimbledon,1148,Mikhail Kukushkin,Roger Federer,Complete,2,event_MS,round_1,Centre Court,A,atpk926,atpf324,KAZ,SUI
+2011-wimbledon-1149,2011,wimbledon,1149,Robin Soderling,Philipp Petzschner,Complete,1,event_MS,round_1,No. 1 Court,B,atpsa49,atpp624,SWE,GER
+2011-wimbledon-1150,2011,wimbledon,1150,Kei Nishikori,Lleyton Hewitt,Complete,2,event_MS,round_1,Court 12,M,atpn552,atph432,JPN,AUS
+2011-wimbledon-1155,2011,wimbledon,1155,Ernests Gulbis,Dmitry Tursunov,Complete,2,event_MS,round_1,Court 18,S,atpg858,atpt315,LAT,RUS
+2011-wimbledon-1160,2011,wimbledon,1160,James Ward,Michael Llodra,Complete,2,event_MS,round_1,No. 2 Court,C,atpw503,atpl428,GBR,FRA
+2011-wimbledon-1161,2011,wimbledon,1161,Marcos Baghdatis,James Blake,Complete,1,event_MS,round_1,Court 18,S,atpb837,atpb676,CYP,USA
+2011-wimbledon-1164,2011,wimbledon,1164,Jeremy Chardy,Novak Djokovic,Complete,2,event_MS,round_1,Centre Court,A,atpca12,atpd643,FRA,SRB
+2011-wimbledon-1201,2011,wimbledon,1201,Rafael Nadal,Ryan Sweeting,Complete,1,event_MS,round_2,Centre Court,A,atpn409,atpsg87,ESP,USA
+2011-wimbledon-1202,2011,wimbledon,1202,Gilles Muller,Milos Raonic,Retired,1,event_MS,round_2,No. 3 Court,D,atpma30,atpr975,LUX,CAN
+2011-wimbledon-1203,2011,wimbledon,1203,Juan Martin Del Potro,Olivier Rochus,Complete,1,event_MS,round_2,No. 2 Court,C,atpd683,atpr397,ARG,BEL
+2011-wimbledon-1205,2011,wimbledon,1205,Mardy Fish,Denis Istomin,Complete,1,event_MS,round_2,No. 2 Court,C,atpf339,atpi165,USA,UZB
+2011-wimbledon-1206,2011,wimbledon,1206,Robin Haase,Fernando Verdasco,Complete,1,event_MS,round_2,Court 12,M,atph756,atpv306,NED,ESP
+2011-wimbledon-1208,2011,wimbledon,1208,Julien Benneteau,Tomas Berdych,Complete,2,event_MS,round_2,No. 1 Court,B,atpb747,atpba47,FRA,CZE
+2011-wimbledon-1209,2011,wimbledon,1209,Andy Murray,Tobias Kamke,Complete,1,event_MS,round_2,No. 1 Court,B,atpmc10,atpk839,GBR,GER
+2011-wimbledon-1211,2011,wimbledon,1211,Richard Gasquet,Igor Kunitsyn,Complete,1,event_MS,round_2,Court 12,M,atpg628,atpk403,FRA,RUS
+2011-wimbledon-1212,2011,wimbledon,1212,Simone Bolelli,Stanislas Wawrinka,Complete,1,event_MS,round_2,Court 18,S,atpba98,atpw367,ITA,SUI
+2011-wimbledon-1216,2011,wimbledon,1216,Victor Hanescu,Andy Roddick,Complete,2,event_MS,round_2,Centre Court,A,atph528,atpr485,ROU,USA
+2011-wimbledon-1217,2011,wimbledon,1217,David Ferrer,Ryan Harrison,Complete,1,event_MS,round_2,No. 2 Court,C,atpf401,atph940,ESP,USA
+2011-wimbledon-1220,2011,wimbledon,1220,Grigor Dimitrov,Jo-Wilfried Tsonga,Complete,2,event_MS,round_2,No. 1 Court,B,atpd875,atpt786,BUL,FRA
+2011-wimbledon-1221,2011,wimbledon,1221,Nicolas Almagro,John Isner,Complete,1,event_MS,round_2,Court 18,S,atpa479,atpi186,ESP,USA
+2011-wimbledon-1223,2011,wimbledon,1223,David Nalbandian,Andreas Haider-Maurer,Complete,1,event_MS,round_2,Court 12,M,atpn301,atph804,ARG,AUT
+2011-wimbledon-1224,2011,wimbledon,1224,Adrian Mannarino,Roger Federer,Complete,2,event_MS,round_2,Centre Court,A,atpme82,atpf324,FRA,SUI
+2011-wimbledon-1225,2011,wimbledon,1225,Robin Soderling,Lleyton Hewitt,Complete,1,event_MS,round_2,Centre Court,A,atpsa49,atph432,SWE,AUS
+2011-wimbledon-1226,2011,wimbledon,1226,Igor Andreev,Bernard Tomic,Complete,2,event_MS,round_2,No. 3 Court,D,atpa511,atpta46,RUS,AUS
+2011-wimbledon-1228,2011,wimbledon,1228,Dmitry Tursunov,Jurgen Melzer,Complete,2,event_MS,round_2,Court 12,M,atpt315,atpm762,RUS,AUT
+2011-wimbledon-1229,2011,wimbledon,1229,Viktor Troicki,Yen-Hsun Lu,Complete,2,event_MS,round_2,Court 18,S,atpt840,atpl575,SRB,TPE
+2011-wimbledon-1231,2011,wimbledon,1231,Marcos Baghdatis,Andreas Seppi,Complete,1,event_MS,round_2,No. 3 Court,D,atpb837,atpsa93,CYP,ITA
+2011-wimbledon-1232,2011,wimbledon,1232,Kevin Anderson,Novak Djokovic,Complete,2,event_MS,round_2,No. 1 Court,B,atpa678,atpd643,RSA,SRB
+2011-wimbledon-1301,2011,wimbledon,1301,Rafael Nadal,Gilles Muller,Complete,1,event_MS,round_3,No. 1 Court,B,atpn409,atpma30,ESP,LUX
+2011-wimbledon-1302,2011,wimbledon,1302,Juan Martin Del Potro,Gilles Simon,Complete,1,event_MS,round_3,No. 2 Court,C,atpd683,atpsd32,ARG,FRA
+2011-wimbledon-1304,2011,wimbledon,1304,Alex Bogomolov Jr.,Tomas Berdych,Complete,2,event_MS,round_3,Court 18,S,atpb842,atpba47,USA,CZE
+2011-wimbledon-1305,2011,wimbledon,1305,Andy Murray,Ivan Ljubicic,Complete,1,event_MS,round_3,Centre Court,A,atpmc10,atpl360,GBR,CRO
+2011-wimbledon-1307,2011,wimbledon,1307,Gael Monfils,Lukasz Kubot,Complete,2,event_MS,round_3,No. 3 Court,D,atpmc65,atpk540,FRA,POL
+2011-wimbledon-1308,2011,wimbledon,1308,Feliciano Lopez,Andy Roddick,Complete,1,event_MS,round_3,Centre Court,A,atpl397,atpr485,ESP,USA
+2011-wimbledon-1309,2011,wimbledon,1309,David Ferrer,Karol Beck,Complete,1,event_MS,round_3,No. 3 Court,D,atpf401,atpb804,ESP,SVK
+2011-wimbledon-1310,2011,wimbledon,1310,Fernando Gonzalez,Jo-Wilfried Tsonga,Complete,2,event_MS,round_3,No. 2 Court,C,atpg415,atpt786,CHI,FRA
+2011-wimbledon-1311,2011,wimbledon,1311,Nicolas Almagro,Mikhail Youzhny,Complete,2,event_MS,round_3,Court 18,S,atpa479,atpy061,ESP,RUS
+2011-wimbledon-1312,2011,wimbledon,1312,David Nalbandian,Roger Federer,Complete,2,event_MS,round_3,Centre Court,A,atpn301,atpf324,ARG,SUI
+2011-wimbledon-1313,2011,wimbledon,1313,Robin Soderling,Bernard Tomic,Complete,2,event_MS,round_3,No. 1 Court,B,atpsa49,atpta46,SWE,AUS
+2011-wimbledon-1314,2011,wimbledon,1314,Xavier Malisse,Jurgen Melzer,Complete,1,event_MS,round_3,Court 12,M,atpm680,atpm762,BEL,AUT
+2011-wimbledon-1316,2011,wimbledon,1316,Marcos Baghdatis,Novak Djokovic,Complete,2,event_MS,round_3,Centre Court,A,atpb837,atpd643,CYP,SRB
+2011-wimbledon-1401,2011,wimbledon,1401,Rafael Nadal,Juan Martin Del Potro,Complete,1,event_MS,round_4,Centre Court,A,atpn409,atpd683,ESP,ARG
+2011-wimbledon-1402,2011,wimbledon,1402,Mardy Fish,Tomas Berdych,Complete,1,event_MS,round_4,No. 2 Court,C,atpf339,atpba47,USA,CZE
+2011-wimbledon-1403,2011,wimbledon,1403,Andy Murray,Richard Gasquet,Complete,1,event_MS,round_4,Centre Court,A,atpmc10,atpg628,GBR,FRA
+2011-wimbledon-1404,2011,wimbledon,1404,Lukasz Kubot,Feliciano Lopez,Complete,2,event_MS,round_4,No. 3 Court,D,atpk540,atpl397,POL,ESP
+2011-wimbledon-1405,2011,wimbledon,1405,David Ferrer,Jo-Wilfried Tsonga,Complete,2,event_MS,round_4,No. 3 Court,D,atpf401,atpt786,ESP,FRA
+2011-wimbledon-1406,2011,wimbledon,1406,Mikhail Youzhny,Roger Federer,Complete,2,event_MS,round_4,No. 1 Court,B,atpy061,atpf324,RUS,SUI
+2011-wimbledon-1407,2011,wimbledon,1407,Bernard Tomic,Xavier Malisse,Complete,1,event_MS,round_4,Court 18,S,atpta46,atpm680,AUS,BEL
+2011-wimbledon-1408,2011,wimbledon,1408,Michael Llodra,Novak Djokovic,Complete,2,event_MS,round_4,No. 1 Court,B,atpl428,atpd643,FRA,SRB
+2011-wimbledon-1501,2011,wimbledon,1501,Rafael Nadal,Mardy Fish,Complete,1,event_MS,round_5,No. 1 Court,B,atpn409,atpf339,ESP,USA
+2011-wimbledon-1502,2011,wimbledon,1502,Andy Murray,Feliciano Lopez,Complete,1,event_MS,round_5,Centre Court,A,atpmc10,atpl397,GBR,ESP
+2011-wimbledon-1503,2011,wimbledon,1503,Jo-Wilfried Tsonga,Roger Federer,Complete,1,event_MS,round_5,Centre Court,A,atpt786,atpf324,FRA,SUI
+2011-wimbledon-1504,2011,wimbledon,1504,Bernard Tomic,Novak Djokovic,Complete,2,event_MS,round_5,No. 1 Court,B,atpta46,atpd643,AUS,SRB
+2011-wimbledon-1601,2011,wimbledon,1601,Rafael Nadal,Andy Murray,Complete,1,event_MS,round_6,Centre Court,A,atpn409,atpmc10,ESP,GBR
+2011-wimbledon-1602,2011,wimbledon,1602,Jo-Wilfried Tsonga,Novak Djokovic,Complete,2,event_MS,round_6,Centre Court,A,atpt786,atpd643,FRA,SRB
+2011-wimbledon-1701,2011,wimbledon,1701,Rafael Nadal,Novak Djokovic,Complete,2,event_MS,round_7,Centre Court,A,atpn409,atpd643,ESP,SRB
+2011-wimbledon-2101,2011,wimbledon,2101,Caroline Wozniacki,Arantxa Parra Santonja,Complete,1,event_WS,round_1,No. 1 Court,B,wta313402,wta160451,DEN,ESP
+2011-wimbledon-2107,2011,wimbledon,2107,Mathilde Johansson,Heather Watson,Complete,1,event_WS,round_1,No. 3 Court,D,wta100162,wta316981,FRA,GBR
+2011-wimbledon-2111,2011,wimbledon,2111,Elena Baltacha,Mona Barthel,Complete,1,event_WS,round_1,Court 12,M,wta020556,wta315365,GBR,GER
+2011-wimbledon-2116,2011,wimbledon,2116,Anna Chakvetadze,Maria Sharapova,Complete,2,event_WS,round_1,Centre Court,A,wta310623,wta310137,RUS,RUS
+2011-wimbledon-2117,2011,wimbledon,2117,Na Li,Alla Kudryavtseva,Complete,1,event_WS,round_1,No. 2 Court,C,wta120330,wta311362,CHN,RUS
+2011-wimbledon-2121,2011,wimbledon,2121,Ana Ivanovic,Melanie Oudin,Complete,1,event_WS,round_1,Court 12,M,wta311710,wta313963,SRB,USA
+2011-wimbledon-2125,2011,wimbledon,2125,Marion Bartoli,Kristyna Pliskova,Complete,1,event_WS,round_1,Court 18,S,wta020631,wta313975,FRA,CZE
+2011-wimbledon-2132,2011,wimbledon,2132,Aravane Rezai,Serena Williams,Complete,2,event_WS,round_1,Centre Court,A,wta311791,wta230234,FRA,USA
+2011-wimbledon-2133,2011,wimbledon,2133,Francesca Schiavone,Jelena Dokic,Complete,1,event_WS,round_1,Centre Court,A,wta190666,wta040344,ITA,AUS
+2011-wimbledon-2140,2011,wimbledon,2140,Stephanie Foretz Gacon,Andrea Petkovic,Complete,2,event_WS,round_1,Court 18,S,wta060288,wta310770,FRA,GER
+2011-wimbledon-2148,2011,wimbledon,2148,Magdalena Rybarikova,Victoria Azarenka,Retired,2,event_WS,round_1,No. 2 Court,C,wta312580,wta312001,SVK,BLR
+2011-wimbledon-2150,2011,wimbledon,2150,Naomi Broady,Anne Keothavong,Complete,2,event_WS,round_1,Court 12,M,wta313941,wta110524,GBR,GBR
+2011-wimbledon-2157,2011,wimbledon,2157,Jelena Jankovic,Maria Jose Martinez Sanchez,Complete,2,event_WS,round_1,No. 3 Court,D,wta100153,wta130591,SRB,ESP
+2011-wimbledon-2201,2011,wimbledon,2201,Caroline Wozniacki,Virginie Razzano,Complete,1,event_WS,round_2,No. 2 Court,C,wta313402,wta180384,DEN,FRA
+2011-wimbledon-2206,2011,wimbledon,2206,Elena Baltacha,Shuai Peng,Complete,2,event_WS,round_2,Court 18,S,wta020556,wta160471,GBR,CHN
+2011-wimbledon-2208,2011,wimbledon,2208,Laura Robson,Maria Sharapova,Complete,2,event_WS,round_2,No. 1 Court,B,wta316629,wta310137,GBR,RUS
+2011-wimbledon-2209,2011,wimbledon,2209,Na Li,Sabine Lisicki,Complete,2,event_WS,round_2,Centre Court,A,wta120330,wta312520,CHN,GER
+2011-wimbledon-2211,2011,wimbledon,2211,Ana Ivanovic,Eleni Daniilidou,Complete,1,event_WS,round_2,Court 12,M,wta311710,wta040313,SRB,GRE
+2011-wimbledon-2213,2011,wimbledon,2213,Marion Bartoli,Lourdes Dominguez Lino,Complete,1,event_WS,round_2,No. 3 Court,D,wta020631,wta040300,FRA,ESP
+2011-wimbledon-2216,2011,wimbledon,2216,Simona Halep,Serena Williams,Complete,2,event_WS,round_2,No. 2 Court,C,wta314320,wta230234,ROU,USA
+2011-wimbledon-2217,2011,wimbledon,2217,Francesca Schiavone,Barbora Zahlavova Strycova,Complete,1,event_WS,round_2,No. 3 Court,D,wta190666,wta190879,ITA,CZE
+2011-wimbledon-2220,2011,wimbledon,2220,Stephanie Dubois,Andrea Petkovic,Complete,2,event_WS,round_2,No. 3 Court,D,wta310290,wta310770,CAN,GER
+2011-wimbledon-2225,2011,wimbledon,2225,Petra Kvitova,Anne Keothavong,Complete,1,event_WS,round_2,No. 1 Court,B,wta314206,wta110524,CZE,GBR
+2011-wimbledon-2228,2011,wimbledon,2228,Alexandra Dulgheru,Svetlana Kuznetsova,Complete,2,event_WS,round_2,Court 18,S,wta312712,wta110552,ROU,RUS
+2011-wimbledon-2230,2011,wimbledon,2230,Kimiko Date-Krumm,Venus Williams,Complete,2,event_WS,round_2,Centre Court,A,wta040130,wta230220,JPN,USA
+2011-wimbledon-2232,2011,wimbledon,2232,Elena Vesnina,Vera Zvonareva,Complete,2,event_WS,round_2,No. 2 Court,C,wta311220,wta260142,RUS,RUS
+2011-wimbledon-2301,2011,wimbledon,2301,Caroline Wozniacki,Jarmila Gajdosova,Complete,1,event_WS,round_3,Centre Court,A,wta313402,wta310169,DEN,AUS
+2011-wimbledon-2302,2011,wimbledon,2302,Dominika Cibulkova,Julia Goerges,Complete,1,event_WS,round_3,No. 3 Court,D,wta312894,wta313381,SVK,GER
+2011-wimbledon-2303,2011,wimbledon,2303,Melinda Czink,Shuai Peng,Complete,2,event_WS,round_3,Court 18,S,wta030557,wta160471,HUN,CHN
+2011-wimbledon-2304,2011,wimbledon,2304,Klara Zakopalova,Maria Sharapova,Complete,2,event_WS,round_3,No. 2 Court,C,wta110492,wta310137,CZE,RUS
+2011-wimbledon-2306,2011,wimbledon,2306,Ana Ivanovic,Petra Cetkovska,Complete,2,event_WS,round_3,Court 18,S,wta311710,wta030562,SRB,CZE
+2011-wimbledon-2307,2011,wimbledon,2307,Marion Bartoli,Flavia Pennetta,Complete,1,event_WS,round_3,Court 12,M,wta020631,wta160391,FRA,ITA
+2011-wimbledon-2308,2011,wimbledon,2308,Maria Kirilenko,Serena Williams,Complete,2,event_WS,round_3,No. 1 Court,B,wta310577,wta230234,RUS,USA
+2011-wimbledon-2309,2011,wimbledon,2309,Francesca Schiavone,Tamira Paszek,Complete,2,event_WS,round_3,Court 12,M,wta190666,wta313035,ITA,AUT
+2011-wimbledon-2312,2011,wimbledon,2312,Daniela Hantuchova,Victoria Azarenka,Complete,2,event_WS,round_3,Centre Court,A,wta080394,wta312001,SVK,BLR
+2011-wimbledon-2313,2011,wimbledon,2313,Petra Kvitova,Roberta Vinci,Complete,1,event_WS,round_3,Court 18,S,wta314206,wta220214,CZE,ITA
+2011-wimbledon-2314,2011,wimbledon,2314,Yanina Wickmayer,Svetlana Kuznetsova,Complete,1,event_WS,round_3,Court 12,M,wta312536,wta110552,BEL,RUS
+2011-wimbledon-2315,2011,wimbledon,2315,Maria Jose Martinez Sanchez,Venus Williams,Complete,2,event_WS,round_3,No. 1 Court,B,wta130591,wta230220,ESP,USA
+2011-wimbledon-2316,2011,wimbledon,2316,Tsvetana Pironkova,Vera Zvonareva,Complete,1,event_WS,round_3,No. 2 Court,C,wta311041,wta260142,BUL,RUS
+2011-wimbledon-2401,2011,wimbledon,2401,Caroline Wozniacki,Dominika Cibulkova,Complete,2,event_WS,round_4,No. 2 Court,C,wta313402,wta312894,DEN,SVK
+2011-wimbledon-2402,2011,wimbledon,2402,Shuai Peng,Maria Sharapova,Complete,2,event_WS,round_4,No. 2 Court,C,wta160471,wta310137,CHN,RUS
+2011-wimbledon-2403,2011,wimbledon,2403,Sabine Lisicki,Petra Cetkovska,Complete,1,event_WS,round_4,Court 12,M,wta312520,wta030562,GER,CZE
+2011-wimbledon-2404,2011,wimbledon,2404,Marion Bartoli,Serena Williams,Complete,1,event_WS,round_4,No. 1 Court,B,wta020631,wta230234,FRA,USA
+2011-wimbledon-2406,2011,wimbledon,2406,Nadia Petrova,Victoria Azarenka,Complete,2,event_WS,round_4,No. 3 Court,D,wta160379,wta312001,RUS,BLR
+2011-wimbledon-2407,2011,wimbledon,2407,Petra Kvitova,Yanina Wickmayer,Complete,1,event_WS,round_4,Court 12,M,wta314206,wta312536,CZE,BEL
+2011-wimbledon-2408,2011,wimbledon,2408,Venus Williams,Tsvetana Pironkova,Complete,2,event_WS,round_4,Centre Court,A,wta230220,wta311041,USA,BUL
+2011-wimbledon-2501,2011,wimbledon,2501,Dominika Cibulkova,Maria Sharapova,Complete,2,event_WS,round_5,Centre Court,A,wta312894,wta310137,SVK,RUS
+2011-wimbledon-2502,2011,wimbledon,2502,Sabine Lisicki,Marion Bartoli,Complete,1,event_WS,round_5,Centre Court,A,wta312520,wta020631,GER,FRA
+2011-wimbledon-2503,2011,wimbledon,2503,Tamira Paszek,Victoria Azarenka,Complete,2,event_WS,round_5,Centre Court,A,wta313035,wta312001,AUT,BLR
+2011-wimbledon-2504,2011,wimbledon,2504,Petra Kvitova,Tsvetana Pironkova,Complete,1,event_WS,round_5,No. 1 Court,B,wta314206,wta311041,CZE,BUL
+2011-wimbledon-2601,2011,wimbledon,2601,Maria Sharapova,Sabine Lisicki,Complete,1,event_WS,round_6,Centre Court,A,wta310137,wta312520,RUS,GER
+2011-wimbledon-2602,2011,wimbledon,2602,Victoria Azarenka,Petra Kvitova,Complete,2,event_WS,round_6,Centre Court,A,wta312001,wta314206,BLR,CZE
+2011-wimbledon-2701,2011,wimbledon,2701,Maria Sharapova,Petra Kvitova,Complete,2,event_WS,round_7,Centre Court,A,wta310137,wta314206,RUS,CZE

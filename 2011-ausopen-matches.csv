@@ -1,0 +1,180 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2
+2011-ausopen-1101,2011,ausopen,1101,Rafael Nadal,Marcos Daniel,Retired,1,Men's Singles,Round 1,Rod Laver Arena,A,atpn409,atpd339,ESP,BRA
+2011-ausopen-1103,2011,ausopen,1103,Bernard Tomic,Jeremy Chardy,Complete,1,Men's Singles,Round 1,Hisense Arena,B,atpta46,atpca12,AUS,FRA
+2011-ausopen-1105,2011,ausopen,1105,John Isner,Florent Serra,Complete,1,Men's Singles,Round 1,Court 6,H,atpi186,atps963,USA,FRA
+2011-ausopen-1108,2011,ausopen,1108,Donald Young,Marin Cilic,Complete,2,Men's Singles,Round 1,Show Court 2,D,atpy124,atpc977,USA,CRO
+2011-ausopen-1112,2011,ausopen,1112,Juan Ignacio Chela,Michael Llodra,Complete,2,Men's Singles,Round 1,Show Court 2,D,atpc514,atpl428,ARG,FRA
+2011-ausopen-1113,2011,ausopen,1113,David Nalbandian,Lleyton Hewitt,Complete,1,Men's Singles,Round 1,Rod Laver Arena,A,atpn301,atph432,ARG,AUS
+2011-ausopen-1114,2011,ausopen,1114,Richard Berankis,Marinko Matosevic,Complete,1,Men's Singles,Round 1,Court 6,H,atpbe90,atpme05,LTU,AUS
+2011-ausopen-1115,2011,ausopen,1115,Michael Russell,Matthew Ebden,Complete,1,Men's Singles,Round 1,Margaret Court Arena,C,atpr368,atpe690,USA,AUS
+2011-ausopen-1116,2011,ausopen,1116,Jarkko Nieminen,David Ferrer,Complete,2,Men's Singles,Round 1,Show Court 3,E,atpn289,atpf401,FIN,ESP
+2011-ausopen-1117,2011,ausopen,1117,Robin Soderling,Potito Starace,Complete,1,Men's Singles,Round 1,Margaret Court Arena,C,atpsa49,atps843,SWE,ITA
+2011-ausopen-1124,2011,ausopen,1124,Philipp Petzschner,Jo-Wilfried Tsonga,Complete,2,Men's Singles,Round 1,Margaret Court Arena,C,atpp624,atpt786,GER,FRA
+2011-ausopen-1126,2011,ausopen,1126,Carsten Ball,Pere Riba,Complete,2,Men's Singles,Round 1,Court 8,J,atpbd59,atpr750,AUS,ESP
+2011-ausopen-1127,2011,ausopen,1127,Dudi Sela,Juan Martin Del Potro,Complete,2,Men's Singles,Round 1,Show Court 2,D,atpsc56,atpd683,ISR,ARG
+2011-ausopen-1128,2011,ausopen,1128,Grega Zemlja,Marcos Baghdatis,Complete,2,Men's Singles,Round 1,Show Court 3,E,atpz189,atpb837,SLO,CYP
+2011-ausopen-1132,2011,ausopen,1132,Karol Beck,Andy Murray,Retired,2,Men's Singles,Round 1,Hisense Arena,B,atpb804,atpmc10,SVK,GBR
+2011-ausopen-1133,2011,ausopen,1133,Tomas Berdych,Marco Crugnola,Complete,1,Men's Singles,Round 1,Show Court 2,D,atpba47,atpc968,CZE,ITA
+2011-ausopen-1136,2011,ausopen,1136,Frank Dancevic,Richard Gasquet,Complete,2,Men's Singles,Round 1,Court 8,J,atpd499,atpg628,CAN,FRA
+2011-ausopen-1138,2011,ausopen,1138,Fabio Fognini,Kei Nishikori,Complete,2,Men's Singles,Round 1,Court 8,J,atpf510,atpn552,ITA,JPN
+2011-ausopen-1140,2011,ausopen,1140,Rainer Schuettler,Fernando Verdasco,Complete,2,Men's Singles,Round 1,Show Court 2,D,atps636,atpv306,GER,ESP
+2011-ausopen-1144,2011,ausopen,1144,Peter Luczak,Ivan Ljubicic,Complete,2,Men's Singles,Round 1,Margaret Court Arena,C,atpl515,atpl360,AUS,CRO
+2011-ausopen-1148,2011,ausopen,1148,Marcel Granollers,Novak Djokovic,Complete,2,Men's Singles,Round 1,Rod Laver Arena,A,atpg710,atpd643,ESP,SRB
+2011-ausopen-1149,2011,ausopen,1149,Andy Roddick,Jan Hajek,Complete,1,Men's Singles,Round 1,Hisense Arena,B,atpr485,atph571,USA,CZE
+2011-ausopen-1152,2011,ausopen,1152,Simon Greul,Juan Monaco,Complete,2,Men's Singles,Round 1,Court 6,H,atpg511,atpma21,GER,ARG
+2011-ausopen-1153,2011,ausopen,1153,Stanislas Wawrinka,Teymuraz Gabashvili,Complete,1,Men's Singles,Round 1,Show Court 3,E,atpw367,atpg681,SUI,RUS
+2011-ausopen-1156,2011,ausopen,1156,Thiemo de Bakker,Gael Monfils,Complete,2,Men's Singles,Round 1,Hisense Arena,B,atpd776,atpmc65,NED,FRA
+2011-ausopen-1157,2011,ausopen,1157,Mardy Fish,Victor Hanescu,Complete,1,Men's Singles,Round 1,Show Court 3,E,atpf339,atph528,USA,ROU
+2011-ausopen-1160,2011,ausopen,1160,Lukasz Kubot,Sam Querrey,Complete,1,Men's Singles,Round 1,Show Court 2,D,atpk540,atpq927,POL,USA
+2011-ausopen-1163,2011,ausopen,1163,Yen-Hsun Lu,Gilles Simon,Complete,2,Men's Singles,Round 1,Court 6,H,atpl575,atpsd32,TPE,FRA
+2011-ausopen-1164,2011,ausopen,1164,Lukas Lacko,Roger Federer,Complete,2,Men's Singles,Round 1,Rod Laver Arena,A,atpl797,atpf324,SVK,SUI
+2011-ausopen-1201,2011,ausopen,1201,Rafael Nadal,Ryan Sweeting,Complete,1,Men's Singles,Round 2,Rod Laver Arena,A,atpn409,atpsg87,ESP,USA
+2011-ausopen-1202,2011,ausopen,1202,Bernard Tomic,Feliciano Lopez,Complete,1,Men's Singles,Round 2,Hisense Arena,B,atpta46,atpl397,AUS,ESP
+2011-ausopen-1203,2011,ausopen,1203,John Isner,Radek Stepanek,Complete,1,Men's Singles,Round 2,Show Court 3,E,atpi186,atps694,USA,CZE
+2011-ausopen-1204,2011,ausopen,1204,Santiago Giraldo,Marin Cilic,Complete,2,Men's Singles,Round 2,Show Court 2,D,atpg725,atpc977,COL,CRO
+2011-ausopen-1205,2011,ausopen,1205,Mikhail Youzhny,Blaz Kavcic,Complete,1,Men's Singles,Round 2,Court 6,H,atpy061,atpk834,RUS,SLO
+2011-ausopen-1206,2011,ausopen,1206,Milos Raonic,Michael Llodra,Complete,1,Men's Singles,Round 2,Show Court 3,E,atpr975,atpl428,CAN,FRA
+2011-ausopen-1207,2011,ausopen,1207,David Nalbandian,Richard Berankis,Retired,2,Men's Singles,Round 2,Show Court 2,D,atpn301,atpbe90,ARG,LTU
+2011-ausopen-1208,2011,ausopen,1208,Michael Russell,David Ferrer,Complete,2,Men's Singles,Round 2,Show Court 2,D,atpr368,atpf401,USA,ESP
+2011-ausopen-1209,2011,ausopen,1209,Robin Soderling,Gilles Muller,Complete,1,Men's Singles,Round 2,Hisense Arena,B,atpsa49,atpma30,SWE,LUX
+2011-ausopen-1212,2011,ausopen,1212,Andreas Seppi,Jo-Wilfried Tsonga,Complete,2,Men's Singles,Round 2,Margaret Court Arena,C,atpsa93,atpt786,ITA,FRA
+2011-ausopen-1213,2011,ausopen,1213,Jurgen Melzer,Pere Riba,Complete,1,Men's Singles,Round 2,Court 8,J,atpm762,atpr750,AUT,ESP
+2011-ausopen-1214,2011,ausopen,1214,Juan Martin Del Potro,Marcos Baghdatis,Complete,2,Men's Singles,Round 2,Rod Laver Arena,A,atpd683,atpb837,ARG,CYP
+2011-ausopen-1215,2011,ausopen,1215,Guillermo Garcia-Lopez,Eduardo Schwank,Complete,1,Men's Singles,Round 2,Court 8,J,atpg476,atpse66,ESP,ARG
+2011-ausopen-1216,2011,ausopen,1216,Illya Marchenko,Andy Murray,Complete,2,Men's Singles,Round 2,Margaret Court Arena,C,atpme89,atpmc10,UKR,GBR
+2011-ausopen-1217,2011,ausopen,1217,Tomas Berdych,Philipp Kohlschreiber,Complete,1,Men's Singles,Round 2,Margaret Court Arena,C,atpba47,atpk435,CZE,GER
+2011-ausopen-1218,2011,ausopen,1218,Adrian Mannarino,Richard Gasquet,Complete,2,Men's Singles,Round 2,Court 8,J,atpme82,atpg628,FRA,FRA
+2011-ausopen-1219,2011,ausopen,1219,Florian Mayer,Kei Nishikori,Complete,2,Men's Singles,Round 2,Court 6,H,atpmb02,atpn552,GER,JPN
+2011-ausopen-1220,2011,ausopen,1220,Janko Tipsarevic,Fernando Verdasco,Complete,2,Men's Singles,Round 2,Hisense Arena,B,atpt742,atpv306,SRB,ESP
+2011-ausopen-1221,2011,ausopen,1221,Nicolas Almagro,Igor Andreev,Complete,1,Men's Singles,Round 2,Show Court 3,E,atpa479,atpa511,ESP,RUS
+2011-ausopen-1222,2011,ausopen,1222,Benoit Paire,Ivan Ljubicic,Complete,2,Men's Singles,Round 2,Show Court 2,D,atppd31,atpl360,FRA,CRO
+2011-ausopen-1224,2011,ausopen,1224,Ivan Dodig,Novak Djokovic,Complete,2,Men's Singles,Round 2,Hisense Arena,B,atpd646,atpd643,CRO,SRB
+2011-ausopen-1225,2011,ausopen,1225,Andy Roddick,Igor Kunitsyn,Complete,1,Men's Singles,Round 2,Rod Laver Arena,A,atpr485,atpk403,USA,RUS
+2011-ausopen-1226,2011,ausopen,1226,Robin Haase,Juan Monaco,Complete,1,Men's Singles,Round 2,Court 6,H,atph756,atpma21,NED,ARG
+2011-ausopen-1227,2011,ausopen,1227,Stanislas Wawrinka,Grigor Dimitrov,Complete,1,Men's Singles,Round 2,Show Court 2,D,atpw367,atpd875,SUI,BUL
+2011-ausopen-1228,2011,ausopen,1228,Frederico Gil,Gael Monfils,Complete,2,Men's Singles,Round 2,Margaret Court Arena,C,atpg717,atpmc65,POR,FRA
+2011-ausopen-1229,2011,ausopen,1229,Mardy Fish,Tommy Robredo,Complete,2,Men's Singles,Round 2,Show Court 3,E,atpf339,atpr419,USA,ESP
+2011-ausopen-1230,2011,ausopen,1230,Sergiy Stakhovsky,Lukasz Kubot,Complete,1,Men's Singles,Round 2,Court 8,J,atpsc77,atpk540,UKR,POL
+2011-ausopen-1232,2011,ausopen,1232,Gilles Simon,Roger Federer,Complete,2,Men's Singles,Round 2,Rod Laver Arena,A,atpsd32,atpf324,FRA,SUI
+2011-ausopen-1301,2011,ausopen,1301,Rafael Nadal,Bernard Tomic,Complete,1,Men's Singles,Round 3,Rod Laver Arena,A,atpn409,atpta46,ESP,AUS
+2011-ausopen-1302,2011,ausopen,1302,John Isner,Marin Cilic,Complete,2,Men's Singles,Round 3,Margaret Court Arena,C,atpi186,atpc977,USA,CRO
+2011-ausopen-1303,2011,ausopen,1303,Mikhail Youzhny,Milos Raonic,Complete,2,Men's Singles,Round 3,Show Court 3,E,atpy061,atpr975,RUS,CAN
+2011-ausopen-1304,2011,ausopen,1304,Richard Berankis,David Ferrer,Complete,2,Men's Singles,Round 3,Show Court 2,D,atpbe90,atpf401,LTU,ESP
+2011-ausopen-1305,2011,ausopen,1305,Robin Soderling,Jan Hernych,Complete,1,Men's Singles,Round 3,Hisense Arena,B,atpsa49,atph442,SWE,CZE
+2011-ausopen-1306,2011,ausopen,1306,Alexandr Dolgopolov,Jo-Wilfried Tsonga,Complete,1,Men's Singles,Round 3,Margaret Court Arena,C,atpd801,atpt786,UKR,FRA
+2011-ausopen-1307,2011,ausopen,1307,Jurgen Melzer,Marcos Baghdatis,Retired,1,Men's Singles,Round 3,Hisense Arena,B,atpm762,atpb837,AUT,CYP
+2011-ausopen-1308,2011,ausopen,1308,Guillermo Garcia-Lopez,Andy Murray,Complete,2,Men's Singles,Round 3,Rod Laver Arena,A,atpg476,atpmc10,ESP,GBR
+2011-ausopen-1309,2011,ausopen,1309,Tomas Berdych,Richard Gasquet,Complete,1,Men's Singles,Round 3,Margaret Court Arena,C,atpba47,atpg628,CZE,FRA
+2011-ausopen-1310,2011,ausopen,1310,Kei Nishikori,Fernando Verdasco,Complete,2,Men's Singles,Round 3,Hisense Arena,B,atpn552,atpv306,JPN,ESP
+2011-ausopen-1311,2011,ausopen,1311,Nicolas Almagro,Ivan Ljubicic,Complete,1,Men's Singles,Round 3,Show Court 2,D,atpa479,atpl360,ESP,CRO
+2011-ausopen-1312,2011,ausopen,1312,Viktor Troicki,Novak Djokovic,Retired,2,Men's Singles,Round 3,Hisense Arena,B,atpt840,atpd643,SRB,SRB
+2011-ausopen-1313,2011,ausopen,1313,Andy Roddick,Robin Haase,Complete,1,Men's Singles,Round 3,Hisense Arena,B,atpr485,atph756,USA,NED
+2011-ausopen-1314,2011,ausopen,1314,Stanislas Wawrinka,Gael Monfils,Complete,1,Men's Singles,Round 3,Rod Laver Arena,A,atpw367,atpmc65,SUI,FRA
+2011-ausopen-1315,2011,ausopen,1315,Tommy Robredo,Sergiy Stakhovsky,Complete,1,Men's Singles,Round 3,Show Court 3,E,atpr419,atpsc77,ESP,UKR
+2011-ausopen-1316,2011,ausopen,1316,Xavier Malisse,Roger Federer,Complete,2,Men's Singles,Round 3,Rod Laver Arena,A,atpm680,atpf324,BEL,SUI
+2011-ausopen-1401,2011,ausopen,1401,Rafael Nadal,Marin Cilic,Complete,1,Men's Singles,Round 4,Rod Laver Arena,A,atpn409,atpc977,ESP,CRO
+2011-ausopen-1402,2011,ausopen,1402,Milos Raonic,David Ferrer,Complete,2,Men's Singles,Round 4,Hisense Arena,B,atpr975,atpf401,CAN,ESP
+2011-ausopen-1403,2011,ausopen,1403,Robin Soderling,Alexandr Dolgopolov,Complete,2,Men's Singles,Round 4,Rod Laver Arena,A,atpsa49,atpd801,SWE,UKR
+2011-ausopen-1404,2011,ausopen,1404,Jurgen Melzer,Andy Murray,Complete,2,Men's Singles,Round 4,Rod Laver Arena,A,atpm762,atpmc10,AUT,GBR
+2011-ausopen-1405,2011,ausopen,1405,Tomas Berdych,Fernando Verdasco,Complete,1,Men's Singles,Round 4,Margaret Court Arena,C,atpba47,atpv306,CZE,ESP
+2011-ausopen-1406,2011,ausopen,1406,Nicolas Almagro,Novak Djokovic,Complete,2,Men's Singles,Round 4,Hisense Arena,B,atpa479,atpd643,ESP,SRB
+2011-ausopen-1407,2011,ausopen,1407,Andy Roddick,Stanislas Wawrinka,Complete,2,Men's Singles,Round 4,Rod Laver Arena,A,atpr485,atpw367,USA,SUI
+2011-ausopen-1408,2011,ausopen,1408,Tommy Robredo,Roger Federer,Complete,2,Men's Singles,Round 4,Rod Laver Arena,A,atpr419,atpf324,ESP,SUI
+2011-ausopen-1501,2011,ausopen,1501,Rafael Nadal,David Ferrer,Complete,2,Men's Singles,Quarters,Rod Laver Arena,A,atpn409,atpf401,ESP,ESP
+2011-ausopen-1502,2011,ausopen,1502,Alexandr Dolgopolov,Andy Murray,Complete,2,Men's Singles,Quarters,Rod Laver Arena,A,atpd801,atpmc10,UKR,GBR
+2011-ausopen-1503,2011,ausopen,1503,Tomas Berdych,Novak Djokovic,Complete,2,Men's Singles,Quarters,Rod Laver Arena,A,atpba47,atpd643,CZE,SRB
+2011-ausopen-1504,2011,ausopen,1504,Stanislas Wawrinka,Roger Federer,Complete,2,Men's Singles,Quarters,Rod Laver Arena,A,atpw367,atpf324,SUI,SUI
+2011-ausopen-1601,2011,ausopen,1601,David Ferrer,Andy Murray,Complete,2,Men's Singles,Semis,Rod Laver Arena,A,atpf401,atpmc10,ESP,GBR
+2011-ausopen-1602,2011,ausopen,1602,Novak Djokovic,Roger Federer,Complete,1,Men's Singles,Semis,Rod Laver Arena,A,atpd643,atpf324,SRB,SUI
+2011-ausopen-1701,2011,ausopen,1701,Andy Murray,Novak Djokovic,Complete,2,Men's Singles,Final,Rod Laver Arena,A,atpmc10,atpd643,GBR,SRB
+2011-ausopen-2101,2011,ausopen,2101,Caroline Wozniacki,Gisela Dulko,Complete,1,Women's Singles,Round 1,Rod Laver Arena,A,wta313402,wta040388,DEN,ARG
+2011-ausopen-2105,2011,ausopen,2105,Yanina Wickmayer,Jarmila Groth,Complete,1,Women's Singles,Round 1,Rod Laver Arena,A,wta312536,wta310169,BEL,AUS
+2011-ausopen-2108,2011,ausopen,2108,Tathiana Garbin,Marion Bartoli,Complete,2,Women's Singles,Round 1,Court 6,H,wta030348,wta020631,ITA,FRA
+2011-ausopen-2109,2011,ausopen,2109,Justine Henin,Sania Mirza,Complete,1,Women's Singles,Round 1,Hisense Arena,B,wta080350,wta310112,BEL,IND
+2011-ausopen-2111,2011,ausopen,2111,Bethanie Mattek-Sands,Arantxa Rus,Complete,2,Women's Singles,Round 1,Court 8,J,wta130713,wta313349,USA,NED
+2011-ausopen-2112,2011,ausopen,2112,Alison Riske,Svetlana Kuznetsova,Complete,2,Women's Singles,Round 1,Show Court 3,E,wta312850,wta110552,USA,RUS
+2011-ausopen-2115,2011,ausopen,2115,Rebecca Marino,Junri Namigata,Complete,1,Women's Singles,Round 1,Court 6,H,wta313485,wta140195,CAN,JPN
+2011-ausopen-2116,2011,ausopen,2116,Arantxa Parra Santonja,Francesca Schiavone,Complete,2,Women's Singles,Round 1,Margaret Court Arena,C,wta160451,wta190666,ESP,ITA
+2011-ausopen-2117,2011,ausopen,2117,Venus Williams,Sara Errani,Complete,1,Women's Singles,Round 1,Hisense Arena,B,wta230220,wta310761,USA,ITA
+2011-ausopen-2123,2011,ausopen,2123,Elena Vesnina,Virginie Razzano,Complete,2,Women's Singles,Round 1,Court 8,J,wta311220,wta180384,RUS,FRA
+2011-ausopen-2124,2011,ausopen,2124,Tamarine Tanasugarn,Maria Sharapova,Complete,2,Women's Singles,Round 1,Rod Laver Arena,A,wta200137,wta310137,THA,RUS
+2011-ausopen-2125,2011,ausopen,2125,Na Li,Sofia Arvidsson,Complete,1,Women's Singles,Round 1,Show Court 2,D,wta120330,wta010334,CHN,SWE
+2011-ausopen-2126,2011,ausopen,2126,Evgeniya Rodina,Olivia Rogowska,Complete,1,Women's Singles,Round 1,Show Court 3,E,wta312584,wta313803,RUS,AUS
+2011-ausopen-2127,2011,ausopen,2127,Zuzana Ondraskova,Jelena Dokic,Complete,2,Women's Singles,Round 1,Margaret Court Arena,C,wta150017,wta040344,CZE,AUS
+2011-ausopen-2129,2011,ausopen,2129,Daniela Hantuchova,Regina Kulikova,Complete,2,Women's Singles,Round 1,Margaret Court Arena,C,wta080394,wta311436,SVK,RUS
+2011-ausopen-2132,2011,ausopen,2132,Kathrin Woerle,Victoria Azarenka,Complete,2,Women's Singles,Round 1,Show Court 2,D,wta230279,wta312001,GER,BLR
+2011-ausopen-2133,2011,ausopen,2133,Jelena Jankovic,Alla Kudryavtseva,Complete,1,Women's Singles,Round 1,Hisense Arena,B,wta100153,wta311362,SRB,RUS
+2011-ausopen-2134,2011,ausopen,2134,Kateryna Bondarenko,Shuai Peng,Complete,2,Women's Singles,Round 1,Court 8,J,wta020702,wta160471,UKR,CHN
+2011-ausopen-2135,2011,ausopen,2135,Caroline Garcia,Varvara Lepchenko,Complete,1,Women's Singles,Round 1,Court 8,J,wta315391,wta120420,FRA,USA
+2011-ausopen-2136,2011,ausopen,2136,Ayumi Morita,Alexandra Dulgheru,Complete,1,Women's Singles,Round 1,Court 6,H,wta312848,wta312712,JPN,ROU
+2011-ausopen-2139,2011,ausopen,2139,Sophie Ferguson,Petra Martic,Complete,2,Women's Singles,Round 1,Show Court 3,E,wta310731,wta313711,AUS,CRO
+2011-ausopen-2140,2011,ausopen,2140,Kimiko Date-Krumm,Agnieszka Radwanska,Complete,2,Women's Singles,Round 1,Court 6,H,wta040130,wta312251,JPN,POL
+2011-ausopen-2142,2011,ausopen,2142,Alicia Molik,Roberta Vinci,Complete,1,Women's Singles,Round 1,Rod Laver Arena,A,wta130548,wta220214,AUS,ITA
+2011-ausopen-2144,2011,ausopen,2144,Ekaterina Makarova,Ana Ivanovic,Complete,1,Women's Singles,Round 1,Hisense Arena,B,wta311604,wta311710,RUS,SRB
+2011-ausopen-2148,2011,ausopen,2148,Dinara Safina,Kim Clijsters,Complete,2,Women's Singles,Round 1,Rod Laver Arena,A,wta190950,wta030458,RUS,BEL
+2011-ausopen-2149,2011,ausopen,2149,Samantha Stosur,Lauren Davis,Complete,1,Women's Singles,Round 1,Rod Laver Arena,A,wta190787,wta317414,AUS,USA
+2011-ausopen-2152,2011,ausopen,2152,Sally Peers,Petra Kvitova,Complete,2,Women's Singles,Round 1,Show Court 2,D,wta314726,wta314206,AUS,CZE
+2011-ausopen-2153,2011,ausopen,2153,Flavia Pennetta,Anastasia Rodionova,Complete,1,Women's Singles,Round 1,Margaret Court Arena,C,wta160391,wta180356,ITA,AUS
+2011-ausopen-2156,2011,ausopen,2156,Mathilde Johansson,Shahar Peer,Complete,2,Women's Singles,Round 1,Show Court 2,D,wta100162,wta311168,FRA,ISR
+2011-ausopen-2157,2011,ausopen,2157,Anastasia Pavlyuchenkova,Kirsten Flipkens,Complete,1,Women's Singles,Round 1,Court 8,J,wta313796,wta310331,RUS,BEL
+2011-ausopen-2164,2011,ausopen,2164,Sybille Bammer,Vera Zvonareva,Complete,2,Women's Singles,Round 1,Rod Laver Arena,A,wta020463,wta260142,AUT,RUS
+2011-ausopen-2201,2011,ausopen,2201,Caroline Wozniacki,Vania King,Complete,1,Women's Singles,Round 2,Hisense Arena,B,wta313402,wta311550,DEN,USA
+2011-ausopen-2203,2011,ausopen,2203,Yanina Wickmayer,Anastasija Sevastova,Complete,2,Women's Singles,Round 2,Show Court 3,E,wta312536,wta313987,BEL,LAT
+2011-ausopen-2204,2011,ausopen,2204,Vesna Manasieva,Marion Bartoli,Complete,1,Women's Singles,Round 2,Show Court 2,D,wta313653,wta020631,RUS,FRA
+2011-ausopen-2205,2011,ausopen,2205,Justine Henin,Elena Baltacha,Complete,1,Women's Singles,Round 2,Rod Laver Arena,A,wta080350,wta020556,BEL,GBR
+2011-ausopen-2206,2011,ausopen,2206,Arantxa Rus,Svetlana Kuznetsova,Complete,2,Women's Singles,Round 2,Show Court 2,D,wta313349,wta110552,NED,RUS
+2011-ausopen-2207,2011,ausopen,2207,Tsvetana Pironkova,Monica Niculescu,Complete,2,Women's Singles,Round 2,Court 6,H,wta311041,wta310775,BUL,ROU
+2011-ausopen-2208,2011,ausopen,2208,Rebecca Marino,Francesca Schiavone,Complete,2,Women's Singles,Round 2,Margaret Court Arena,C,wta313485,wta190666,CAN,ITA
+2011-ausopen-2209,2011,ausopen,2209,Venus Williams,Sandra Zahlavova,Complete,1,Women's Singles,Round 2,Rod Laver Arena,A,wta230220,wta260158,USA,CZE
+2011-ausopen-2210,2011,ausopen,2210,Anne Keothavong,Andrea Petkovic,Complete,2,Women's Singles,Round 2,Show Court 3,E,wta110524,wta310770,GBR,GER
+2011-ausopen-2211,2011,ausopen,2211,Kaia Kanepi,Julia Goerges,Complete,2,Women's Singles,Round 2,Court 8,J,wta110536,wta313381,EST,GER
+2011-ausopen-2212,2011,ausopen,2212,Virginie Razzano,Maria Sharapova,Complete,2,Women's Singles,Round 2,Hisense Arena,B,wta180384,wta310137,FRA,RUS
+2011-ausopen-2213,2011,ausopen,2213,Na Li,Evgeniya Rodina,Complete,1,Women's Singles,Round 2,Margaret Court Arena,C,wta120330,wta312584,CHN,RUS
+2011-ausopen-2214,2011,ausopen,2214,Jelena Dokic,Barbora Zahlavova Strycova,Complete,2,Women's Singles,Round 2,Rod Laver Arena,A,wta040344,wta190879,AUS,CZE
+2011-ausopen-2216,2011,ausopen,2216,Andrea Hlavackova,Victoria Azarenka,Complete,2,Women's Singles,Round 2,Margaret Court Arena,C,wta080459,wta312001,CZE,BLR
+2011-ausopen-2217,2011,ausopen,2217,Jelena Jankovic,Shuai Peng,Complete,2,Women's Singles,Round 2,Hisense Arena,B,wta100153,wta160471,SRB,CHN
+2011-ausopen-2218,2011,ausopen,2218,Caroline Garcia,Ayumi Morita,Complete,2,Women's Singles,Round 2,Court 6,H,wta315391,wta312848,FRA,JPN
+2011-ausopen-2219,2011,ausopen,2219,Alisa Kleybanova,Simona Halep,Complete,2,Women's Singles,Round 2,Court 8,J,wta311777,wta314320,RUS,ROU
+2011-ausopen-2220,2011,ausopen,2220,Petra Martic,Agnieszka Radwanska,Complete,2,Women's Singles,Round 2,Show Court 2,D,wta313711,wta312251,CRO,POL
+2011-ausopen-2221,2011,ausopen,2221,Nadia Petrova,Alicia Molik,Complete,1,Women's Singles,Round 2,Rod Laver Arena,A,wta160379,wta130548,RUS,AUS
+2011-ausopen-2222,2011,ausopen,2222,Lesya Tsurenko,Ekaterina Makarova,Complete,2,Women's Singles,Round 2,Court 6,H,wta315295,wta311604,UKR,RUS
+2011-ausopen-2223,2011,ausopen,2223,Maria Jose Martinez Sanchez,Alize Cornet,Complete,2,Women's Singles,Round 2,Show Court 3,E,wta130591,wta312121,ESP,FRA
+2011-ausopen-2224,2011,ausopen,2224,Carla Suarez Navarro,Kim Clijsters,Complete,2,Women's Singles,Round 2,Rod Laver Arena,A,wta311338,wta030458,ESP,BEL
+2011-ausopen-2225,2011,ausopen,2225,Samantha Stosur,Vera Dushevina,Complete,1,Women's Singles,Round 2,Rod Laver Arena,A,wta190787,wta310625,AUS,RUS
+2011-ausopen-2227,2011,ausopen,2227,Flavia Pennetta,Lourdes Dominguez Lino,Complete,1,Women's Singles,Round 2,Show Court 2,D,wta160391,wta040300,ITA,ESP
+2011-ausopen-2228,2011,ausopen,2228,Sorana Cirstea,Shahar Peer,Complete,2,Women's Singles,Round 2,Margaret Court Arena,C,wta312469,wta311168,ROU,ISR
+2011-ausopen-2229,2011,ausopen,2229,Anastasia Pavlyuchenkova,Kristina Barrois,Complete,1,Women's Singles,Round 2,Show Court 3,E,wta313796,wta312578,RUS,GER
+2011-ausopen-2230,2011,ausopen,2230,Iveta Benesova,Maria Kirilenko,Complete,1,Women's Singles,Round 2,Margaret Court Arena,C,wta020576,wta310577,CZE,RUS
+2011-ausopen-2231,2011,ausopen,2231,Lucie Safarova,Klara Zakopalova,Complete,1,Women's Singles,Round 2,Margaret Court Arena,C,wta310553,wta110492,CZE,CZE
+2011-ausopen-2232,2011,ausopen,2232,Bojana Jovanovski,Vera Zvonareva,Complete,2,Women's Singles,Round 2,Hisense Arena,B,wta314369,wta260142,SRB,RUS
+2011-ausopen-2301,2011,ausopen,2301,Caroline Wozniacki,Dominika Cibulkova,Complete,1,Women's Singles,Round 3,Rod Laver Arena,A,wta313402,wta312894,DEN,SVK
+2011-ausopen-2302,2011,ausopen,2302,Anastasija Sevastova,Vesna Manasieva,Complete,1,Women's Singles,Round 3,Show Court 3,E,wta313987,wta313653,LAT,RUS
+2011-ausopen-2303,2011,ausopen,2303,Justine Henin,Svetlana Kuznetsova,Complete,2,Women's Singles,Round 3,Rod Laver Arena,A,wta080350,wta110552,BEL,RUS
+2011-ausopen-2304,2011,ausopen,2304,Monica Niculescu,Francesca Schiavone,Complete,2,Women's Singles,Round 3,Margaret Court Arena,C,wta310775,wta190666,ROU,ITA
+2011-ausopen-2305,2011,ausopen,2305,Venus Williams,Andrea Petkovic,Retired,2,Women's Singles,Round 3,Rod Laver Arena,A,wta230220,wta310770,USA,GER
+2011-ausopen-2306,2011,ausopen,2306,Julia Goerges,Maria Sharapova,Complete,2,Women's Singles,Round 3,Hisense Arena,B,wta313381,wta310137,GER,RUS
+2011-ausopen-2307,2011,ausopen,2307,Na Li,Barbora Zahlavova Strycova,Complete,1,Women's Singles,Round 3,Margaret Court Arena,C,wta120330,wta190879,CHN,CZE
+2011-ausopen-2308,2011,ausopen,2308,Chanelle Scheepers,Victoria Azarenka,Complete,2,Women's Singles,Round 3,Show Court 2,D,wta190873,wta312001,RSA,BLR
+2011-ausopen-2309,2011,ausopen,2309,Shuai Peng,Ayumi Morita,Complete,1,Women's Singles,Round 3,Show Court 3,E,wta160471,wta312848,CHN,JPN
+2011-ausopen-2310,2011,ausopen,2310,Simona Halep,Agnieszka Radwanska,Complete,2,Women's Singles,Round 3,Margaret Court Arena,C,wta314320,wta312251,ROU,POL
+2011-ausopen-2311,2011,ausopen,2311,Nadia Petrova,Ekaterina Makarova,Complete,2,Women's Singles,Round 3,Show Court 2,D,wta160379,wta311604,RUS,RUS
+2011-ausopen-2312,2011,ausopen,2312,Alize Cornet,Kim Clijsters,Complete,2,Women's Singles,Round 3,Rod Laver Arena,A,wta312121,wta030458,FRA,BEL
+2011-ausopen-2313,2011,ausopen,2313,Samantha Stosur,Petra Kvitova,Complete,2,Women's Singles,Round 3,Rod Laver Arena,A,wta190787,wta314206,AUS,CZE
+2011-ausopen-2314,2011,ausopen,2314,Flavia Pennetta,Shahar Peer,Complete,1,Women's Singles,Round 3,Hisense Arena,B,wta160391,wta311168,ITA,ISR
+2011-ausopen-2315,2011,ausopen,2315,Anastasia Pavlyuchenkova,Iveta Benesova,Complete,2,Women's Singles,Round 3,Hisense Arena,B,wta313796,wta020576,RUS,CZE
+2011-ausopen-2316,2011,ausopen,2316,Lucie Safarova,Vera Zvonareva,Complete,2,Women's Singles,Round 3,Rod Laver Arena,A,wta310553,wta260142,CZE,RUS
+2011-ausopen-2401,2011,ausopen,2401,Caroline Wozniacki,Anastasija Sevastova,Complete,1,Women's Singles,Round 4,Rod Laver Arena,A,wta313402,wta313987,DEN,LAT
+2011-ausopen-2402,2011,ausopen,2402,Svetlana Kuznetsova,Francesca Schiavone,Complete,2,Women's Singles,Round 4,Hisense Arena,B,wta110552,wta190666,RUS,ITA
+2011-ausopen-2403,2011,ausopen,2403,Andrea Petkovic,Maria Sharapova,Complete,1,Women's Singles,Round 4,Rod Laver Arena,A,wta310770,wta310137,GER,RUS
+2011-ausopen-2404,2011,ausopen,2404,Na Li,Victoria Azarenka,Complete,1,Women's Singles,Round 4,Rod Laver Arena,A,wta120330,wta312001,CHN,BLR
+2011-ausopen-2405,2011,ausopen,2405,Shuai Peng,Agnieszka Radwanska,Complete,2,Women's Singles,Round 4,Margaret Court Arena,C,wta160471,wta312251,CHN,POL
+2011-ausopen-2406,2011,ausopen,2406,Ekaterina Makarova,Kim Clijsters,Complete,2,Women's Singles,Round 4,Rod Laver Arena,A,wta311604,wta030458,RUS,BEL
+2011-ausopen-2407,2011,ausopen,2407,Petra Kvitova,Flavia Pennetta,Complete,1,Women's Singles,Round 4,Hisense Arena,B,wta314206,wta160391,CZE,ITA
+2011-ausopen-2408,2011,ausopen,2408,Iveta Benesova,Vera Zvonareva,Complete,2,Women's Singles,Round 4,Hisense Arena,B,wta020576,wta260142,CZE,RUS
+2011-ausopen-2501,2011,ausopen,2501,Caroline Wozniacki,Francesca Schiavone,Complete,1,Women's Singles,Quarters,Rod Laver Arena,A,wta313402,wta190666,DEN,ITA
+2011-ausopen-2502,2011,ausopen,2502,Andrea Petkovic,Na Li,Complete,2,Women's Singles,Quarters,Rod Laver Arena,A,wta310770,wta120330,GER,CHN
+2011-ausopen-2503,2011,ausopen,2503,Agnieszka Radwanska,Kim Clijsters,Complete,2,Women's Singles,Quarters,Rod Laver Arena,A,wta312251,wta030458,POL,BEL
+2011-ausopen-2504,2011,ausopen,2504,Petra Kvitova,Vera Zvonareva,Complete,2,Women's Singles,Quarters,Rod Laver Arena,A,wta314206,wta260142,CZE,RUS
+2011-ausopen-2601,2011,ausopen,2601,Caroline Wozniacki,Na Li,Complete,2,Women's Singles,Semis,Rod Laver Arena,A,wta313402,wta120330,DEN,CHN
+2011-ausopen-2602,2011,ausopen,2602,Kim Clijsters,Vera Zvonareva,Complete,1,Women's Singles,Semis,Rod Laver Arena,A,wta030458,wta260142,BEL,RUS
+2011-ausopen-2701,2011,ausopen,2701,Na Li,Kim Clijsters,Complete,2,Women's Singles,Final,Rod Laver Arena,A,wta120330,wta030458,CHN,BEL

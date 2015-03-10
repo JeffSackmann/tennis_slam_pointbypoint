@@ -1,0 +1,162 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2
+2011-usopen-1101,2011,usopen,1101,Novak Djokovic,Conor Niland,Retired,1,event_MS,round_1,Arthur Ashe Stadium,A,atpd643,atpn349,SRB,IRL
+2011-usopen-1108,2011,usopen,1108,Sergiy Stakhovsky,Richard Gasquet,Complete,2,event_MS,round_1,Court 17,Q,atpsc77,atpg628,UKR,FRA
+2011-usopen-1109,2011,usopen,1109,Tomas Berdych,Romain Jouan,Complete,1,event_MS,round_1,Grandstand,C,atpba47,atpj338,CZE,FRA
+2011-usopen-1116,2011,usopen,1116,Grigor Dimitrov,Gael Monfils,Complete,2,event_MS,round_1,Louis Armstrong Stadium,B,atpd875,atpmc65,BUL,FRA
+2011-usopen-1117,2011,usopen,1117,Roger Federer,Santiago Giraldo,Complete,1,event_MS,round_1,Arthur Ashe Stadium,A,atpf324,atpg725,SUI,COL
+2011-usopen-1120,2011,usopen,1120,Ryan Harrison,Marin Cilic,Complete,2,event_MS,round_1,Louis Armstrong Stadium,B,atph940,atpc977,USA,CRO
+2011-usopen-1123,2011,usopen,1123,Tommy Haas,Jonathan Dasnieres De Veigy,Complete,1,event_MS,round_1,Court 17,Q,atph355,atpd729,GER,FRA
+2011-usopen-1124,2011,usopen,1124,Alejandro Falla,Viktor Troicki,Complete,1,event_MS,round_1,Grandstand,C,atpf444,atpt840,COL,SRB
+2011-usopen-1125,2011,usopen,1125,Jo-Wilfried Tsonga,Yen-Hsun Lu,Complete,1,event_MS,round_1,Grandstand,C,atpt786,atpl575,FRA,TPE
+2011-usopen-1128,2011,usopen,1128,Jarkko Nieminen,Fernando Verdasco,Complete,2,event_MS,round_1,Grandstand,C,atpn289,atpv306,FIN,ESP
+2011-usopen-1132,2011,usopen,1132,Tobias Kamke,Mardy Fish,Complete,2,event_MS,round_1,Arthur Ashe Stadium,A,atpk839,atpf339,GER,USA
+2011-usopen-1133,2011,usopen,1133,Rogerio Dutra Da Silva,Louk Sorensen,Retired,1,event_MS,round_1,Grandstand,C,atpsc73,atpsd69,BRA,IRL
+2011-usopen-1134,2011,usopen,1134,Alex Bogomolov Jr.,Steve Johnson,Complete,1,event_MS,round_1,Court 11,K,atpb842,atpj386,USA,USA
+2011-usopen-1135,2011,usopen,1135,Robby Ginepri,Joao Souza,Complete,1,event_MS,round_1,Grandstand,C,atpg569,atpsg64,USA,BRA
+2011-usopen-1136,2011,usopen,1136,Marcos Baghdatis,John Isner,Complete,2,event_MS,round_1,Louis Armstrong Stadium,B,atpb837,atpi186,CYP,USA
+2011-usopen-1137,2011,usopen,1137,Juan Martin Del Potro,Filippo Volandri,Complete,1,event_MS,round_1,Louis Armstrong Stadium,B,atpd683,atpv254,ARG,ITA
+2011-usopen-1140,2011,usopen,1140,Ricardo Mello,Gilles Simon,Complete,2,event_MS,round_1,Court 13,M,atpm708,atpsd32,BRA,FRA
+2011-usopen-1142,2011,usopen,1142,Donald Young,Lukas Lacko,Complete,1,event_MS,round_1,Court 17,Q,atpy124,atpl797,USA,SVK
+2011-usopen-1144,2011,usopen,1144,Marinko Matosevic,Juan Ignacio Chela,Retired,2,event_MS,round_1,Court 13,M,atpme05,atpc514,AUS,ARG
+2011-usopen-1145,2011,usopen,1145,Feliciano Lopez,Tatsuma Ito,Complete,1,event_MS,round_1,Court 11,K,atpl397,atpi230,ESP,JPN
+2011-usopen-1148,2011,usopen,1148,Somdev Devvarman,Andy Murray,Complete,2,event_MS,round_1,Arthur Ashe Stadium,A,atpd616,atpmc10,IND,GBR
+2011-usopen-1149,2011,usopen,1149,David Ferrer,Igor Andreev,Complete,1,event_MS,round_1,Louis Armstrong Stadium,B,atpf401,atpa511,ESP,RUS
+2011-usopen-1150,2011,usopen,1150,James Blake,Jesse Huta Galung,Complete,1,event_MS,round_1,Louis Armstrong Stadium,B,atpb676,atph704,USA,NED
+2011-usopen-1152,2011,usopen,1152,Adrian Mannarino,Florian Mayer,Complete,2,event_MS,round_1,Court 11,K,atpme82,atpmb02,FRA,GER
+2011-usopen-1153,2011,usopen,1153,Andy Roddick,Michael Russell,Complete,1,event_MS,round_1,Arthur Ashe Stadium,A,atpr485,atpr368,USA,USA
+2011-usopen-1154,2011,usopen,1154,Jack Sock,Marc Gicquel,Complete,1,event_MS,round_1,Court 17,Q,atpsm25,atpg436,USA,FRA
+2011-usopen-1156,2011,usopen,1156,Julien Benneteau,Nicolas Almagro,Complete,1,event_MS,round_1,Court 17,Q,atpb747,atpa479,FRA,ESP
+2011-usopen-1157,2011,usopen,1157,Mikhail Youzhny,Ernests Gulbis,Complete,2,event_MS,round_1,Court 11,K,atpy061,atpg858,RUS,LAT
+2011-usopen-1162,2011,usopen,1162,Bobby Reynolds,David Nalbandian,Complete,2,event_MS,round_1,Court 17,Q,atpr483,atpn301,USA,ARG
+2011-usopen-1164,2011,usopen,1164,Andrey Golubev,Rafael Nadal,Complete,2,event_MS,round_1,Arthur Ashe Stadium,A,atpg806,atpn409,KAZ,ESP
+2011-usopen-1201,2011,usopen,1201,Novak Djokovic,Carlos Berlocq,Complete,1,event_MS,round_2,Arthur Ashe Stadium,A,atpd643,atpb884,SRB,ARG
+2011-usopen-1204,2011,usopen,1204,Ivo Karlovic,Richard Gasquet,Complete,1,event_MS,round_2,Court 11,K,atpk336,atpg628,CRO,FRA
+2011-usopen-1205,2011,usopen,1205,Tomas Berdych,Fabio Fognini,Complete,1,event_MS,round_2,Grandstand,C,atpba47,atpf510,CZE,ITA
+2011-usopen-1206,2011,usopen,1206,Philipp Petzschner,Janko Tipsarevic,Complete,2,event_MS,round_2,Court 11,K,atpp624,atpt742,GER,SRB
+2011-usopen-1208,2011,usopen,1208,Juan Carlos Ferrero,Gael Monfils,Complete,1,event_MS,round_2,Louis Armstrong Stadium,B,atpf316,atpmc65,ESP,FRA
+2011-usopen-1209,2011,usopen,1209,Roger Federer,Dudi Sela,Complete,1,event_MS,round_2,Arthur Ashe Stadium,A,atpf324,atpsc56,SUI,ISR
+2011-usopen-1210,2011,usopen,1210,Bernard Tomic,Marin Cilic,Complete,2,event_MS,round_2,Court 17,Q,atpta46,atpc977,AUS,CRO
+2011-usopen-1211,2011,usopen,1211,Radek Stepanek,Juan Monaco,Retired,2,event_MS,round_2,Court 17,Q,atps694,atpma21,CZE,ARG
+2011-usopen-1212,2011,usopen,1212,Tommy Haas,Alejandro Falla,Complete,1,event_MS,round_2,Court 13,M,atph355,atpf444,GER,COL
+2011-usopen-1213,2011,usopen,1213,Jo-Wilfried Tsonga,Sergei Bubka,Complete,1,event_MS,round_2,Grandstand,C,atpt786,atpbc11,FRA,UKR
+2011-usopen-1214,2011,usopen,1214,Marsel Ilhan,Fernando Verdasco,Complete,2,event_MS,round_2,Court 13,M,atpk771,atpv306,TUR,ESP
+2011-usopen-1216,2011,usopen,1216,Malek Jaziri,Mardy Fish,Complete,2,event_MS,round_2,Louis Armstrong Stadium,B,atpj267,atpf339,TUN,USA
+2011-usopen-1217,2011,usopen,1217,Rogerio Dutra Da Silva,Alex Bogomolov Jr.,Complete,2,event_MS,round_2,Court 17,Q,atpsc73,atpb842,BRA,USA
+2011-usopen-1218,2011,usopen,1218,Robby Ginepri,John Isner,Complete,2,event_MS,round_2,Louis Armstrong Stadium,B,atpg569,atpi186,USA,USA
+2011-usopen-1219,2011,usopen,1219,Juan Martin Del Potro,Diego Junqueira,Complete,1,event_MS,round_2,Grandstand,C,atpd683,atpj214,ARG,ARG
+2011-usopen-1220,2011,usopen,1220,Guillermo Garcia-Lopez,Gilles Simon,Complete,2,event_MS,round_2,Court 11,K,atpg476,atpsd32,ESP,FRA
+2011-usopen-1221,2011,usopen,1221,Stanislas Wawrinka,Donald Young,Complete,2,event_MS,round_2,Court 17,Q,atpw367,atpy124,SUI,USA
+2011-usopen-1224,2011,usopen,1224,Robin Haase,Andy Murray,Complete,2,event_MS,round_2,Louis Armstrong Stadium,B,atph756,atpmc10,NED,GBR
+2011-usopen-1225,2011,usopen,1225,David Ferrer,James Blake,Complete,1,event_MS,round_2,Grandstand,C,atpf401,atpb676,ESP,USA
+2011-usopen-1226,2011,usopen,1226,Jean-Rene Lisnard,Florian Mayer,Complete,2,event_MS,round_2,Court 11,K,atpl386,atpmb02,MON,GER
+2011-usopen-1227,2011,usopen,1227,Andy Roddick,Jack Sock,Complete,1,event_MS,round_2,Arthur Ashe Stadium,A,atpr485,atpsm25,USA,USA
+2011-usopen-1228,2011,usopen,1228,Denis Istomin,Julien Benneteau,Complete,2,event_MS,round_2,Court 13,M,atpi165,atpb747,UZB,FRA
+2011-usopen-1231,2011,usopen,1231,Ivan Ljubicic,David Nalbandian,Complete,2,event_MS,round_2,Court 13,M,atpl360,atpn301,CRO,ARG
+2011-usopen-1232,2011,usopen,1232,Nicolas Mahut,Rafael Nadal,Retired,2,event_MS,round_2,Arthur Ashe Stadium,A,atpm873,atpn409,FRA,ESP
+2011-usopen-1301,2011,usopen,1301,Novak Djokovic,Nikolay Davydenko,Complete,1,event_MS,round_3,Arthur Ashe Stadium,A,atpd643,atpd402,SRB,RUS
+2011-usopen-1302,2011,usopen,1302,Alexandr Dolgopolov,Ivo Karlovic,Complete,1,event_MS,round_3,Court 17,Q,atpd801,atpk336,UKR,CRO
+2011-usopen-1303,2011,usopen,1303,Tomas Berdych,Janko Tipsarevic,Retired,2,event_MS,round_3,Louis Armstrong Stadium,B,atpba47,atpt742,CZE,SRB
+2011-usopen-1304,2011,usopen,1304,Marcel Granollers,Juan Carlos Ferrero,Retired,2,event_MS,round_3,Court 17,Q,atpg710,atpf316,ESP,ESP
+2011-usopen-1305,2011,usopen,1305,Roger Federer,Marin Cilic,Complete,1,event_MS,round_3,Arthur Ashe Stadium,A,atpf324,atpc977,SUI,CRO
+2011-usopen-1306,2011,usopen,1306,Juan Monaco,Tommy Haas,Complete,1,event_MS,round_3,Grandstand,C,atpma21,atph355,ARG,GER
+2011-usopen-1307,2011,usopen,1307,Jo-Wilfried Tsonga,Fernando Verdasco,Complete,1,event_MS,round_3,Grandstand,C,atpt786,atpv306,FRA,ESP
+2011-usopen-1308,2011,usopen,1308,Kevin Anderson,Mardy Fish,Complete,2,event_MS,round_3,Louis Armstrong Stadium,B,atpa678,atpf339,RSA,USA
+2011-usopen-1309,2011,usopen,1309,Alex Bogomolov Jr.,John Isner,Complete,2,event_MS,round_3,Louis Armstrong Stadium,B,atpb842,atpi186,USA,USA
+2011-usopen-1310,2011,usopen,1310,Juan Martin Del Potro,Gilles Simon,Complete,2,event_MS,round_3,Louis Armstrong Stadium,B,atpd683,atpsd32,ARG,FRA
+2011-usopen-1311,2011,usopen,1311,Donald Young,Juan Ignacio Chela,Complete,1,event_MS,round_3,Grandstand,C,atpy124,atpc514,USA,ARG
+2011-usopen-1312,2011,usopen,1312,Feliciano Lopez,Andy Murray,Complete,2,event_MS,round_3,Arthur Ashe Stadium,A,atpl397,atpmc10,ESP,GBR
+2011-usopen-1313,2011,usopen,1313,David Ferrer,Florian Mayer,In Progress,1,event_MS,round_3,Court 17,Q,atpf401,atpmb02,ESP,GER
+2011-usopen-1314,2011,usopen,1314,Andy Roddick,Julien Benneteau,Complete,1,event_MS,round_3,Arthur Ashe Stadium,A,atpr485,atpb747,USA,FRA
+2011-usopen-1315,2011,usopen,1315,Gilles Muller,Igor Kunitsyn,Complete,1,event_MS,round_3,Grandstand,C,atpma30,atpk403,LUX,RUS
+2011-usopen-1316,2011,usopen,1316,David Nalbandian,Rafael Nadal,Complete,2,event_MS,round_3,Arthur Ashe Stadium,A,atpn301,atpn409,ARG,ESP
+2011-usopen-1401,2011,usopen,1401,Novak Djokovic,Alexandr Dolgopolov,Complete,1,event_MS,round_4,Louis Armstrong Stadium,B,atpd643,atpd801,SRB,UKR
+2011-usopen-1402,2011,usopen,1402,Janko Tipsarevic,Juan Carlos Ferrero,In Progress,1,event_MS,round_4,Louis Armstrong Stadium,B,atpt742,atpf316,SRB,ESP
+2011-usopen-1403,2011,usopen,1403,Roger Federer,Juan Monaco,Complete,1,event_MS,round_4,Arthur Ashe Stadium,A,atpf324,atpma21,SUI,ARG
+2011-usopen-1404,2011,usopen,1404,Jo-Wilfried Tsonga,Mardy Fish,Complete,1,event_MS,round_4,Arthur Ashe Stadium,A,atpt786,atpf339,FRA,USA
+2011-usopen-1406,2011,usopen,1406,Donald Young,Andy Murray,Complete,2,event_MS,round_4,Grandstand,C,atpy124,atpmc10,USA,GBR
+2011-usopen-1407,2011,usopen,1407,David Ferrer,Andy Roddick,Complete,2,event_MS,round_4,Court 13,M,atpf401,atpr485,ESP,USA
+2011-usopen-1408,2011,usopen,1408,Gilles Muller,Rafael Nadal,Complete,2,event_MS,round_4,Arthur Ashe Stadium,A,atpma30,atpn409,LUX,ESP
+2011-usopen-1501,2011,usopen,1501,Novak Djokovic,Janko Tipsarevic,Retired,1,event_MS,round_5,Arthur Ashe Stadium,A,atpd643,atpt742,SRB,SRB
+2011-usopen-1502,2011,usopen,1502,Roger Federer,Jo-Wilfried Tsonga,Complete,1,event_MS,round_5,Arthur Ashe Stadium,A,atpf324,atpt786,SUI,FRA
+2011-usopen-1503,2011,usopen,1503,John Isner,Andy Murray,Complete,2,event_MS,round_5,Arthur Ashe Stadium,A,atpi186,atpmc10,USA,GBR
+2011-usopen-1504,2011,usopen,1504,Andy Roddick,Rafael Nadal,Complete,2,event_MS,round_5,Arthur Ashe Stadium,A,atpr485,atpn409,USA,ESP
+2011-usopen-1601,2011,usopen,1601,Novak Djokovic,Roger Federer,Complete,1,event_MS,round_6,Arthur Ashe Stadium,A,atpd643,atpf324,SRB,SUI
+2011-usopen-1602,2011,usopen,1602,Andy Murray,Rafael Nadal,Complete,2,event_MS,round_6,Arthur Ashe Stadium,A,atpmc10,atpn409,GBR,ESP
+2011-usopen-1701,2011,usopen,1701,Novak Djokovic,Rafael Nadal,Complete,1,event_MS,round_7,Arthur Ashe Stadium,A,atpd643,atpn409,SRB,ESP
+2011-usopen-2101,2011,usopen,2101,Caroline Wozniacki,Nuria Llagostera Vives,Complete,1,event_WS,round_1,Arthur Ashe Stadium,A,wta313402,wta120317,DEN,ESP
+2011-usopen-2104,2011,usopen,2104,Iveta Benesova,Jarmila Gajdosova,Complete,2,event_WS,round_1,Court 13,M,wta020576,wta310169,CZE,AUS
+2011-usopen-2109,2011,usopen,2109,Andrea Petkovic,Ekaterina Bychkova,Complete,1,event_WS,round_1,Court 13,M,wta310770,wta020706,GER,RUS
+2011-usopen-2114,2011,usopen,2114,Kimiko Date-Krumm,Silvia Soler-Espinosa,Complete,2,event_WS,round_1,Court 13,M,wta040130,wta311493,JPN,ESP
+2011-usopen-2116,2011,usopen,2116,Simona Halep,Na Li,Complete,1,event_WS,round_1,Louis Armstrong Stadium,B,wta314320,wta120330,ROU,CHN
+2011-usopen-2117,2011,usopen,2117,Victoria Azarenka,Johanna Larsson,Complete,1,event_WS,round_1,Arthur Ashe Stadium,A,wta312001,wta311593,BLR,SWE
+2011-usopen-2120,2011,usopen,2120,Bojana Jovanovski,Serena Williams,Complete,2,event_WS,round_1,Arthur Ashe Stadium,A,wta314369,wta230234,SRB,USA
+2011-usopen-2121,2011,usopen,2121,Shahar Peer,Sania Mirza,Complete,1,event_WS,round_1,Court 17,Q,wta311168,wta310112,ISR,IND
+2011-usopen-2122,2011,usopen,2122,Reka-Luca Jani,Sloane Stephens,Complete,2,event_WS,round_1,Court 11,K,wta316606,wta315683,HUN,USA
+2011-usopen-2124,2011,usopen,2124,Ksenia Pervak,Ana Ivanovic,Complete,2,event_WS,round_1,Arthur Ashe Stadium,A,wta313537,wta311710,RUS,SRB
+2011-usopen-2125,2011,usopen,2125,Jelena Jankovic,Alison Riske,Complete,1,event_WS,round_1,Grandstand,C,wta100153,wta312850,SRB,USA
+2011-usopen-2132,2011,usopen,2132,Galina Voskoboeva,Francesca Schiavone,Complete,2,event_WS,round_1,Louis Armstrong Stadium,B,wta310419,wta190666,KAZ,ITA
+2011-usopen-2133,2011,usopen,2133,Petra Kvitova,Alexandra Dulgheru,Complete,2,event_WS,round_1,Louis Armstrong Stadium,B,wta314206,wta312712,CZE,ROU
+2011-usopen-2135,2011,usopen,2135,Jill Craybas,Madison Keys,Complete,2,event_WS,round_1,Grandstand,C,wta030294,wta316959,USA,USA
+2011-usopen-2145,2011,usopen,2145,Flavia Pennetta,Aravane Rezai,Complete,1,event_WS,round_1,Court 11,K,wta160391,wta311791,ITA,FRA
+2011-usopen-2148,2011,usopen,2148,Heather Watson,Maria Sharapova,Complete,2,event_WS,round_1,Arthur Ashe Stadium,A,wta316981,wta310137,GBR,RUS
+2011-usopen-2149,2011,usopen,2149,Marion Bartoli,Alexandra Panova,Complete,1,event_WS,round_1,Louis Armstrong Stadium,B,wta020631,wta311956,FRA,RUS
+2011-usopen-2150,2011,usopen,2150,Christina McHale,Aleksandra Wozniak,Complete,1,event_WS,round_1,Court 17,Q,wta314917,wta310494,USA,CAN
+2011-usopen-2154,2011,usopen,2154,Bethanie Mattek-Sands,Polona Hercog,Complete,2,event_WS,round_1,Grandstand,C,wta130713,wta313968,USA,SLO
+2011-usopen-2159,2011,usopen,2159,Vesna Dolonts,Venus Williams,Complete,2,event_WS,round_1,Arthur Ashe Stadium,A,wta313653,wta230220,RUS,USA
+2011-usopen-2160,2011,usopen,2160,Alona Bondarenko,Sabine Lisicki,Complete,2,event_WS,round_1,Court 17,Q,wta020608,wta312520,UKR,GER
+2011-usopen-2164,2011,usopen,2164,Stephanie Foretz Gacon,Vera Zvonareva,Complete,2,event_WS,round_1,Louis Armstrong Stadium,B,wta060288,wta260142,FRA,RUS
+2011-usopen-2201,2011,usopen,2201,Caroline Wozniacki,Arantxa Rus,Complete,1,event_WS,round_2,Arthur Ashe Stadium,A,wta313402,wta313349,DEN,NED
+2011-usopen-2202,2011,usopen,2202,Vania King,Jarmila Gajdosova,Complete,1,event_WS,round_2,Court 17,Q,wta311550,wta310169,USA,AUS
+2011-usopen-2203,2011,usopen,2203,Pauline Parmentier,Akgul Amanmuradova,Complete,2,event_WS,round_2,Court 13,M,wta160515,wta010362,FRA,UZB
+2011-usopen-2204,2011,usopen,2204,Elena Baltacha,Svetlana Kuznetsova,Complete,2,event_WS,round_2,Court 11,K,wta020556,wta110552,GBR,RUS
+2011-usopen-2205,2011,usopen,2205,Andrea Petkovic,Jie Zheng,Complete,1,event_WS,round_2,Grandstand,C,wta310770,wta260144,GER,CHN
+2011-usopen-2206,2011,usopen,2206,Alize Cornet,Roberta Vinci,Complete,2,event_WS,round_2,Court 13,M,wta312121,wta220214,FRA,ITA
+2011-usopen-2209,2011,usopen,2209,Victoria Azarenka,Gisela Dulko,Complete,1,event_WS,round_2,Grandstand,C,wta312001,wta040388,BLR,ARG
+2011-usopen-2210,2011,usopen,2210,Michaella Krajicek,Serena Williams,Complete,2,event_WS,round_2,Arthur Ashe Stadium,A,wta311578,wta230234,NED,USA
+2011-usopen-2211,2011,usopen,2211,Shahar Peer,Sloane Stephens,Complete,2,event_WS,round_2,Grandstand,C,wta311168,wta315683,ISR,USA
+2011-usopen-2213,2011,usopen,2213,Jelena Jankovic,Jelena Dokic,Complete,1,event_WS,round_2,Louis Armstrong Stadium,B,wta100153,wta040344,SRB,AUS
+2011-usopen-2214,2011,usopen,2214,Petra Martic,Anastasia Pavlyuchenkova,Complete,2,event_WS,round_2,Court 17,Q,wta313711,wta313796,CRO,RUS
+2011-usopen-2215,2011,usopen,2215,Mona Barthel,Chanelle Scheepers,Complete,2,event_WS,round_2,Court 11,K,wta315365,wta190873,GER,RSA
+2011-usopen-2216,2011,usopen,2216,Mirjana Lucic,Francesca Schiavone,Complete,2,event_WS,round_2,Arthur Ashe Stadium,A,wta120323,wta190666,CRO,ITA
+2011-usopen-2218,2011,usopen,2218,Madison Keys,Lucie Safarova,Complete,2,event_WS,round_2,Louis Armstrong Stadium,B,wta316959,wta310553,USA,CZE
+2011-usopen-2219,2011,usopen,2219,Yanina Wickmayer,Alla Kudryavtseva,Retired,2,event_WS,round_2,Court 13,M,wta312536,wta311362,BEL,RUS
+2011-usopen-2220,2011,usopen,2220,Angelique Kerber,Agnieszka Radwanska,Complete,1,event_WS,round_2,Grandstand,C,wta311470,wta312251,GER,POL
+2011-usopen-2221,2011,usopen,2221,Shuai Peng,Tsvetana Pironkova,Complete,1,event_WS,round_2,Court 13,M,wta160471,wta311041,CHN,BUL
+2011-usopen-2222,2011,usopen,2222,Laura Pous-Tio,Julia Goerges,Complete,2,event_WS,round_2,Court 17,Q,wta160481,wta313381,ESP,GER
+2011-usopen-2223,2011,usopen,2223,Flavia Pennetta,Romina Oprandi,Complete,1,event_WS,round_2,Court 11,K,wta160391,wta150185,ITA,ITA
+2011-usopen-2224,2011,usopen,2224,Anastasiya Yakimova,Maria Sharapova,Complete,2,event_WS,round_2,Arthur Ashe Stadium,A,wta310626,wta310137,BLR,RUS
+2011-usopen-2225,2011,usopen,2225,Marion Bartoli,Christina McHale,Complete,2,event_WS,round_2,Grandstand,C,wta020631,wta314917,FRA,USA
+2011-usopen-2228,2011,usopen,2228,Coco Vandeweghe,Samantha Stosur,Complete,2,event_WS,round_2,Louis Armstrong Stadium,B,wta314464,wta190787,USA,AUS
+2011-usopen-2229,2011,usopen,2229,Dominika Cibulkova,Irina Falconi,Complete,2,event_WS,round_2,Arthur Ashe Stadium,A,wta312894,wta314545,SVK,USA
+2011-usopen-2231,2011,usopen,2231,Anabel Medina Garrigues,Laura Robson,Complete,1,event_WS,round_2,Court 13,M,wta130611,wta316629,ESP,GBR
+2011-usopen-2232,2011,usopen,2232,Kateryna Bondarenko,Vera Zvonareva,Complete,2,event_WS,round_2,Arthur Ashe Stadium,A,wta020702,wta260142,UKR,RUS
+2011-usopen-2301,2011,usopen,2301,Caroline Wozniacki,Vania King,Complete,1,event_WS,round_3,Arthur Ashe Stadium,A,wta313402,wta311550,DEN,USA
+2011-usopen-2302,2011,usopen,2302,Akgul Amanmuradova,Svetlana Kuznetsova,Complete,2,event_WS,round_3,Louis Armstrong Stadium,B,wta010362,wta110552,UZB,RUS
+2011-usopen-2303,2011,usopen,2303,Andrea Petkovic,Roberta Vinci,Complete,1,event_WS,round_3,Grandstand,C,wta310770,wta220214,GER,ITA
+2011-usopen-2304,2011,usopen,2304,Silvia Soler-Espinosa,Carla Suarez Navarro,Complete,2,event_WS,round_3,Court 17,Q,wta311493,wta311338,ESP,ESP
+2011-usopen-2305,2011,usopen,2305,Victoria Azarenka,Serena Williams,Complete,2,event_WS,round_3,Arthur Ashe Stadium,A,wta312001,wta230234,BLR,USA
+2011-usopen-2306,2011,usopen,2306,Sloane Stephens,Ana Ivanovic,Complete,2,event_WS,round_3,Arthur Ashe Stadium,A,wta315683,wta311710,USA,SRB
+2011-usopen-2307,2011,usopen,2307,Jelena Jankovic,Anastasia Pavlyuchenkova,Complete,2,event_WS,round_3,Louis Armstrong Stadium,B,wta100153,wta313796,SRB,RUS
+2011-usopen-2308,2011,usopen,2308,Chanelle Scheepers,Francesca Schiavone,Complete,2,event_WS,round_3,Grandstand,C,wta190873,wta190666,RSA,ITA
+2011-usopen-2309,2011,usopen,2309,Monica Niculescu,Lucie Safarova,Complete,1,event_WS,round_3,Louis Armstrong Stadium,B,wta310775,wta310553,ROU,CZE
+2011-usopen-2310,2011,usopen,2310,Alla Kudryavtseva,Angelique Kerber,Complete,2,event_WS,round_3,Court 17,Q,wta311362,wta311470,RUS,GER
+2011-usopen-2311,2011,usopen,2311,Shuai Peng,Julia Goerges,Complete,1,event_WS,round_3,Grandstand,C,wta160471,wta313381,CHN,GER
+2011-usopen-2312,2011,usopen,2312,Flavia Pennetta,Maria Sharapova,Complete,1,event_WS,round_3,Arthur Ashe Stadium,A,wta160391,wta310137,ITA,RUS
+2011-usopen-2313,2011,usopen,2313,Christina McHale,Maria Kirilenko,Complete,2,event_WS,round_3,Arthur Ashe Stadium,A,wta314917,wta310577,USA,RUS
+2011-usopen-2314,2011,usopen,2314,Nadia Petrova,Samantha Stosur,Complete,2,event_WS,round_3,Louis Armstrong Stadium,B,wta160379,wta190787,RUS,AUS
+2011-usopen-2315,2011,usopen,2315,Irina Falconi,Sabine Lisicki,Complete,2,event_WS,round_3,Grandstand,C,wta314545,wta312520,USA,GER
+2011-usopen-2316,2011,usopen,2316,Anabel Medina Garrigues,Vera Zvonareva,Complete,2,event_WS,round_3,Arthur Ashe Stadium,A,wta130611,wta260142,ESP,RUS
+2011-usopen-2401,2011,usopen,2401,Caroline Wozniacki,Svetlana Kuznetsova,Complete,1,event_WS,round_4,Arthur Ashe Stadium,A,wta313402,wta110552,DEN,RUS
+2011-usopen-2402,2011,usopen,2402,Andrea Petkovic,Carla Suarez Navarro,In Progress,1,event_WS,round_4,Louis Armstrong Stadium,B,wta310770,wta311338,GER,ESP
+2011-usopen-2403,2011,usopen,2403,Serena Williams,Ana Ivanovic,Complete,1,event_WS,round_4,Arthur Ashe Stadium,A,wta230234,wta311710,USA,SRB
+2011-usopen-2404,2011,usopen,2404,Anastasia Pavlyuchenkova,Francesca Schiavone,Complete,1,event_WS,round_4,Arthur Ashe Stadium,A,wta313796,wta190666,RUS,ITA
+2011-usopen-2405,2011,usopen,2405,Monica Niculescu,Angelique Kerber,Complete,2,event_WS,round_4,Court 17,Q,wta310775,wta311470,ROU,GER
+2011-usopen-2406,2011,usopen,2406,Shuai Peng,Flavia Pennetta,Complete,2,event_WS,round_4,Louis Armstrong Stadium,B,wta160471,wta160391,CHN,ITA
+2011-usopen-2407,2011,usopen,2407,Maria Kirilenko,Samantha Stosur,Complete,2,event_WS,round_4,Grandstand,C,wta310577,wta190787,RUS,AUS
+2011-usopen-2408,2011,usopen,2408,Sabine Lisicki,Vera Zvonareva,Complete,2,event_WS,round_4,Arthur Ashe Stadium,A,wta312520,wta260142,GER,RUS
+2011-usopen-2501,2011,usopen,2501,Caroline Wozniacki,Andrea Petkovic,Complete,1,event_WS,round_5,Court 13,M,wta313402,wta310770,DEN,GER
+2011-usopen-2502,2011,usopen,2502,Serena Williams,Anastasia Pavlyuchenkova,Complete,1,event_WS,round_5,Arthur Ashe Stadium,A,wta230234,wta313796,USA,RUS
+2011-usopen-2504,2011,usopen,2504,Samantha Stosur,Vera Zvonareva,Complete,1,event_WS,round_5,Grandstand,C,wta190787,wta260142,AUS,RUS
+2011-usopen-2601,2011,usopen,2601,Caroline Wozniacki,Serena Williams,Complete,2,event_WS,round_6,Arthur Ashe Stadium,A,wta313402,wta230234,DEN,USA
+2011-usopen-2602,2011,usopen,2602,Angelique Kerber,Samantha Stosur,Complete,2,event_WS,round_6,Grandstand,C,wta311470,wta190787,GER,AUS
+2011-usopen-2701,2011,usopen,2701,Serena Williams,Samantha Stosur,Complete,2,event_WS,round_7,Arthur Ashe Stadium,A,wta230234,wta190787,USA,AUS

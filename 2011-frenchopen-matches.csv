@@ -1,0 +1,195 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2
+2011-frenchopen-1101,2011,frenchopen,1101,Rafael Nadal,John Isner,Complete,1,event_MS,round_1,Court Philippe Chatrier,A,atpn409,atpi186,ESP,USA
+2011-frenchopen-1104,2011,frenchopen,1104,Denis Gremelmayr,Nikolay Davydenko,Complete,2,event_MS,round_1,Court 6,H,atpg512,atpd402,GER,RUS
+2011-frenchopen-1105,2011,frenchopen,1105,Sam Querrey,Philipp Kohlschreiber,Complete,1,event_MS,round_1,Court 7,I,atpq927,atpk435,USA,GER
+2011-frenchopen-1106,2011,frenchopen,1106,Ivan Ljubicic,Somdev Devvarman,Complete,1,event_MS,round_1,Court 3,E,atpl360,atpd616,CRO,IND
+2011-frenchopen-1108,2011,frenchopen,1108,Juan Monaco,Fernando Verdasco,Complete,2,event_MS,round_1,Court 2,D,atpma21,atpv306,ARG,ESP
+2011-frenchopen-1109,2011,frenchopen,1109,Mardy Fish,Ricardo Mello,Complete,1,event_MS,round_1,Court 7,I,atpf339,atpm708,USA,BRA
+2011-frenchopen-1111,2011,frenchopen,1111,Jeremy Chardy,Grigor DiMitrov,Complete,1,event_MS,round_1,Court 1,C,atpca12,atpd875,FRA,BUL
+2011-frenchopen-1112,2011,frenchopen,1112,Michael Russell,Gilles Simon,Complete,2,event_MS,round_1,Court Philippe Chatrier,A,atpr368,atpsd32,USA,FRA
+2011-frenchopen-1113,2011,frenchopen,1113,Marcos Baghdatis,Frederico Gil,Complete,1,event_MS,round_1,Court 2,D,atpb837,atpg717,CYP,POR
+2011-frenchopen-1116,2011,frenchopen,1116,Ryan Harrison,Robin Soderling,Complete,2,event_MS,round_1,Court Suzanne Lenglen,B,atph940,atpsa49,USA,SWE
+2011-frenchopen-1117,2011,frenchopen,1117,Andy Murray,Eric Prodon,Complete,1,event_MS,round_1,Court Suzanne Lenglen,B,atpmc10,atpp487,GBR,FRA
+2011-frenchopen-1119,2011,frenchopen,1119,Arnaud Clement,Filippo Volandri,Complete,1,event_MS,round_1,Court 2,D,atpc487,atpv254,FRA,ITA
+2011-frenchopen-1121,2011,frenchopen,1121,Alexandr Dolgopolov,Rainer Schuettler,Complete,1,event_MS,round_1,Court 6,H,atpd801,atps636,UKR,GER
+2011-frenchopen-1124,2011,frenchopen,1124,Julian Reister,Viktor Troicki,Complete,2,event_MS,round_1,Court 6,H,atpr782,atpt840,GER,SRB
+2011-frenchopen-1125,2011,frenchopen,1125,Nicolas Almagro,Lukasz Kubot,Complete,2,event_MS,round_1,Court 6,H,atpa479,atpk540,ESP,POL
+2011-frenchopen-1129,2011,frenchopen,1129,Kevin Anderson,Nicolas Mahut,Complete,1,event_MS,round_1,Court 7,I,atpa678,atpm873,RSA,FRA
+2011-frenchopen-1131,2011,frenchopen,1131,Edouard Roger-Vasselin,Lukas Rosol,Complete,2,event_MS,round_1,Court 3,E,atpr613,atpr685,FRA,CZE
+2011-frenchopen-1132,2011,frenchopen,1132,Andreas Beck,Jurgen Melzer,Complete,2,event_MS,round_1,Court 1,C,atpba86,atpm762,GER,AUT
+2011-frenchopen-1133,2011,frenchopen,1133,David Ferrer,Jarkko Nieminen,Complete,1,event_MS,round_1,Court Philippe Chatrier,A,atpf401,atpn289,ESP,FIN
+2011-frenchopen-1134,2011,frenchopen,1134,Julien Benneteau,Rui Machado,Complete,1,event_MS,round_1,Court Suzanne Lenglen,B,atpb747,atpma49,FRA,POR
+2011-frenchopen-1135,2011,frenchopen,1135,Kei Nishikori,Yen-Hsun Lu,Complete,1,event_MS,round_1,Court 2,D,atpn552,atpl575,JPN,TPE
+2011-frenchopen-1136,2011,frenchopen,1136,David Guez,Sergiy Stakhovsky,Complete,2,event_MS,round_1,Court 1,C,atpg753,atpsc77,FRA,UKR
+2011-frenchopen-1137,2011,frenchopen,1137,Michael Llodra,Steve Darcis,Complete,2,event_MS,round_1,Court 1,C,atpl428,atpd632,FRA,BEL
+2011-frenchopen-1139,2011,frenchopen,1139,Adrian Mannarino,Guillaume Rufin,Complete,2,event_MS,round_1,Court 2,D,atpme82,atpra17,FRA,FRA
+2011-frenchopen-1140,2011,frenchopen,1140,Bjorn Phau,Gael Monfils,Complete,2,event_MS,round_1,Court Suzanne Lenglen,B,atpp436,atpmc65,GER,FRA
+2011-frenchopen-1141,2011,frenchopen,1141,Stanislas Wawrinka,Augustin Gensse,Complete,1,event_MS,round_1,Court 1,C,atpw367,atpg695,SUI,FRA
+2011-frenchopen-1143,2011,frenchopen,1143,Florent Serra,Igor Andreev,Complete,2,event_MS,round_1,Court 3,E,atps963,atpa511,FRA,RUS
+2011-frenchopen-1144,2011,frenchopen,1144,Jan Hajek,Jo-Wilfried Tsonga,Complete,2,event_MS,round_1,Court Philippe Chatrier,A,atph571,atpt786,CZE,FRA
+2011-frenchopen-1147,2011,frenchopen,1147,Vincent Millot,Maxime Teixeira,Complete,2,event_MS,round_1,Court 3,E,atpme31,atpt999,FRA,FRA
+2011-frenchopen-1148,2011,frenchopen,1148,Feliciano Lopez,Roger Federer,Complete,2,event_MS,round_1,Court Philippe Chatrier,A,atpl397,atpf324,ESP,SUI
+2011-frenchopen-1149,2011,frenchopen,1149,Tomas Berdych,Stephane Robert,Complete,2,event_MS,round_1,Court 2,D,atpba47,atpr612,CZE,FRA
+2011-frenchopen-1150,2011,frenchopen,1150,Fabio Fognini,Denis Istomin,Complete,1,event_MS,round_1,Court 6,H,atpf510,atpi165,ITA,UZB
+2011-frenchopen-1152,2011,frenchopen,1152,Robert Kendrick,Guillermo Garcia-Lopez,Complete,2,event_MS,round_1,Court 6,H,atpk448,atpg476,USA,ESP
+2011-frenchopen-1153,2011,frenchopen,1153,Marin Cilic,Ruben Ramirez Hidalgo,Complete,2,event_MS,round_1,Court 7,I,atpc977,atpr383,CRO,ESP
+2011-frenchopen-1154,2011,frenchopen,1154,Marc Gicquel,Albert Montanes,Complete,2,event_MS,round_1,Court Suzanne Lenglen,B,atpg436,atpm824,FRA,ESP
+2011-frenchopen-1156,2011,frenchopen,1156,Go Soeda,Mikhail Youzhny,Complete,2,event_MS,round_1,Court 3,E,atpsc47,atpy061,JPN,RUS
+2011-frenchopen-1157,2011,frenchopen,1157,Richard Gasquet,Radek Stepanek,Complete,1,event_MS,round_1,Court Suzanne Lenglen,B,atpg628,atps694,FRA,CZE
+2011-frenchopen-1159,2011,frenchopen,1159,Teymuraz Gabashvili,Andreas Seppi,Complete,2,event_MS,round_1,Court 3,E,atpg681,atpsa93,RUS,ITA
+2011-frenchopen-1161,2011,frenchopen,1161,Juan Martin Del Potro,Ivo Karlovic,Complete,1,event_MS,round_1,Court 1,C,atpd683,atpk336,ARG,CRO
+2011-frenchopen-1162,2011,frenchopen,1162,Ernests Gulbis,Blaz Kavcic,Complete,2,event_MS,round_1,Court 7,I,atpg858,atpk834,LAT,SLO
+2011-frenchopen-1163,2011,frenchopen,1163,Benoit Paire,Victor Hanescu,Complete,2,event_MS,round_1,Court 7,I,atppd31,atph528,FRA,ROU
+2011-frenchopen-1164,2011,frenchopen,1164,Thiemo De Bakker,Novak Djokovic,Complete,2,event_MS,round_1,Court Philippe Chatrier,A,atpd776,atpd643,NED,SRB
+2011-frenchopen-1201,2011,frenchopen,1201,Rafael Nadal,Pablo Andujar,Complete,1,event_MS,round_2,Court Suzanne Lenglen,B,atpn409,atpa596,ESP,ESP
+2011-frenchopen-1202,2011,frenchopen,1202,Antonio Veic,Nikolay Davydenko,Complete,1,event_MS,round_2,Court 6,H,atpv564,atpd402,CRO,RUS
+2011-frenchopen-1203,2011,frenchopen,1203,Sam Querrey,Ivan Ljubicic,Complete,2,event_MS,round_2,Court 7,I,atpq927,atpl360,USA,CRO
+2011-frenchopen-1204,2011,frenchopen,1204,Xavier Malisse,Fernando Verdasco,Complete,2,event_MS,round_2,Court 1,C,atpm680,atpv306,BEL,ESP
+2011-frenchopen-1205,2011,frenchopen,1205,Mardy Fish,Robin Haase,Complete,1,event_MS,round_2,Court 2,D,atpf339,atph756,USA,NED
+2011-frenchopen-1206,2011,frenchopen,1206,Jeremy Chardy,Gilles Simon,Complete,2,event_MS,round_2,Court Philippe Chatrier,A,atpca12,atpsd32,FRA,FRA
+2011-frenchopen-1207,2011,frenchopen,1207,Marcos Baghdatis,Leonardo Mayer,Complete,2,event_MS,round_2,Court 3,E,atpb837,atpmd56,CYP,ARG
+2011-frenchopen-1208,2011,frenchopen,1208,Albert Ramos,Robin Soderling,Complete,2,event_MS,round_2,Court Suzanne Lenglen,B,atpr772,atpsa49,ESP,SWE
+2011-frenchopen-1209,2011,frenchopen,1209,Andy Murray,Simone Bolelli,Complete,1,event_MS,round_2,Court Philippe Chatrier,A,atpmc10,atpba98,GBR,ITA
+2011-frenchopen-1210,2011,frenchopen,1210,Arnaud Clement,Michael Berrer,Complete,2,event_MS,round_2,Court 1,C,atpc487,atpb678,FRA,GER
+2011-frenchopen-1211,2011,frenchopen,1211,Alexandr Dolgopolov,Andreas Haider-Maurer,Complete,1,event_MS,round_2,Court 6,H,atpd801,atph804,UKR,AUT
+2011-frenchopen-1212,2011,frenchopen,1212,Tobias Kamke,Viktor Troicki,Complete,2,event_MS,round_2,Court 7,I,atpk839,atpt840,GER,SRB
+2011-frenchopen-1214,2011,frenchopen,1214,Alejandro Falla,Florian Mayer,Complete,1,event_MS,round_2,Court 3,E,atpf444,atpmb02,COL,GER
+2011-frenchopen-1216,2011,frenchopen,1216,Lukas Rosol,Jurgen Melzer,Complete,1,event_MS,round_2,Court 2,D,atpr685,atpm762,CZE,AUT
+2011-frenchopen-1218,2011,frenchopen,1218,Kei Nishikori,Sergiy Stakhovsky,Complete,2,event_MS,round_2,Court 6,H,atpn552,atpsc77,JPN,UKR
+2011-frenchopen-1219,2011,frenchopen,1219,Steve Darcis,Philipp Petzschner,Complete,1,event_MS,round_2,Court 7,I,atpd632,atpp624,BEL,GER
+2011-frenchopen-1220,2011,frenchopen,1220,Guillaume Rufin,Gael Monfils,Complete,2,event_MS,round_2,Court Philippe Chatrier,A,atpra17,atpmc65,FRA,FRA
+2011-frenchopen-1221,2011,frenchopen,1221,Stanislas Wawrinka,Thomas Schoorel,Complete,1,event_MS,round_2,Court 3,E,atpw367,atpsj63,SUI,NED
+2011-frenchopen-1222,2011,frenchopen,1222,Igor Andreev,Jo-Wilfried Tsonga,Complete,2,event_MS,round_2,Court Suzanne Lenglen,B,atpa511,atpt786,RUS,FRA
+2011-frenchopen-1223,2011,frenchopen,1223,Janko Tipsarevic,Pere Riba,Complete,1,event_MS,round_2,Court 7,I,atpt742,atpr750,SRB,ESP
+2011-frenchopen-1224,2011,frenchopen,1224,Maxime Teixeira,Roger Federer,Complete,2,event_MS,round_2,Court Suzanne Lenglen,B,atpt999,atpf324,FRA,SUI
+2011-frenchopen-1225,2011,frenchopen,1225,Stephane Robert,Fabio Fognini,Complete,2,event_MS,round_2,Court 2,D,atpr612,atpf510,FRA,ITA
+2011-frenchopen-1228,2011,frenchopen,1228,Mikhail Kukushkin,Mikhail Youzhny,Complete,2,event_MS,round_2,Court 3,E,atpk926,atpy061,KAZ,RUS
+2011-frenchopen-1229,2011,frenchopen,1229,Richard Gasquet,Marcel Granollers,Complete,1,event_MS,round_2,Court 1,C,atpg628,atpg710,FRA,ESP
+2011-frenchopen-1230,2011,frenchopen,1230,Andreas Seppi,Thomaz Bellucci,Complete,2,event_MS,round_2,Court 6,H,atpsa93,atpbd20,ITA,BRA
+2011-frenchopen-1231,2011,frenchopen,1231,Juan Martin Del Potro,Blaz Kavcic,Complete,1,event_MS,round_2,Court 2,D,atpd683,atpk834,ARG,SLO
+2011-frenchopen-1232,2011,frenchopen,1232,Victor Hanescu,Novak Djokovic,Retired,2,event_MS,round_2,Court Philippe Chatrier,A,atph528,atpd643,ROU,SRB
+2011-frenchopen-1301,2011,frenchopen,1301,Rafael Nadal,Antonio Veic,Complete,1,event_MS,round_3,Court Philippe Chatrier,A,atpn409,atpv564,ESP,CRO
+2011-frenchopen-1302,2011,frenchopen,1302,Ivan Ljubicic,Fernando Verdasco,Complete,1,event_MS,round_3,Court 1,C,atpl360,atpv306,CRO,ESP
+2011-frenchopen-1303,2011,frenchopen,1303,Mardy Fish,Gilles Simon,Complete,2,event_MS,round_3,Court Philippe Chatrier,A,atpf339,atpsd32,USA,FRA
+2011-frenchopen-1304,2011,frenchopen,1304,Leonardo Mayer,Robin Soderling,Complete,2,event_MS,round_3,Court Suzanne Lenglen,B,atpmd56,atpsa49,ARG,SWE
+2011-frenchopen-1305,2011,frenchopen,1305,Andy Murray,Michael Berrer,Complete,1,event_MS,round_3,Court Suzanne Lenglen,B,atpmc10,atpb678,GBR,GER
+2011-frenchopen-1306,2011,frenchopen,1306,Alexandr Dolgopolov,Viktor Troicki,Complete,2,event_MS,round_3,Court 1,C,atpd801,atpt840,UKR,SRB
+2011-frenchopen-1307,2011,frenchopen,1307,Lukasz Kubot,Alejandro Falla,Complete,2,event_MS,round_3,Court 2,D,atpk540,atpf444,POL,COL
+2011-frenchopen-1308,2011,frenchopen,1308,Juan Ignacio Chela,Lukas Rosol,Complete,1,event_MS,round_3,Court 7,I,atpc514,atpr685,ARG,CZE
+2011-frenchopen-1309,2011,frenchopen,1309,David Ferrer,Sergiy Stakhovsky,Complete,1,event_MS,round_3,Court 1,C,atpf401,atpsc77,ESP,UKR
+2011-frenchopen-1310,2011,frenchopen,1310,Steve Darcis,Gael Monfils,Complete,2,event_MS,round_3,Court 1,C,atpd632,atpmc65,BEL,FRA
+2011-frenchopen-1311,2011,frenchopen,1311,Stanislas Wawrinka,Jo-Wilfried Tsonga,Complete,1,event_MS,round_3,Court Philippe Chatrier,A,atpw367,atpt786,SUI,FRA
+2011-frenchopen-1312,2011,frenchopen,1312,Janko Tipsarevic,Roger Federer,Complete,2,event_MS,round_3,Court Suzanne Lenglen,B,atpt742,atpf324,SRB,SUI
+2011-frenchopen-1313,2011,frenchopen,1313,Fabio Fognini,Guillermo Garcia-Lopez,Complete,1,event_MS,round_3,Court 7,I,atpf510,atpg476,ITA,ESP
+2011-frenchopen-1314,2011,frenchopen,1314,Albert Montanes,Mikhail Youzhny,Complete,1,event_MS,round_3,Court 2,D,atpm824,atpy061,ESP,RUS
+2011-frenchopen-1315,2011,frenchopen,1315,Richard Gasquet,Thomaz Bellucci,Complete,1,event_MS,round_3,Court Suzanne Lenglen,B,atpg628,atpbd20,FRA,BRA
+2011-frenchopen-1316,2011,frenchopen,1316,Juan Martin Del Potro,Novak Djokovic,Complete,2,event_MS,round_3,Court Suzanne Lenglen,B,atpd683,atpd643,ARG,SRB
+2011-frenchopen-1401,2011,frenchopen,1401,Rafael Nadal,Ivan Ljubicic,Complete,1,event_MS,round_4,Court Philippe Chatrier,A,atpn409,atpl360,ESP,CRO
+2011-frenchopen-1402,2011,frenchopen,1402,Gilles Simon,Robin Soderling,Complete,2,event_MS,round_4,Court Philippe Chatrier,A,atpsd32,atpsa49,FRA,SWE
+2011-frenchopen-1403,2011,frenchopen,1403,Andy Murray,Viktor Troicki,Complete,1,event_MS,round_4,Court Suzanne Lenglen,B,atpmc10,atpt840,GBR,SRB
+2011-frenchopen-1404,2011,frenchopen,1404,Alejandro Falla,Juan Ignacio Chela,Complete,2,event_MS,round_4,Court Suzanne Lenglen,B,atpf444,atpc514,COL,ARG
+2011-frenchopen-1405,2011,frenchopen,1405,David Ferrer,Gael Monfils,Complete,2,event_MS,round_4,Court Suzanne Lenglen,B,atpf401,atpmc65,ESP,FRA
+2011-frenchopen-1406,2011,frenchopen,1406,Stanislas Wawrinka,Roger Federer,Complete,2,event_MS,round_4,Court Philippe Chatrier,A,atpw367,atpf324,SUI,SUI
+2011-frenchopen-1407,2011,frenchopen,1407,Fabio Fognini,Albert Montanes,Complete,1,event_MS,round_4,Court Suzanne Lenglen,B,atpf510,atpm824,ITA,ESP
+2011-frenchopen-1408,2011,frenchopen,1408,Richard Gasquet,Novak Djokovic,Complete,2,event_MS,round_4,Court Philippe Chatrier,A,atpg628,atpd643,FRA,SRB
+2011-frenchopen-1501,2011,frenchopen,1501,Rafael Nadal,Robin Soderling,Complete,1,event_MS,round_5,Court Philippe Chatrier,A,atpn409,atpsa49,ESP,SWE
+2011-frenchopen-1502,2011,frenchopen,1502,Andy Murray,Juan Ignacio Chela,Complete,1,event_MS,round_5,Court Suzanne Lenglen,B,atpmc10,atpc514,GBR,ARG
+2011-frenchopen-1503,2011,frenchopen,1503,Gael Monfils,Roger Federer,Complete,2,event_MS,round_5,Court Philippe Chatrier,A,atpmc65,atpf324,FRA,SUI
+2011-frenchopen-1601,2011,frenchopen,1601,Rafael Nadal,Andy Murray,Complete,1,event_MS,round_6,Court Philippe Chatrier,A,atpn409,atpmc10,ESP,GBR
+2011-frenchopen-1602,2011,frenchopen,1602,Roger Federer,Novak Djokovic,Complete,1,event_MS,round_6,Court Philippe Chatrier,A,atpf324,atpd643,SUI,SRB
+2011-frenchopen-1701,2011,frenchopen,1701,Rafael Nadal,Roger Federer,Complete,1,event_MS,round_7,Court Philippe Chatrier,A,atpn409,atpf324,ESP,SUI
+2011-frenchopen-2101,2011,frenchopen,2101,Caroline Wozniacki,Kimiko Date-Krumm,Complete,1,event_WS,round_1,Court Philippe Chatrier,A,wta313402,wta040130,DEN,JPN
+2011-frenchopen-2102,2011,frenchopen,2102,Junri Namigata,Aleksandra Wozniak,Complete,2,event_WS,round_1,Court 6,H,wta140195,wta310494,JPN,CAN
+2011-frenchopen-2104,2011,frenchopen,2104,Shuai Zhang,Daniela Hantuchova,Complete,2,event_WS,round_1,Court 2,D,wta311779,wta080394,CHN,SVK
+2011-frenchopen-2105,2011,frenchopen,2105,Shahar Peer,Maria Jose Martinez Sanchez,Complete,2,event_WS,round_1,Court 2,D,wta311168,wta130591,ISR,ESP
+2011-frenchopen-2107,2011,frenchopen,2107,Aravane Rezai,Irina-Camelia Begu,Complete,2,event_WS,round_1,Court Suzanne Lenglen,B,wta311791,wta313169,FRA,ROU
+2011-frenchopen-2108,2011,frenchopen,2108,Magdalena Rybarikova,Svetlana Kuznetsova,Complete,2,event_WS,round_1,Court 1,C,wta312580,wta110552,SVK,RUS
+2011-frenchopen-2109,2011,frenchopen,2109,Marion Bartoli,Anna Tatishvili,Complete,1,event_WS,round_1,Court Philippe Chatrier,A,wta020631,wta312962,FRA,GEO
+2011-frenchopen-2111,2011,frenchopen,2111,Kirsten Flipkens,Lucie Safarova,Complete,2,event_WS,round_1,Court 6,H,wta310331,wta310553,BEL,CZE
+2011-frenchopen-2112,2011,frenchopen,2112,Mathilde Johansson,Julia Goerges,Complete,2,event_WS,round_1,Court Philippe Chatrier,A,wta100162,wta313381,FRA,GER
+2011-frenchopen-2113,2011,frenchopen,2113,Tsvetana Pironkova,Casey Dellacqua,Complete,1,event_WS,round_1,Court 6,H,wta311041,wta310730,BUL,AUS
+2011-frenchopen-2114,2011,frenchopen,2114,Gisela Dulko,Irina Falconi,Complete,1,event_WS,round_1,Court 3,E,wta040388,wta314545,ARG,USA
+2011-frenchopen-2116,2011,frenchopen,2116,Iveta Benesova,Samantha Stosur,Complete,2,event_WS,round_1,Court Philippe Chatrier,A,wta020576,wta190787,CZE,AUS
+2011-frenchopen-2117,2011,frenchopen,2117,Vera Zvonareva,Lourdes Dominguez Lino,Complete,1,event_WS,round_1,Court Suzanne Lenglen,B,wta260142,wta040300,RUS,ESP
+2011-frenchopen-2120,2011,frenchopen,2120,Anastasia Rodionova,Nadia Petrova,Complete,1,event_WS,round_1,Court 7,I,wta180356,wta160379,AUS,RUS
+2011-frenchopen-2122,2011,frenchopen,2122,Renata Voracova,Alize Cornet,Complete,2,event_WS,round_1,Court Suzanne Lenglen,B,wta220277,wta312121,CZE,FRA
+2011-frenchopen-2123,2011,frenchopen,2123,Sybille Bammer,Mona Barthel,Complete,2,event_WS,round_1,Court 6,H,wta020463,wta315365,AUT,GER
+2011-frenchopen-2125,2011,frenchopen,2125,Jelena Jankovic,Alona Bondarenko,Complete,1,event_WS,round_1,Court Suzanne Lenglen,B,wta100153,wta020608,SRB,UKR
+2011-frenchopen-2126,2011,frenchopen,2126,Jelena Dokic,Vera Dushevina,Complete,2,event_WS,round_1,Court 2,D,wta040344,wta310625,AUS,RUS
+2011-frenchopen-2127,2011,frenchopen,2127,Arantxa Parra Santonja,Bethanie Mattek-Sands,Complete,2,event_WS,round_1,Court 7,I,wta160451,wta130713,ESP,USA
+2011-frenchopen-2128,2011,frenchopen,2128,Varvara Lepchenko,Flavia Pennetta,Complete,1,event_WS,round_1,Court 1,C,wta120420,wta160391,USA,ITA
+2011-frenchopen-2130,2011,frenchopen,2130,Olivia Sanchez,Polona Hercog,Complete,2,event_WS,round_1,Court 7,I,wta190713,wta313968,FRA,SLO
+2011-frenchopen-2132,2011,frenchopen,2132,Melanie Oudin,Francesca Schiavone,Complete,2,event_WS,round_1,Court Philippe Chatrier,A,wta313963,wta190666,USA,ITA
+2011-frenchopen-2133,2011,frenchopen,2133,Na Li,Barbora Zahlavova Strycova,Complete,1,event_WS,round_1,Court 1,C,wta120330,wta190879,CHN,CZE
+2011-frenchopen-2135,2011,frenchopen,2135,Patty Schnyder,Sorana Cirstea,Complete,2,event_WS,round_1,Court 7,I,wta190519,wta312469,SUI,ROU
+2011-frenchopen-2137,2011,frenchopen,2137,Dominika Cibulkova,Vania King,Complete,2,event_WS,round_1,Court 3,E,wta312894,wta311550,SVK,USA
+2011-frenchopen-2138,2011,frenchopen,2138,Elena Baltacha,Sloane Stephens,Complete,1,event_WS,round_1,Court 6,H,wta020556,wta315683,GBR,USA
+2011-frenchopen-2140,2011,frenchopen,2140,Greta Arn,Petra Kvitova,Complete,2,event_WS,round_1,Court 2,D,wta010230,wta314206,HUN,CZE
+2011-frenchopen-2142,2011,frenchopen,2142,Stephanie Foretz Gacon,Heather Watson,Complete,2,event_WS,round_1,Court 6,H,wta060288,wta316981,FRA,GBR
+2011-frenchopen-2144,2011,frenchopen,2144,Johanna Larsson,Ana Ivanovic,Complete,1,event_WS,round_1,Court Suzanne Lenglen,B,wta311593,wta311710,SWE,SRB
+2011-frenchopen-2146,2011,frenchopen,2146,Evgeniya Rodina,Iryna Bremond,Complete,2,event_WS,round_1,Court 1,C,wta312584,wta110544,RUS,FRA
+2011-frenchopen-2147,2011,frenchopen,2147,Pauline Parmentier,Ksenia Pervak,Complete,1,event_WS,round_1,Court 3,E,wta160515,wta313537,FRA,RUS
+2011-frenchopen-2148,2011,frenchopen,2148,Andrea Hlavackova,Victoria Azarenka,Complete,2,event_WS,round_1,Court 1,C,wta080459,wta312001,CZE,BLR
+2011-frenchopen-2149,2011,frenchopen,2149,Maria Sharapova,Mirjana Lucic,Complete,1,event_WS,round_1,Court Philippe Chatrier,A,wta310137,wta120323,RUS,CRO
+2011-frenchopen-2150,2011,frenchopen,2150,Zuzana Ondraskova,Caroline Garcia,Complete,2,event_WS,round_1,Court 2,D,wta150017,wta315391,CZE,FRA
+2011-frenchopen-2154,2011,frenchopen,2154,Kristina Mladenovic,Ayumi Morita,Complete,2,event_WS,round_1,Court 7,I,wta315616,wta312848,FRA,JPN
+2011-frenchopen-2155,2011,frenchopen,2155,Sania Mirza,Kristina Barrois,Complete,1,event_WS,round_1,Court 6,H,wta310112,wta312578,IND,GER
+2011-frenchopen-2156,2011,frenchopen,2156,Patricia Mayr-Achleitner,Agnieszka Radwanska,Complete,2,event_WS,round_1,Court 3,E,wta311044,wta312251,AUT,POL
+2011-frenchopen-2157,2011,frenchopen,2157,Andrea Petkovic,Bojana Jovanovski,Complete,1,event_WS,round_1,Court 1,C,wta310770,wta314369,GER,SRB
+2011-frenchopen-2160,2011,frenchopen,2160,Virginie Razzano,Jarmila Gajdosova,Complete,2,event_WS,round_1,Court Philippe Chatrier,A,wta180384,wta310169,FRA,AUS
+2011-frenchopen-2161,2011,frenchopen,2161,Maria Kirilenko,Coco Vandeweghe,Complete,1,event_WS,round_1,Court 3,E,wta310577,wta314464,RUS,USA
+2011-frenchopen-2164,2011,frenchopen,2164,Anastasiya Yakimova,Kim Clijsters,Complete,2,event_WS,round_1,Court Suzanne Lenglen,B,wta310626,wta030458,BLR,BEL
+2011-frenchopen-2201,2011,frenchopen,2201,Caroline Wozniacki,Aleksandra Wozniak,Complete,1,event_WS,round_2,Court Philippe Chatrier,A,wta313402,wta310494,DEN,CAN
+2011-frenchopen-2204,2011,frenchopen,2204,Irina-Camelia Begu,Svetlana Kuznetsova,Complete,2,event_WS,round_2,Court 2,D,wta313169,wta110552,ROU,RUS
+2011-frenchopen-2205,2011,frenchopen,2205,Marion Bartoli,Olga Govortsova,Complete,1,event_WS,round_2,Court Suzanne Lenglen,B,wta020631,wta311243,FRA,BLR
+2011-frenchopen-2206,2011,frenchopen,2206,Lucie Safarova,Julia Goerges,Complete,2,event_WS,round_2,Court 2,D,wta310553,wta313381,CZE,GER
+2011-frenchopen-2208,2011,frenchopen,2208,Simona Halep,Samantha Stosur,Complete,2,event_WS,round_2,Court 1,C,wta314320,wta190787,ROU,AUS
+2011-frenchopen-2209,2011,frenchopen,2209,Vera Zvonareva,Sabine Lisicki,Complete,1,event_WS,round_2,Court 1,C,wta260142,wta312520,RUS,GER
+2011-frenchopen-2211,2011,frenchopen,2211,Nuria Llagostera Vives,Alize Cornet,Complete,1,event_WS,round_2,Court Suzanne Lenglen,B,wta120317,wta312121,ESP,FRA
+2011-frenchopen-2213,2011,frenchopen,2213,Jelena Jankovic,Vera Dushevina,Complete,1,event_WS,round_2,Court 3,E,wta100153,wta310625,SRB,RUS
+2011-frenchopen-2214,2011,frenchopen,2214,Bethanie Mattek-Sands,Varvara Lepchenko,Complete,1,event_WS,round_2,Court 3,E,wta130713,wta120420,USA,USA
+2011-frenchopen-2215,2011,frenchopen,2215,Shuai Peng,Polona Hercog,Complete,1,event_WS,round_2,Court 6,H,wta160471,wta313968,CHN,SLO
+2011-frenchopen-2216,2011,frenchopen,2216,Vesna Dolonts,Francesca Schiavone,Complete,2,event_WS,round_2,Court Philippe Chatrier,A,wta313653,wta190666,RUS,ITA
+2011-frenchopen-2217,2011,frenchopen,2217,Na Li,Silvia Soler-Espinosa,Complete,1,event_WS,round_2,Court Suzanne Lenglen,B,wta120330,wta311493,CHN,ESP
+2011-frenchopen-2219,2011,frenchopen,2219,Vania King,Elena Baltacha,Complete,1,event_WS,round_2,Court 6,H,wta311550,wta020556,USA,GBR
+2011-frenchopen-2220,2011,frenchopen,2220,Jie Zheng,Petra Kvitova,Complete,2,event_WS,round_2,Court 1,C,wta260144,wta314206,CHN,CZE
+2011-frenchopen-2221,2011,frenchopen,2221,Kaia Kanepi,Heather Watson,Complete,1,event_WS,round_2,Court 3,E,wta110536,wta316981,EST,GBR
+2011-frenchopen-2223,2011,frenchopen,2223,Roberta Vinci,Iryna Bremond,Complete,1,event_WS,round_2,Court 1,C,wta220214,wta110544,ITA,FRA
+2011-frenchopen-2224,2011,frenchopen,2224,Pauline Parmentier,Victoria Azarenka,Complete,2,event_WS,round_2,Court Suzanne Lenglen,B,wta160515,wta312001,FRA,BLR
+2011-frenchopen-2225,2011,frenchopen,2225,Maria Sharapova,Caroline Garcia,Complete,1,event_WS,round_2,Court Philippe Chatrier,A,wta310137,wta315391,RUS,FRA
+2011-frenchopen-2227,2011,frenchopen,2227,Yanina Wickmayer,Ayumi Morita,Complete,1,event_WS,round_2,Court 6,H,wta312536,wta312848,BEL,JPN
+2011-frenchopen-2228,2011,frenchopen,2228,Sania Mirza,Agnieszka Radwanska,Complete,2,event_WS,round_2,Court 2,D,wta310112,wta312251,IND,POL
+2011-frenchopen-2229,2011,frenchopen,2229,Andrea Petkovic,Lucie Hradecka,Complete,1,event_WS,round_2,Court 2,D,wta310770,wta310849,GER,CZE
+2011-frenchopen-2230,2011,frenchopen,2230,Anabel Medina Garrigues,Jarmila Gajdosova,Complete,2,event_WS,round_2,Court 3,E,wta130611,wta310169,ESP,AUS
+2011-frenchopen-2231,2011,frenchopen,2231,Maria Kirilenko,Chanelle Scheepers,Complete,1,event_WS,round_2,Court 7,I,wta310577,wta190873,RUS,RSA
+2011-frenchopen-2232,2011,frenchopen,2232,Arantxa Rus,Kim Clijsters,Complete,1,event_WS,round_2,Court Philippe Chatrier,A,wta313349,wta030458,NED,BEL
+2011-frenchopen-2301,2011,frenchopen,2301,Caroline Wozniacki,Daniela Hantuchova,Complete,2,event_WS,round_3,Court Suzanne Lenglen,B,wta313402,wta080394,DEN,SVK
+2011-frenchopen-2302,2011,frenchopen,2302,Rebecca Marino,Svetlana Kuznetsova,Complete,2,event_WS,round_3,Court 1,C,wta313485,wta110552,CAN,RUS
+2011-frenchopen-2303,2011,frenchopen,2303,Marion Bartoli,Julia Goerges,Complete,1,event_WS,round_3,Court Philippe Chatrier,A,wta020631,wta313381,FRA,GER
+2011-frenchopen-2304,2011,frenchopen,2304,Gisela Dulko,Samantha Stosur,Complete,1,event_WS,round_3,Court Philippe Chatrier,A,wta040388,wta190787,ARG,AUS
+2011-frenchopen-2305,2011,frenchopen,2305,Vera Zvonareva,Anastasia Rodionova,Complete,1,event_WS,round_3,Court 1,C,wta260142,wta180356,RUS,AUS
+2011-frenchopen-2306,2011,frenchopen,2306,Nuria Llagostera Vives,Anastasia Pavlyuchenkova,Complete,2,event_WS,round_3,Court 7,I,wta120317,wta313796,ESP,RUS
+2011-frenchopen-2307,2011,frenchopen,2307,Jelena Jankovic,Bethanie Mattek-Sands,Complete,1,event_WS,round_3,Court 2,D,wta100153,wta130713,SRB,USA
+2011-frenchopen-2308,2011,frenchopen,2308,Shuai Peng,Francesca Schiavone,Retired,2,event_WS,round_3,Court Suzanne Lenglen,B,wta160471,wta190666,CHN,ITA
+2011-frenchopen-2309,2011,frenchopen,2309,Na Li,Sorana Cirstea,Complete,1,event_WS,round_3,Court Suzanne Lenglen,B,wta120330,wta312469,CHN,ROU
+2011-frenchopen-2310,2011,frenchopen,2310,Vania King,Petra Kvitova,Complete,2,event_WS,round_3,Court 7,I,wta311550,wta314206,USA,CZE
+2011-frenchopen-2311,2011,frenchopen,2311,Kaia Kanepi,Ekaterina Makarova,Complete,2,event_WS,round_3,Court 2,D,wta110536,wta311604,EST,RUS
+2011-frenchopen-2312,2011,frenchopen,2312,Roberta Vinci,Victoria Azarenka,Complete,2,event_WS,round_3,Court Philippe Chatrier,A,wta220214,wta312001,ITA,BLR
+2011-frenchopen-2313,2011,frenchopen,2313,Maria Sharapova,Yung-Jan Chan,Complete,1,event_WS,round_3,Court Philippe Chatrier,A,wta310137,wta312015,RUS,TPE
+2011-frenchopen-2314,2011,frenchopen,2314,Yanina Wickmayer,Agnieszka Radwanska,Complete,2,event_WS,round_3,Court Suzanne Lenglen,B,wta312536,wta312251,BEL,POL
+2011-frenchopen-2315,2011,frenchopen,2315,Andrea Petkovic,Jarmila Gajdosova,Complete,1,event_WS,round_3,Court 1,C,wta310770,wta310169,GER,AUS
+2011-frenchopen-2316,2011,frenchopen,2316,Maria Kirilenko,Arantxa Rus,Complete,1,event_WS,round_3,Court 1,C,wta310577,wta313349,RUS,NED
+2011-frenchopen-2401,2011,frenchopen,2401,Daniela Hantuchova,Svetlana Kuznetsova,Complete,2,event_WS,round_4,Court 1,C,wta080394,wta110552,SVK,RUS
+2011-frenchopen-2403,2011,frenchopen,2403,Vera Zvonareva,Anastasia Pavlyuchenkova,Complete,2,event_WS,round_4,Court Philippe Chatrier,A,wta260142,wta313796,RUS,RUS
+2011-frenchopen-2404,2011,frenchopen,2404,Jelena Jankovic,Francesca Schiavone,Complete,2,event_WS,round_4,Court Suzanne Lenglen,B,wta100153,wta190666,SRB,ITA
+2011-frenchopen-2405,2011,frenchopen,2405,Na Li,Petra Kvitova,Complete,1,event_WS,round_4,Court Philippe Chatrier,A,wta120330,wta314206,CHN,CZE
+2011-frenchopen-2406,2011,frenchopen,2406,Ekaterina Makarova,Victoria Azarenka,Complete,2,event_WS,round_4,Court Suzanne Lenglen,B,wta311604,wta312001,RUS,BLR
+2011-frenchopen-2407,2011,frenchopen,2407,Maria Sharapova,Agnieszka Radwanska,Complete,1,event_WS,round_4,Court Philippe Chatrier,A,wta310137,wta312251,RUS,POL
+2011-frenchopen-2408,2011,frenchopen,2408,Andrea Petkovic,Maria Kirilenko,Complete,1,event_WS,round_4,Court 1,C,wta310770,wta310577,GER,RUS
+2011-frenchopen-2501,2011,frenchopen,2501,Svetlana Kuznetsova,Marion Bartoli,Complete,2,event_WS,round_5,Court Suzanne Lenglen,B,wta110552,wta020631,RUS,FRA
+2011-frenchopen-2502,2011,frenchopen,2502,Anastasia Pavlyuchenkova,Francesca Schiavone,Complete,2,event_WS,round_5,Court Philippe Chatrier,A,wta313796,wta190666,RUS,ITA
+2011-frenchopen-2503,2011,frenchopen,2503,Na Li,Victoria Azarenka,Complete,1,event_WS,round_5,Court Philippe Chatrier,A,wta120330,wta312001,CHN,BLR
+2011-frenchopen-2504,2011,frenchopen,2504,Maria Sharapova,Andrea Petkovic,Complete,1,event_WS,round_5,Court Suzanne Lenglen,B,wta310137,wta310770,RUS,GER
+2011-frenchopen-2601,2011,frenchopen,2601,Marion Bartoli,Francesca Schiavone,Complete,2,event_WS,round_6,Court Philippe Chatrier,A,wta020631,wta190666,FRA,ITA
+2011-frenchopen-2602,2011,frenchopen,2602,Na Li,Maria Sharapova,Complete,1,event_WS,round_6,Court Philippe Chatrier,A,wta120330,wta310137,CHN,RUS
+2011-frenchopen-2701,2011,frenchopen,2701,Francesca Schiavone,Na Li,Complete,2,event_WS,round_7,Court Philippe Chatrier,A,wta190666,wta120330,ITA,CHN
