@@ -1,10 +1,12 @@
-# Grand Slam Point-by-Point Data, 2011-15
+# Grand Slam Point-by-Point Data, 2011-17
 
 This repo contains point-by-point data for most[1] main-draw singles Grand Slam matches since 2011. It was scraped from the four Grand Slam websites shortly after each event.
 
 There are two files for each tournament. "-matches.csv" contain metadata for all the matches included from the tournament, and '-points.csv' contains all the available data for each point. 
 
 Unfortunately, much of the most useful data isn't available for every tournament. (For instance, there is no first/second serve indicator for many events, and rally length isn't included after the first few.) Much of the metadata isn't available for the last few years of tournaments, and some point-level data (such as winner type) isn't represented the same way throughout the whole dataset.
+
+[Update, Feb 2017: Rally length came back with the 2016 French. Also new in 2016 was the gradual introduction of distance run stats.]
 
 Still, there's a lot that can be done with this[2], especially since point-by-point tennis data is not readily available.
 
