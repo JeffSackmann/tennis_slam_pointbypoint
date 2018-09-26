@@ -1,0 +1,22 @@
+ServeWidth
+
+B: Body
+BC: Body/Center
+BW: Body/Wide
+C: Center ["down the T"]
+W: Wide
+
+ServeDepth
+
+CTL: Close To Line
+NCTL: Not Close To Line
+
+ReturnDepth
+
+D: Deep
+ND: Not Deep
+
+ServeIndicator
+
+1: 1st serve
+2: 2nd serve
