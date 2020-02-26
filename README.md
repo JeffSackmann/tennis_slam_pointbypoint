@@ -1,4 +1,4 @@
-# Grand Slam Point-by-Point Data, 2011-18
+# Grand Slam Point-by-Point Data, 2011-20
 
 This repo contains point-by-point data for most[1] main-draw singles Grand Slam matches since 2011. It was scraped from the four Grand Slam websites shortly after each event.
 
@@ -12,7 +12,7 @@ Still, there's a lot that can be done with this[2], especially since point-by-po
 
 I'll try to keep this updated after each tournament, but I can't make any promises as to punctuality.
 
-Note: This data is not available for the 2018 Australian Open or 2018 French Open. Some similar data is available for the 2018 AO, and at some point I may assemble that into a format as close to the other majors as possible.
+Note: This data is not available for the Australian Open or French Open beginning in 2018. Some similar data is available for those tournaments, but is more limited. I've compiled the available data from the 2020 AO into a similar format, and may at some point do the same with other 'missing' events.
 
 # License
 
