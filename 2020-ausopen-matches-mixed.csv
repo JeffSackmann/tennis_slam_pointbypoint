@@ -1,0 +1,32 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2,nation_partner1,nation_partner2
+2020-ausopen-XD101,2020,ausopen,XD101,B. Strycova,B. Mattek-Sands,,,,,,,,,CZE,USA,M. Melo,J. Murray,BRA,GBR
+2020-ausopen-XD102,2020,ausopen,XD102,S. Sanders,J. Ostapenko,,,,,,,,,AUS,LAT,M. Polmans,L. Paes,AUS,IND
+2020-ausopen-XD103,2020,ausopen,XD103,V. Williams,S. Zheng,,,,,,,,,USA,CHN,J. Cabal,J. Vliegen,COL,BEL
+2020-ausopen-XD104,2020,ausopen,XD104,D. Krawczyk,S. Hsieh,,,,,,,,,USA,TPE,J. Salisbury,N. Skupski,GBR,GBR
+2020-ausopen-XD105,2020,ausopen,XD105,H. Chan,Y. Duan,,,,,,,,,TPE,CHN,M. Venus,M. Demoliner,NZL,BRA
+2020-ausopen-XD106,2020,ausopen,XD106,I. Swiatek,E. Perez,,,,,,,,,POL,AUS,L. Kubot,L. Saville,POL,AUS
+2020-ausopen-XD107,2020,ausopen,XD107,B. Woolcock,A. Sharma,,,,,,,,,AUS,AUS,B. Mott,J. Smith,AUS,AUS
+2020-ausopen-XD108,2020,ausopen,XD108,V. Kuzmova,S. Stosur,,,,,,,,,SVK,AUS,F. Polasek,J. Rojer,SVK,NED
+2020-ausopen-XD109,2020,ausopen,XD109,L. Chan,A. Rodionova,,,,,,,,,TPE,AUS,I. Dodig,A. Harris,CRO,AUS
+2020-ausopen-XD110,2020,ausopen,XD110,A. Klepac,K. Flipkens,,,,,,,,,SLO,BEL,E. Roger-Vasselin,J. Melzer,FRA,AUT
+2020-ausopen-XD111,2020,ausopen,XD111,J. Moore,D. Jurak,,,,,,,,,AUS,CRO,M. Ebden,F. Martin,AUS,FRA
+2020-ausopen-XD112,2020,ausopen,XD112,L. Hradecka,G. Dabrowski,,,,,,,,,CZE,CAN,K. Krawietz,H. Kontinen,GER,FIN
+2020-ausopen-XD113,2020,ausopen,XD113,B. Krejcikova,K. Peschke,,,,,,,,,CZE,CZE,N. Mektic,W. Koolhof,CRO,NED
+2020-ausopen-XD114,2020,ausopen,XD114,A. Anisimova,M. Adamczak,,,,,,,,,USA,AUS,N. Kyrgios,D. Vega Hernandez,AUS,ESP
+2020-ausopen-XD115,2020,ausopen,XD115,N. Melichar,A. Rosolska,,,,,,,,,USA,POL,B. Soares,A. Mies,BRA,GER
+2020-ausopen-XD116,2020,ausopen,XD116,N. Kichenok,L. Kichenok,,,,,,,,,UKR,UKR,R. Bopanna,A. Krajicek,IND,USA
+2020-ausopen-XD201,2020,ausopen,XD201,B. Mattek-Sands,J. Ostapenko,,,,,,,,,USA,LAT,J. Murray,L. Paes,GBR,IND
+2020-ausopen-XD202,2020,ausopen,XD202,S. Zheng,S. Hsieh,,,,,,,,,CHN,TPE,J. Vliegen,N. Skupski,BEL,GBR
+2020-ausopen-XD203,2020,ausopen,XD203,H. Chan,I. Swiatek,,,,,,,,,TPE,POL,M. Venus,L. Kubot,NZL,POL
+2020-ausopen-XD204,2020,ausopen,XD204,A. Sharma,S. Stosur,,,,,,,,,AUS,AUS,J. Smith,J. Rojer,AUS,NED
+2020-ausopen-XD205,2020,ausopen,XD205,L. Chan,A. Klepac,,,,,,,,,TPE,SLO,I. Dodig,E. Roger-Vasselin,CRO,FRA
+2020-ausopen-XD206,2020,ausopen,XD206,J. Moore,G. Dabrowski,,,,,,,,,AUS,CAN,M. Ebden,H. Kontinen,AUS,FIN
+2020-ausopen-XD207,2020,ausopen,XD207,B. Krejcikova,A. Anisimova,,,,,,,,,CZE,USA,N. Mektic,N. Kyrgios,CRO,AUS
+2020-ausopen-XD208,2020,ausopen,XD208,N. Melichar,N. Kichenok,,,,,,,,,USA,UKR,B. Soares,R. Bopanna,BRA,IND
+2020-ausopen-XD301,2020,ausopen,XD301,B. Mattek-Sands,S. Zheng,,,,,,,,,USA,CHN,J. Murray,J. Vliegen,GBR,BEL
+2020-ausopen-XD302,2020,ausopen,XD302,I. Swiatek,A. Sharma,,,,,,,,,POL,AUS,L. Kubot,J. Smith,POL,AUS
+2020-ausopen-XD303,2020,ausopen,XD303,L. Chan,G. Dabrowski,,,,,,,,,TPE,CAN,I. Dodig,H. Kontinen,CRO,FIN
+2020-ausopen-XD304,2020,ausopen,XD304,B. Krejcikova,N. Kichenok,,,,,,,,,CZE,UKR,N. Mektic,R. Bopanna,CRO,IND
+2020-ausopen-XD401,2020,ausopen,XD401,B. Mattek-Sands,A. Sharma,,,,,,,,,USA,AUS,J. Murray,J. Smith,GBR,AUS
+2020-ausopen-XD402,2020,ausopen,XD402,G. Dabrowski,B. Krejcikova,,,,,,,,,CAN,CZE,H. Kontinen,N. Mektic,FIN,CRO
+2020-ausopen-XD501,2020,ausopen,XD501,B. Mattek-Sands,B. Krejcikova,,,,,,,,,USA,CZE,J. Murray,N. Mektic,GBR,CRO
