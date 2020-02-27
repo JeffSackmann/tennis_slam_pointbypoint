@@ -4,15 +4,19 @@ This repo contains point-by-point data for most[1] main-draw singles Grand Slam 
 
 There are two files for each tournament. "-matches.csv" contain metadata for all the matches included from the tournament, and '-points.csv' contains all the available data for each point. 
 
-Unfortunately, much of the most useful data isn't available for every tournament. (For instance, there is no first/second serve indicator for many events, and rally length isn't included after the first few.) Much of the metadata isn't available for the last few years of tournaments, and some point-level data (such as winner type) isn't represented the same way throughout the whole dataset.
+Unfortunately, much of the most useful data isn't available for every tournament, such as serve speed, first/second serve indicators, and rally length. In some cases, very similar data (such as rally length) does not appear in the same column for every event. On the bright side, there's more data now than a few years ago, with additions such as distance run, serve depth, and return depth.
 
-[Update, Feb 2017: Rally length came back with the 2016 French. Also new in 2016 was the gradual introduction of distance run stats.]
-
-Still, there's a lot that can be done with this[2], especially since point-by-point tennis data is not readily available.
+For even more detailed data, including non-slam matches but not including *all* slam matches, see my Match Charting Project[2].
 
 I'll try to keep this updated after each tournament, but I can't make any promises as to punctuality.
 
-Note: This data is not available for the Australian Open or French Open beginning in 2018. Some similar data is available for those tournaments, but is more limited. I've compiled the available data from the 2020 AO into a similar format, and may at some point do the same with other 'missing' events.
+# 'Missing' events
+
+This data is not available for the Australian Open or French Open beginning in 2018. Some similar data was published for those tournaments, but is more limited. I've compiled the available data from the 2020 AO into a similar format, and may at some point do the same with other 'missing' events.
+
+# Doubles
+
+I've added 2020 Australian Open men's, women's, and mixed doubles, with the same limitations as the 2020 AO singles mentioned above. To accommodate doubles, I've added several columns to the 'matches' files for doubles events, such that 'partner1' is the partner of 'player1', and so on. I don't have equivalent doubles data for most of the other slams with singles data included here, but I do have a bit, and I hope to clean that up and include it in the future.
 
 # License
 
@@ -22,9 +26,7 @@ In other words: Attribution is required. Non-commercial use only.
 
 ---
 
-[1] In general, this data is available for matches on courts with the Hawkeye system installed. The vast majority of missing matches are first-rounders.
+[1] In general, this data is available for matches on courts with the Hawkeye system installed. The vast majority of missing matches are first-rounders. Many of the more recent events included all matches.
 
-[2] For instance,
-http://heavytopspin.com/2011/09/16/win-probability-graphs-and-stats/
-http://heavytopspin.com/2011/08/07/do-points-get-shorter-as-the-match-progresses/
-http://heavytopspin.com/2011/06/06/fun-with-french-open-rally-length/
+[2] Homepage: http://www.tennisabstract.com/charting/meta.html
+Repo: https://github.com/JeffSackmann/tennis_MatchChartingProject
