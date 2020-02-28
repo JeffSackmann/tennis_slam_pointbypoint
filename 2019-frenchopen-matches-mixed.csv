@@ -1,0 +1,32 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2,nation_partner1,nation_partner2
+2019-frenchopen-XD101,2019,frenchopen,XD101,N. Melichar,L. Hradecka,,,,,,,,,USA,CZE,B. Soares,R. Bopanna,BRA,IND
+2019-frenchopen-XD102,2019,frenchopen,XD102,A. Klepac,A. Cornet,,,,,,,,,SLO,FRA,E. Roger-Vasselin,J. Eysseric,FRA,FRA
+2019-frenchopen-XD103,2019,frenchopen,XD103,A. Muhammad,P. Parmentier,,,,,,,,,USA,FRA,L. Bambridge,F. Martin,GBR,FRA
+2019-frenchopen-XD104,2019,frenchopen,XD104,G. Voskoboeva,A. Rosolska,,,,,,,,,KAZ,POL,M. Venus,N. Mektic,NZL,CRO
+2019-frenchopen-XD105,2019,frenchopen,XD105,D. Schuurs,A. Hesse,,,,,,,,,NED,FRA,J. Rojer,B. Bonzi,NED,FRA
+2019-frenchopen-XD106,2019,frenchopen,XD106,L. Kichenok,S. Aoyama,,,,,,,,,UKR,JPN,S. Gonzalez,D. Sharan,MEX,IND
+2019-frenchopen-XD107,2019,frenchopen,XD107,A. Spears,L. Chan,,,,,,,,,USA,TPE,J. Cabal,I. Dodig,COL,CRO
+2019-frenchopen-XD108,2019,frenchopen,XD108,Z. Yang,A. Groenefeld,,,,,,,,,CHN,GER,M. Gonzalez,R. Farah,ARG,COL
+2019-frenchopen-XD109,2019,frenchopen,XD109,H. Chan,J. Moore,,,,,,,,,TPE,AUS,O. Marach,J. Nedunchezhiyan,AUT,IND
+2019-frenchopen-XD110,2019,frenchopen,XD110,E. Hozumi,M. Martinez Sanchez,,,,,,,,,JPN,ESP,B. Mclachlan,N. Skupski,JPN,GBR
+2019-frenchopen-XD111,2019,frenchopen,XD111,M. Buzarnescu,D. Jurak,,,,,,,,,ROU,CRO,D. Inglot,A. Krajicek,GBR,USA
+2019-frenchopen-XD112,2019,frenchopen,XD112,M. Ninomiya,N. Kichenok,,,,,,,,,JPN,UKR,A. Sitak,A. Qureshi,NZL,PAK
+2019-frenchopen-XD113,2019,frenchopen,XD113,S. Zhang,M. Yerolymos,,,,,,,,,CHN,FRA,J. Peers,G. Barrere,AUS,FRA
+2019-frenchopen-XD114,2019,frenchopen,XD114,T. Babos,M. Arcangioli,,,,,,,,,HUN,FRA,M. Fucsovics,T. Lamasine,HUN,FRA
+2019-frenchopen-XD115,2019,frenchopen,XD115,R. Olaru,K. Peschke,,,,,,,,,ROU,CZE,F. Skugor,W. Koolhof,CRO,NED
+2019-frenchopen-XD116,2019,frenchopen,XD116,K. Christian,G. Dabrowski,,,,,,,,,USA,CAN,F. Nielsen,M. Pavic,DEN,CRO
+2019-frenchopen-XD201,2019,frenchopen,XD201,N. Melichar,A. Klepac,,,,,,,,,USA,SLO,B. Soares,E. Roger-Vasselin,BRA,FRA
+2019-frenchopen-XD202,2019,frenchopen,XD202,A. Muhammad,A. Rosolska,,,,,,,,,USA,POL,L. Bambridge,N. Mektic,GBR,CRO
+2019-frenchopen-XD203,2019,frenchopen,XD203,A. Hesse,L. Kichenok,,,,,,,,,FRA,UKR,B. Bonzi,S. Gonzalez,FRA,MEX
+2019-frenchopen-XD204,2019,frenchopen,XD204,L. Chan,A. Groenefeld,,,,,,,,,TPE,GER,I. Dodig,R. Farah,CRO,COL
+2019-frenchopen-XD205,2019,frenchopen,XD205,H. Chan,M. Martinez Sanchez,,,,,,,,,TPE,ESP,O. Marach,N. Skupski,AUT,GBR
+2019-frenchopen-XD206,2019,frenchopen,XD206,D. Jurak,N. Kichenok,,,,,,,,,CRO,UKR,A. Krajicek,A. Qureshi,USA,PAK
+2019-frenchopen-XD207,2019,frenchopen,XD207,S. Zhang,T. Babos,,,,,,,,,CHN,HUN,J. Peers,M. Fucsovics,AUS,HUN
+2019-frenchopen-XD208,2019,frenchopen,XD208,R. Olaru,G. Dabrowski,,,,,,,,,ROU,CAN,F. Skugor,M. Pavic,CRO,CRO
+2019-frenchopen-XD301,2019,frenchopen,XD301,N. Melichar,A. Rosolska,,,,,,,,,USA,POL,B. Soares,N. Mektic,BRA,CRO
+2019-frenchopen-XD302,2019,frenchopen,XD302,A. Hesse,L. Chan,,,,,,,,,FRA,TPE,B. Bonzi,I. Dodig,FRA,CRO
+2019-frenchopen-XD303,2019,frenchopen,XD303,H. Chan,N. Kichenok,,,,,,,,,TPE,UKR,O. Marach,A. Qureshi,AUT,PAK
+2019-frenchopen-XD304,2019,frenchopen,XD304,S. Zhang,G. Dabrowski,,,,,,,,,CHN,CAN,J. Peers,M. Pavic,AUS,CRO
+2019-frenchopen-XD401,2019,frenchopen,XD401,N. Melichar,L. Chan,,,,,,,,,USA,TPE,B. Soares,I. Dodig,BRA,CRO
+2019-frenchopen-XD402,2019,frenchopen,XD402,N. Kichenok,G. Dabrowski,,,,,,,,,UKR,CAN,A. Qureshi,M. Pavic,PAK,CRO
+2019-frenchopen-XD501,2019,frenchopen,XD501,L. Chan,G. Dabrowski,,,,,,,,,TPE,CAN,I. Dodig,M. Pavic,CRO,CRO

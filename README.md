@@ -2,7 +2,7 @@
 
 This repo contains point-by-point data for most[1] main-draw singles Grand Slam matches since 2011. It was scraped from the four Grand Slam websites shortly after each event.
 
-There are two files for each tournament. "-matches.csv" contain metadata for all the matches included from the tournament, and '-points.csv' contains all the available data for each point. 
+There are two files for each tournament. "-matches.csv" contain metadata for all the singles matches included from the tournament, and '-points.csv' contains all the available data for each point. Where doubles data is available, men's and women's doubles are in files with suffixes "-matches-doubles.csv" and "-points-doubles.csv." Where mixed doubles data is available, it is in files with suffixes "-matches-mixed.csv" and "-points-mixed.csv."
 
 Unfortunately, much of the most useful data isn't available for every tournament, such as serve speed, first/second serve indicators, and rally length. In some cases, very similar data (such as rally length) does not appear in the same column for every event. On the bright side, there's more data now than a few years ago, with additions such as distance run, serve depth, and return depth.
 
@@ -12,11 +12,13 @@ I'll try to keep this updated after each tournament, but I can't make any promis
 
 # 'Missing' events
 
-This data is not available for the Australian Open or French Open beginning in 2018. Some similar data was published for those tournaments, but is more limited. I've compiled the available data from the 2020 AO into a similar format, and may at some point do the same with other 'missing' events.
+This data is not available in the same format for the Australian Open or French Open beginning in 2018. Some similar data was published for those tournaments, but is more limited. I've transformed the published data from the 2019 French Open and 2020 AO into a similar format, and may at some point do the same with other 'missing' events.
+
+From the 2019 French Open, there are many matches (especially doubles) in which serve speed and rally length were not recorded. In the original source data, serve speed is always noted as 0, and rally length is 3 or 0. Use of data from those matches would require careful attention to those limitations.
 
 # Doubles
 
-I've added 2020 Australian Open men's, women's, and mixed doubles, with the same limitations as the 2020 AO singles mentioned above. To accommodate doubles, I've added several columns to the 'matches' files for doubles events, such that 'partner1' is the partner of 'player1', and so on. I don't have equivalent doubles data for most of the other slams with singles data included here, but I do have a bit, and I hope to clean that up and include it in the future.
+I've added 2019 French Open and 2020 Australian Open men's, women's, and mixed doubles, with the same limitations as the singles data from those events, as mentioned above. To accommodate doubles, I've added several columns to the 'matches' files for doubles events, such that 'partner1' is the partner of 'player1', and so on. I don't have equivalent doubles data for most of the other slams with singles data included here, but I do have a bit, and I hope to clean that up and include it in the future.
 
 # License
 
