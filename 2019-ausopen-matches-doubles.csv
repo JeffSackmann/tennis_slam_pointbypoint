@@ -1,0 +1,126 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2,nation_partner1,nation_partner2
+2019-ausopen-MD101,2019,ausopen,MD101,O. Marach,S. Bolelli,,,,,,,,,AUT,ITA,M. Pavic,A. Seppi,CRO,ITA
+2019-ausopen-MD102,2019,ausopen,MD102,M. Purcell,M. Gonzalez,,,,,,,,,AUS,ARG,L. Saville,N. Jarry,AUS,CHI
+2019-ausopen-MD103,2019,ausopen,MD103,R. Carballes Baena,H. Nys,,,,,,,,,ESP,FRA,A. Rublev,B. Paire,RUS,FRA
+2019-ausopen-MD104,2019,ausopen,MD104,L. Mayer,F. Lopez,,,,,,,,,ARG,ESP,J. Sousa,M. Lopez,POR,ESP
+2019-ausopen-MD105,2019,ausopen,MD105,D. Inglot,T. Daniel,,,,,,,,,GBR,JPN,F. Skugor,J. Millman,CRO,AUS
+2019-ausopen-MD106,2019,ausopen,MD106,M. Demoliner,G. Granollers,,,,,,,,,BRA,ESP,F. Nielsen,M. Granollers,DEN,ESP
+2019-ausopen-MD107,2019,ausopen,MD107,L. Hewitt,M. Daniell,,,,,,,,,AUS,NZL,J. Smith,W. Koolhof,AUS,NED
+2019-ausopen-MD108,2019,ausopen,MD108,B. Klahn,R. Klaasen,,,,,,,,,USA,RSA,M. Kukushkin,M. Venus,KAZ,NZL
+2019-ausopen-MD109,2019,ausopen,MD109,J. Murray,R. Jebavy,,,,,,,,,GBR,CZE,B. Soares,A. Molteni,BRA,ARG
+2019-ausopen-MD110,2019,ausopen,MD110,L. Bambridge,M. Copil,,,,,,,,,GBR,ROU,J. O'Mara,M. Fucsovics,GBR,HUN
+2019-ausopen-MD111,2019,ausopen,MD111,K. Krawietz,N. Monroe,,,,,,,,,GER,USA,N. Mektic,J. Nedunchezhiyan,CRO,IND
+2019-ausopen-MD112,2019,ausopen,MD112,N. Kyrgios,I. Dodig,,,,,,,,,AUS,CRO,M. Reid,E. Roger-Vasselin,AUS,FRA
+2019-ausopen-MD113,2019,ausopen,MD113,H. Kontinen,S. Gonzalez,,,,,,,,,FIN,MEX,J. Peers,A. Qureshi,AUS,PAK
+2019-ausopen-MD114,2019,ausopen,MD114,J. Duckworth,K. Skupski,,,,,,,,,AUS,GBR,J. Thompson,N. Skupski,AUS,GBR
+2019-ausopen-MD115,2019,ausopen,MD115,M. Ebden,S. Johnson,,,,,,,,,AUS,USA,R. Lindstedt,D. Kudla,SWE,USA
+2019-ausopen-MD116,2019,ausopen,MD116,R. Albot,B. Mclachlan,,,,,,,,,MDA,JPN,M. Jaziri,J. Struff,TUN,GER
+2019-ausopen-MD117,2019,ausopen,MD117,P. Herbert,D. Marrero,,,,,,,,,FRA,ESP,N. Mahut,M. Zverev,FRA,GER
+2019-ausopen-MD118,2019,ausopen,MD118,D. Molchanov,M. Berrettini,,,,,,,,,UKR,ITA,I. Zelenay,M. Cecchinato,SVK,ITA
+2019-ausopen-MD119,2019,ausopen,MD119,P. Oswald,P. Cuevas,,,,,,,,,AUT,URU,T. Puetz,F. Verdasco,GER,ESP
+2019-ausopen-MD120,2019,ausopen,MD120,G. Pella,R. Ram,,,,,,,,,ARG,USA,H. Podlipnik-Castillo,J. Salisbury,CHI,GBR
+2019-ausopen-MD121,2019,ausopen,MD121,R. Bopanna,P. Carreno Busta,,,,,,,,,IND,ESP,D. Sharan,G. Garcia-Lopez,IND,ESP
+2019-ausopen-MD122,2019,ausopen,MD122,M. Gong,M. Klizan,,,,,,,,,CHN,SVK,Z. Zhang,M. Matkowski,CHN,POL
+2019-ausopen-MD123,2019,ausopen,MD123,P. Gojowczyk,A. Mannarino,,,,,,,,,GER,FRA,A. Ramos-Vinolas,A. Mies,ESP,GER
+2019-ausopen-MD124,2019,ausopen,MD124,A. Bolt,B. Bryan,,,,,,,,,AUS,USA,M. Polmans,M. Bryan,AUS,USA
+2019-ausopen-MD125,2019,ausopen,MD125,L. Kubot,A. Bedene,,,,,,,,,POL,SLO,H. Zeballos,M. Marterer,ARG,GER
+2019-ausopen-MD126,2019,ausopen,MD126,M. Mcdonald,J. Chardy,,,,,,,,,USA,FRA,T. Sandgren,F. Martin,USA,FRA
+2019-ausopen-MD127,2019,ausopen,MD127,G. Duran,B. Ellis,,,,,,,,,ARG,AUS,D. Schwartzman,A. Popyrin,ARG,AUS
+2019-ausopen-MD128,2019,ausopen,MD128,M. Arevalo,J. Rojer,,,,,,,,,ESA,NED,J. Cerretani,H. Tecau,USA,ROU
+2019-ausopen-MD129,2019,ausopen,MD129,R. Haase,R. Harrison,,,,,,,,,NED,USA,M. Middelkoop,S. Querrey,NED,USA
+2019-ausopen-MD130,2019,ausopen,MD130,A. Krajicek,L. Paes,,,,,,,,,USA,IND,A. Sitak,M. Reyes-Varela,NZL,MEX
+2019-ausopen-MD131,2019,ausopen,MD131,T. Fritz,M. Basic,,,,,,,,,USA,BIH,C. Norrie,D. Dzumhur,GBR,BIH
+2019-ausopen-MD132,2019,ausopen,MD132,J. Sock,J. Cabal,,,,,,,,,USA,COL,J. Withrow,R. Farah,USA,COL
+2019-ausopen-MD201,2019,ausopen,MD201,O. Marach,M. Gonzalez,,,,,,,,,AUT,ARG,M. Pavic,N. Jarry,CRO,CHI
+2019-ausopen-MD202,2019,ausopen,MD202,R. Carballes Baena,L. Mayer,,,,,,,,,ESP,ARG,A. Rublev,J. Sousa,RUS,POR
+2019-ausopen-MD203,2019,ausopen,MD203,D. Inglot,M. Demoliner,,,,,,,,,GBR,BRA,F. Skugor,F. Nielsen,CRO,DEN
+2019-ausopen-MD204,2019,ausopen,MD204,M. Daniell,R. Klaasen,,,,,,,,,NZL,RSA,W. Koolhof,M. Venus,NED,NZL
+2019-ausopen-MD205,2019,ausopen,MD205,J. Murray,L. Bambridge,,,,,,,,,GBR,GBR,B. Soares,J. O'Mara,BRA,GBR
+2019-ausopen-MD206,2019,ausopen,MD206,K. Krawietz,I. Dodig,,,,,,,,,GER,CRO,N. Mektic,E. Roger-Vasselin,CRO,FRA
+2019-ausopen-MD207,2019,ausopen,MD207,H. Kontinen,K. Skupski,,,,,,,,,FIN,GBR,J. Peers,N. Skupski,AUS,GBR
+2019-ausopen-MD208,2019,ausopen,MD208,S. Johnson,R. Albot,,,,,,,,,USA,MDA,D. Kudla,M. Jaziri,USA,TUN
+2019-ausopen-MD209,2019,ausopen,MD209,P. Herbert,D. Molchanov,,,,,,,,,FRA,UKR,N. Mahut,I. Zelenay,FRA,SVK
+2019-ausopen-MD210,2019,ausopen,MD210,P. Cuevas,R. Ram,,,,,,,,,URU,USA,F. Verdasco,J. Salisbury,ESP,GBR
+2019-ausopen-MD211,2019,ausopen,MD211,P. Carreno Busta,M. Gong,,,,,,,,,ESP,CHN,G. Garcia-Lopez,Z. Zhang,ESP,CHN
+2019-ausopen-MD212,2019,ausopen,MD212,A. Mannarino,B. Bryan,,,,,,,,,FRA,USA,A. Mies,M. Bryan,GER,USA
+2019-ausopen-MD213,2019,ausopen,MD213,L. Kubot,J. Chardy,,,,,,,,,POL,FRA,H. Zeballos,F. Martin,ARG,FRA
+2019-ausopen-MD214,2019,ausopen,MD214,B. Ellis,M. Arevalo,,,,,,,,,AUS,ESA,A. Popyrin,J. Cerretani,AUS,USA
+2019-ausopen-MD215,2019,ausopen,MD215,R. Harrison,A. Krajicek,,,,,,,,,USA,USA,S. Querrey,A. Sitak,USA,NZL
+2019-ausopen-MD216,2019,ausopen,MD216,T. Fritz,J. Sock,,,,,,,,,USA,USA,C. Norrie,J. Withrow,GBR,USA
+2019-ausopen-MD301,2019,ausopen,MD301,M. Gonzalez,L. Mayer,,,,,,,,,ARG,ARG,N. Jarry,J. Sousa,CHI,POR
+2019-ausopen-MD302,2019,ausopen,MD302,M. Demoliner,R. Klaasen,,,,,,,,,BRA,RSA,F. Nielsen,M. Venus,DEN,NZL
+2019-ausopen-MD303,2019,ausopen,MD303,J. Murray,K. Krawietz,,,,,,,,,GBR,GER,B. Soares,N. Mektic,BRA,CRO
+2019-ausopen-MD304,2019,ausopen,MD304,H. Kontinen,R. Albot,,,,,,,,,FIN,MDA,J. Peers,M. Jaziri,AUS,TUN
+2019-ausopen-MD305,2019,ausopen,MD305,P. Herbert,R. Ram,,,,,,,,,FRA,USA,N. Mahut,J. Salisbury,FRA,GBR
+2019-ausopen-MD306,2019,ausopen,MD306,P. Carreno Busta,B. Bryan,,,,,,,,,ESP,USA,G. Garcia-Lopez,M. Bryan,ESP,USA
+2019-ausopen-MD307,2019,ausopen,MD307,L. Kubot,B. Ellis,,,,,,,,,POL,AUS,H. Zeballos,A. Popyrin,ARG,AUS
+2019-ausopen-MD308,2019,ausopen,MD308,R. Harrison,J. Sock,,,,,,,,,USA,USA,S. Querrey,J. Withrow,USA,USA
+2019-ausopen-MD401,2019,ausopen,MD401,L. Mayer,R. Klaasen,,,,,,,,,ARG,RSA,J. Sousa,M. Venus,POR,NZL
+2019-ausopen-MD402,2019,ausopen,MD402,J. Murray,H. Kontinen,,,,,,,,,GBR,FIN,B. Soares,J. Peers,BRA,AUS
+2019-ausopen-MD403,2019,ausopen,MD403,P. Herbert,B. Bryan,,,,,,,,,FRA,USA,N. Mahut,M. Bryan,FRA,USA
+2019-ausopen-MD404,2019,ausopen,MD404,L. Kubot,R. Harrison,,,,,,,,,POL,USA,H. Zeballos,S. Querrey,ARG,USA
+2019-ausopen-MD501,2019,ausopen,MD501,L. Mayer,H. Kontinen,,,,,,,,,ARG,FIN,J. Sousa,J. Peers,POR,AUS
+2019-ausopen-MD502,2019,ausopen,MD502,P. Herbert,R. Harrison,,,,,,,,,FRA,USA,N. Mahut,S. Querrey,FRA,USA
+2019-ausopen-MD601,2019,ausopen,MD601,H. Kontinen,P. Herbert,,,,,,,,,FIN,FRA,J. Peers,N. Mahut,AUS,FRA
+2019-ausopen-WD101,2019,ausopen,WD101,B. Krejcikova,A. Bogdan,,,,,,,,,CZE,ROU,K. Siniakova,An. Rodionova,CZE,AUS
+2019-ausopen-WD102,2019,ausopen,WD102,A. Krunic,M. Adamczak,,,,,,,,,SRB,AUS,S. Zheng,J. Moore,CHN,AUS
+2019-ausopen-WD103,2019,ausopen,WD103,V. Kudermetova,B. Bencic,,,,,,,,,RUS,SUI,S. Santamaria,D. Vekic,USA,CRO
+2019-ausopen-WD104,2019,ausopen,WD104,E. Mertens,B. Mattek-Sands,,,,,,,,,BEL,USA,A. Sabalenka,D. Schuurs,BLR,NED
+2019-ausopen-WD105,2019,ausopen,WD105,I. Begu,L. Cabrera,,,,,,,,,ROU,AUS,M. Buzarnescu,J. Fourlis,ROU,AUS
+2019-ausopen-WD106,2019,ausopen,WD106,A. Cornet,M. Linette,,,,,,,,,FRA,POL,P. Martic,A. Tomljanovic,CRO,AUS
+2019-ausopen-WD107,2019,ausopen,WD107,V. Kuzmova,S. Stosur,,,,,,,,,SVK,AUS,M. Rybarikova,S. Zhang,SVK,CHN
+2019-ausopen-WD108,2019,ausopen,WD108,B. Pera,S. Hsieh,,,,,,,,,USA,TPE,R. Peterson,A. Spears,SWE,USA
+2019-ausopen-WD109,2019,ausopen,WD109,G. Dabrowski,B. Strycova,,,,,,,,,CAN,CZE,Y. Xu,M. Vondrousova,CHN,CZE
+2019-ausopen-WD110,2019,ausopen,WD110,D. Jakupovic,Z. Diyas,,,,,,,,,SLO,KAZ,I. Khromacheva,Y. Putintseva,RUS,KAZ
+2019-ausopen-WD111,2019,ausopen,WD111,L. Kumkhum,A. Bai,,,,,,,,,THA,AUS,E. Rodina,Z. Hives,RUS,AUS
+2019-ausopen-WD112,2019,ausopen,WD112,N. Hibino,M. Kato,,,,,,,,,JPN,JPN,D. Krawczyk,M. Ninomiya,USA,JPN
+2019-ausopen-WD113,2019,ausopen,WD113,A. Groenefeld,S. Aoyama,,,,,,,,,GER,JPN,V. King,L. Marozava,USA,BLR
+2019-ausopen-WD114,2019,ausopen,WD114,K. Chang,K. Christian,,,,,,,,,TPE,USA,C. Hsu,A. Muhammad,TPE,USA
+2019-ausopen-WD115,2019,ausopen,WD115,S. Cirstea,Y. Duan,,,,,,,,,ROU,CHN,J. Ostapenko,V. Lapko,LAT,BLR
+2019-ausopen-WD116,2019,ausopen,WD116,D. Aiava,A. Klepac,,,,,,,,,AUS,SLO,N. Bains,M. Martinez Sanchez,AUS,ESP
+2019-ausopen-WD117,2019,ausopen,WD117,H. Chan,E. Perez,,,,,,,,,TPE,AUS,L. Chan,Ar. Rodionova,TPE,AUS
+2019-ausopen-WD118,2019,ausopen,WD118,P. Parmentier,X. Jiang,,,,,,,,,FRA,CHN,M. Sakkari,Q. Wang,GRE,CHN
+2019-ausopen-WD119,2019,ausopen,WD119,A. Guarachi,A. Sasnovich,,,,,,,,,CHI,BLR,A. Van Uytvanck,T. Townsend,BEL,USA
+2019-ausopen-WD120,2019,ausopen,WD120,A. Petkovic,E. Hozumi,,,,,,,,,GER,JPN,M. Puig,A. Rosolska,PUR,POL
+2019-ausopen-WD121,2019,ausopen,WD121,S. Peng,V. Azarenka,,,,,,,,,CHN,BLR,Z. Yang,A. Barty,CHN,AUS
+2019-ausopen-WD122,2019,ausopen,WD122,A. Sharma,J. Brady,,,,,,,,,AUS,USA,I. Wallace,A. Riske,AUS,USA
+2019-ausopen-WD123,2019,ausopen,WD123,N. Kichenok,O. Kalashnikova,,,,,,,,,UKR,GEO,Y. Wang,D. Yastremska,CHN,UKR
+2019-ausopen-WD124,2019,ausopen,WD124,T. Maria,N. Melichar,,,,,,,,,GER,USA,H. Watson,K. Peschke,GBR,CZE
+2019-ausopen-WD125,2019,ausopen,WD125,L. Hradecka,M. Barthel,,,,,,,,,CZE,GER,E. Makarova,S. Kenin,RUS,USA
+2019-ausopen-WD126,2019,ausopen,WD126,I. Bara,L. Arruabarrena,,,,,,,,,ROU,ESP,M. Niculescu,A. Parra Santonja,ROU,ESP
+2019-ausopen-WD127,2019,ausopen,WD127,A. Panova,M. Gasparyan,,,,,,,,,RUS,RUS,L. Siegemund,D. Gavrilova,GER,AUS
+2019-ausopen-WD128,2019,ausopen,WD128,A. Anisimova,R. Atawo,,,,,,,,,USA,USA,D. Collins,K. Srebotnik,USA,SLO
+2019-ausopen-WD129,2019,ausopen,WD129,K. Flipkens,T. Bacsinszky,,,,,,,,,BEL,SUI,J. Larsson,V. Zvonareva,SWE,RUS
+2019-ausopen-WD130,2019,ausopen,WD130,K. Birrell,H. Dart,,,,,,,,,AUS,GBR,P. Hon,A. Kontaveit,AUS,EST
+2019-ausopen-WD131,2019,ausopen,WD131,A. Pavlyuchenkova,X. Han,,,,,,,,,RUS,CHN,A. Sevastova,D. Jurak,LAT,CRO
+2019-ausopen-WD132,2019,ausopen,WD132,R. Olaru,T. Babos,,,,,,,,,ROU,HUN,G. Voskoboeva,K. Mladenovic,KAZ,FRA
+2019-ausopen-WD201,2019,ausopen,WD201,B. Krejcikova,M. Adamczak,,,,,,,,,CZE,AUS,K. Siniakova,J. Moore,CZE,AUS
+2019-ausopen-WD202,2019,ausopen,WD202,V. Kudermetova,E. Mertens,,,,,,,,,RUS,BEL,S. Santamaria,A. Sabalenka,USA,BLR
+2019-ausopen-WD203,2019,ausopen,WD203,I. Begu,A. Cornet,,,,,,,,,ROU,FRA,M. Buzarnescu,P. Martic,ROU,CRO
+2019-ausopen-WD204,2019,ausopen,WD204,S. Stosur,S. Hsieh,,,,,,,,,AUS,TPE,S. Zhang,A. Spears,CHN,USA
+2019-ausopen-WD205,2019,ausopen,WD205,B. Strycova,Z. Diyas,,,,,,,,,CZE,KAZ,M. Vondrousova,Y. Putintseva,CZE,KAZ
+2019-ausopen-WD206,2019,ausopen,WD206,A. Bai,N. Hibino,,,,,,,,,AUS,JPN,Z. Hives,D. Krawczyk,AUS,USA
+2019-ausopen-WD207,2019,ausopen,WD207,S. Aoyama,K. Christian,,,,,,,,,JPN,USA,L. Marozava,A. Muhammad,BLR,USA
+2019-ausopen-WD208,2019,ausopen,WD208,S. Cirstea,A. Klepac,,,,,,,,,ROU,SLO,J. Ostapenko,M. Martinez Sanchez,LAT,ESP
+2019-ausopen-WD209,2019,ausopen,WD209,H. Chan,X. Jiang,,,,,,,,,TPE,CHN,L. Chan,Q. Wang,TPE,CHN
+2019-ausopen-WD210,2019,ausopen,WD210,A. Sasnovich,E. Hozumi,,,,,,,,,BLR,JPN,T. Townsend,A. Rosolska,USA,POL
+2019-ausopen-WD212,2019,ausopen,WD212,N. Kichenok,N. Melichar,,,,,,,,,UKR,USA,Y. Wang,K. Peschke,CHN,CZE
+2019-ausopen-WD213,2019,ausopen,WD213,L. Hradecka,I. Bara,,,,,,,,,CZE,ROU,E. Makarova,M. Niculescu,RUS,ROU
+2019-ausopen-WD214,2019,ausopen,WD214,M. Gasparyan,R. Atawo,,,,,,,,,RUS,USA,D. Gavrilova,K. Srebotnik,AUS,SLO
+2019-ausopen-WD215,2019,ausopen,WD215,K. Flipkens,H. Dart,,,,,,,,,BEL,GBR,J. Larsson,A. Kontaveit,SWE,EST
+2019-ausopen-WD216,2019,ausopen,WD216,X. Han,T. Babos,,,,,,,,,CHN,HUN,D. Jurak,K. Mladenovic,CRO,FRA
+2019-ausopen-WD301,2019,ausopen,WD301,B. Krejcikova,E. Mertens,,,,,,,,,CZE,BEL,K. Siniakova,A. Sabalenka,CZE,BLR
+2019-ausopen-WD302,2019,ausopen,WD302,A. Cornet,S. Stosur,,,,,,,,,FRA,AUS,P. Martic,S. Zhang,CRO,CHN
+2019-ausopen-WD303,2019,ausopen,WD303,B. Strycova,N. Hibino,,,,,,,,,CZE,JPN,M. Vondrousova,D. Krawczyk,CZE,USA
+2019-ausopen-WD304,2019,ausopen,WD304,K. Christian,A. Klepac,,,,,,,,,USA,SLO,A. Muhammad,M. Martinez Sanchez,USA,ESP
+2019-ausopen-WD305,2019,ausopen,WD305,H. Chan,A. Sasnovich,,,,,,,,,TPE,BLR,L. Chan,T. Townsend,TPE,USA
+2019-ausopen-WD306,2019,ausopen,WD306,J. Brady,N. Melichar,,,,,,,,,USA,USA,A. Riske,K. Peschke,USA,CZE
+2019-ausopen-WD307,2019,ausopen,WD307,I. Bara,R. Atawo,,,,,,,,,ROU,USA,M. Niculescu,K. Srebotnik,ROU,SLO
+2019-ausopen-WD308,2019,ausopen,WD308,K. Flipkens,T. Babos,,,,,,,,,BEL,HUN,J. Larsson,K. Mladenovic,SWE,FRA
+2019-ausopen-WD401,2019,ausopen,WD401,B. Krejcikova,S. Stosur,,,,,,,,,CZE,AUS,K. Siniakova,S. Zhang,CZE,CHN
+2019-ausopen-WD402,2019,ausopen,WD402,B. Strycova,A. Klepac,,,,,,,,,CZE,SLO,M. Vondrousova,M. Martinez Sanchez,CZE,ESP
+2019-ausopen-WD403,2019,ausopen,WD403,H. Chan,J. Brady,,,,,,,,,TPE,USA,L. Chan,A. Riske,TPE,USA
+2019-ausopen-WD404,2019,ausopen,WD404,R. Atawo,T. Babos,,,,,,,,,USA,HUN,K. Srebotnik,K. Mladenovic,SLO,FRA
+2019-ausopen-WD501,2019,ausopen,WD501,S. Stosur,B. Strycova,,,,,,,,,AUS,CZE,S. Zhang,M. Vondrousova,CHN,CZE
+2019-ausopen-WD502,2019,ausopen,WD502,J. Brady,T. Babos,,,,,,,,,USA,HUN,A. Riske,K. Mladenovic,USA,FRA
+2019-ausopen-WD601,2019,ausopen,WD601,S. Stosur,T. Babos,,,,,,,,,AUS,HUN,S. Zhang,K. Mladenovic,CHN,FRA

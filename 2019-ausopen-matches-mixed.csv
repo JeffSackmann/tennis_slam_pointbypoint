@@ -1,0 +1,32 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2,nation_partner1,nation_partner2
+2019-ausopen-XD101,2019,ausopen,XD101,G. Dabrowski,P. Hon,,,,,,,,,CAN,AUS,M. Pavic,A. Popyrin,CRO,AUS
+2019-ausopen-XD102,2019,ausopen,XD102,D. Collins,H. Chan,,,,,,,,,USA,TPE,M. Venus,J. Rojer,NZL,NED
+2019-ausopen-XD103,2019,ausopen,XD103,K. Srebotnik,M. Martinez Sanchez,,,,,,,,,SLO,ESP,F. Skugor,N. Skupski,CRO,GBR
+2019-ausopen-XD104,2019,ausopen,XD104,J. Moore,M. Ninomiya,,,,,,,,,AUS,JPN,A. Whittington,B. Mclachlan,AUS,JPN
+2019-ausopen-XD105,2019,ausopen,XD105,B. Krejcikova,T. Bacsinszky,,,,,,,,,CZE,SUI,R. Ram,N. Mahut,USA,FRA
+2019-ausopen-XD106,2019,ausopen,XD106,A. Rosolska,I. Swiatek,,,,,,,,,POL,POL,N. Mektic,L. Kubot,CRO,POL
+2019-ausopen-XD107,2019,ausopen,XD107,S. Stosur,K. Peschke,,,,,,,,,AUS,CZE,L. Paes,W. Koolhof,IND,NED
+2019-ausopen-XD108,2019,ausopen,XD108,Z. Yang,A. Groenefeld,,,,,,,,,CHN,GER,R. Bopanna,R. Farah,IND,COL
+2019-ausopen-XD109,2019,ausopen,XD109,E. Makarova,A. Klepac,,,,,,,,,RUS,SLO,A. Sitak,E. Roger-Vasselin,NZL,FRA
+2019-ausopen-XD110,2019,ausopen,XD110,A. Sharma,M. Inglis,,,,,,,,,AUS,AUS,J. Smith,J. Kubler,AUS,AUS
+2019-ausopen-XD111,2019,ausopen,XD111,K. Mladenovic,J. Larsson,,,,,,,,,FRA,SWE,R. Lindstedt,D. Inglot,SWE,GBR
+2019-ausopen-XD112,2019,ausopen,XD112,B. Mattek-Sands,M. Buzarnescu,,,,,,,,,USA,ROU,J. Murray,O. Marach,GBR,AUT
+2019-ausopen-XD113,2019,ausopen,XD113,A. Spears,L. Chan,,,,,,,,,USA,TPE,J. Cabal,I. Dodig,COL,CRO
+2019-ausopen-XD114,2019,ausopen,XD114,D. Schuurs,M. Adamczak,,,,,,,,,NED,AUS,M. Middelkoop,M. Reid,NED,AUS
+2019-ausopen-XD115,2019,ausopen,XD115,S. Zhang,T. Babos,,,,,,,,,CHN,HUN,J. Peers,M. Fucsovics,AUS,HUN
+2019-ausopen-XD116,2019,ausopen,XD116,I. Begu,N. Melichar,,,,,,,,,ROU,USA,H. Tecau,B. Soares,ROU,BRA
+2019-ausopen-XD201,2019,ausopen,XD201,G. Dabrowski,H. Chan,,,,,,,,,CAN,TPE,M. Pavic,J. Rojer,CRO,NED
+2019-ausopen-XD202,2019,ausopen,XD202,M. Martinez Sanchez,J. Moore,,,,,,,,,ESP,AUS,N. Skupski,A. Whittington,GBR,AUS
+2019-ausopen-XD203,2019,ausopen,XD203,B. Krejcikova,I. Swiatek,,,,,,,,,CZE,POL,R. Ram,L. Kubot,USA,POL
+2019-ausopen-XD204,2019,ausopen,XD204,S. Stosur,A. Groenefeld,,,,,,,,,AUS,GER,L. Paes,R. Farah,IND,COL
+2019-ausopen-XD205,2019,ausopen,XD205,A. Klepac,A. Sharma,,,,,,,,,SLO,AUS,E. Roger-Vasselin,J. Smith,FRA,AUS
+2019-ausopen-XD206,2019,ausopen,XD206,K. Mladenovic,B. Mattek-Sands,,,,,,,,,FRA,USA,R. Lindstedt,J. Murray,SWE,GBR
+2019-ausopen-XD207,2019,ausopen,XD207,A. Spears,D. Schuurs,,,,,,,,,USA,NED,J. Cabal,M. Middelkoop,COL,NED
+2019-ausopen-XD208,2019,ausopen,XD208,T. Babos,N. Melichar,,,,,,,,,HUN,USA,M. Fucsovics,B. Soares,HUN,BRA
+2019-ausopen-XD301,2019,ausopen,XD301,G. Dabrowski,M. Martinez Sanchez,,,,,,,,,CAN,ESP,M. Pavic,N. Skupski,CRO,GBR
+2019-ausopen-XD302,2019,ausopen,XD302,B. Krejcikova,A. Groenefeld,,,,,,,,,CZE,GER,R. Ram,R. Farah,USA,COL
+2019-ausopen-XD303,2019,ausopen,XD303,A. Sharma,B. Mattek-Sands,,,,,,,,,AUS,USA,J. Smith,J. Murray,AUS,GBR
+2019-ausopen-XD304,2019,ausopen,XD304,A. Spears,N. Melichar,,,,,,,,,USA,USA,J. Cabal,B. Soares,COL,BRA
+2019-ausopen-XD401,2019,ausopen,XD401,M. Martinez Sanchez,B. Krejcikova,,,,,,,,,ESP,CZE,N. Skupski,R. Ram,GBR,USA
+2019-ausopen-XD402,2019,ausopen,XD402,A. Sharma,N. Melichar,,,,,,,,,AUS,USA,J. Smith,B. Soares,AUS,BRA
+2019-ausopen-XD501,2019,ausopen,XD501,B. Krejcikova,A. Sharma,,,,,,,,,CZE,AUS,R. Ram,J. Smith,USA,AUS

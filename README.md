@@ -12,13 +12,13 @@ I'll try to keep this updated after each tournament, but I can't make any promis
 
 # 'Missing' events
 
-This data is not available in the same format for the Australian Open or French Open beginning in 2018. Some similar data was published for those tournaments, but is more limited. I've transformed the published data from the 2019 French Open and 2020 AO into a similar format, and may at some point do the same with other 'missing' events.
+This data is not available in the same format for the Australian Open or French Open beginning in 2018. Some similar data was published for those tournaments, but is more limited. I've transformed the published data from the 2019 French Open and 2019-20 AO into a similar format, and may at some point do the same with other 'missing' events.
 
-From the 2019 French Open, there are many matches (especially doubles) in which serve speed and rally length were not recorded. In the original source data, serve speed is always noted as 0, and rally length is 3 or 0. Use of data from those matches would require careful attention to those limitations.
+From the 2019 AO and FO, there are many matches (especially doubles) in which serve speed and rally length were not recorded. In the original source data, serve speed is always noted as 0, and rally length is 3 or 0. Use of data from those matches would require careful attention to those limitations.
 
 # Doubles
 
-I've added 2019 French Open and 2020 Australian Open men's, women's, and mixed doubles, with the same limitations as the singles data from those events, as mentioned above. To accommodate doubles, I've added several columns to the 'matches' files for doubles events, such that 'partner1' is the partner of 'player1', and so on. I don't have equivalent doubles data for most of the other slams with singles data included here, but I do have a bit, and I hope to clean that up and include it in the future.
+I've added 2019 French Open and 2019-20 Australian Open men's, women's, and mixed doubles, with the same limitations as the singles data from those events, as mentioned above. To accommodate doubles, I've added several columns to the 'matches' files for doubles events, such that 'partner1' is the partner of 'player1', and so on. I don't have equivalent doubles data for most of the other slams with singles data included here, but I do have a bit, and I hope to clean that up and include it in the future.
 
 # License
 
