@@ -1,0 +1,31 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2,nation_partner1,nation_partner2
+2018-frenchopen-XD101,2018,frenchopen,XD101,G. Dabrowski,P. Parmentier,,,,,,,,,CAN,FRA,M. Pavic,G. Barrere,CRO,FRA
+2018-frenchopen-XD102,2018,frenchopen,XD102,A. Sestini Hlavackova,C. Paquet,,,,,,,,,CZE,FRA,E. Roger-Vasselin,B. Paire,FRA,FRA
+2018-frenchopen-XD103,2018,frenchopen,XD103,K. Mladenovic,A. Medina Garrigues,,,,,,,,,FRA,ESP,A. Musialek,M. Granollers,FRA,ESP
+2018-frenchopen-XD104,2018,frenchopen,XD104,D. Schuurs,H. Chan,,,,,,,,,NED,TPE,M. Middelkoop,M. Venus,NED,NZL
+2018-frenchopen-XD105,2018,frenchopen,XD105,K. Siniakova,M. Martinez Sanchez,,,,,,,,,CZE,ESP,J. Murray,M. Demoliner,GBR,BRA
+2018-frenchopen-XD106,2018,frenchopen,XD106,J. Konta,F. Ferro,,,,,,,,,GBR,FRA,D. Inglot,E. Furness,GBR,FRA
+2018-frenchopen-XD107,2018,frenchopen,XD107,K. Srebotnik,S. Aoyama,,,,,,,,,SLO,JPN,S. Gonzalez,D. Sharan,MEX,IND
+2018-frenchopen-XD108,2018,frenchopen,XD108,J. Ostapenko,A. Klepac,,,,,,,,,LAT,SLO,M. Mirnyi,J. Rojer,BLR,NED
+2018-frenchopen-XD109,2018,frenchopen,XD109,A. Groenefeld,C. Vandeweghe,,,,,,,,,GER,USA,R. Farah,R. Ram,COL,USA
+2018-frenchopen-XD110,2018,frenchopen,XD110,A. Kudryavtseva,Z. Yang,,,,,,,,,RUS,CHN,N. Mektic,A. Qureshi,CRO,PAK
+2018-frenchopen-XD111,2018,frenchopen,XD111,A. Spears,K. Peschke,,,,,,,,,USA,CZE,J. Cabal,M. Matkowski,COL,POL
+2018-frenchopen-XD112,2018,frenchopen,XD112,M. Buzarnescu,Y. Xu,,,,,,,,,ROU,CHN,H. Kontinen,O. Marach,FIN,AUT
+2018-frenchopen-XD113,2018,frenchopen,XD113,T. Babos,S. Zhang,,,,,,,,,HUN,CHN,R. Bopanna,J. Peers,IND,AUS
+2018-frenchopen-XD114,2018,frenchopen,XD114,T. Andrianjafitrimo,N. Melichar,,,,,,,,,FRA,USA,U. Humbert,A. Peya,FRA,AUT
+2018-frenchopen-XD115,2018,frenchopen,XD115,S. Cakarevic,V. King,,,,,,,,,FRA,USA,A. Muller,F. Skugor,FRA,CRO
+2018-frenchopen-XD116,2018,frenchopen,XD116,M. Ninomiya,L. Chan,,,,,,,,,JPN,TPE,B. Mclachlan,I. Dodig,JPN,CRO
+2018-frenchopen-XD201,2018,frenchopen,XD201,G. Dabrowski,A. Sestini Hlavackova,,,,,,,,,CAN,CZE,M. Pavic,E. Roger-Vasselin,CRO,FRA
+2018-frenchopen-XD202,2018,frenchopen,XD202,K. Mladenovic,D. Schuurs,,,,,,,,,FRA,NED,A. Musialek,M. Middelkoop,FRA,NED
+2018-frenchopen-XD204,2018,frenchopen,XD204,K. Srebotnik,A. Klepac,,,,,,,,,SLO,SLO,S. Gonzalez,J. Rojer,MEX,NED
+2018-frenchopen-XD205,2018,frenchopen,XD205,A. Groenefeld,A. Kudryavtseva,,,,,,,,,GER,RUS,R. Farah,N. Mektic,COL,CRO
+2018-frenchopen-XD206,2018,frenchopen,XD206,A. Spears,Y. Xu,,,,,,,,,USA,CHN,J. Cabal,O. Marach,COL,AUT
+2018-frenchopen-XD207,2018,frenchopen,XD207,S. Zhang,N. Melichar,,,,,,,,,CHN,USA,J. Peers,A. Peya,AUS,AUT
+2018-frenchopen-XD208,2018,frenchopen,XD208,V. King,L. Chan,,,,,,,,,USA,TPE,F. Skugor,I. Dodig,CRO,CRO
+2018-frenchopen-XD301,2018,frenchopen,XD301,G. Dabrowski,D. Schuurs,,,,,,,,,CAN,NED,M. Pavic,M. Middelkoop,CRO,NED
+2018-frenchopen-XD302,2018,frenchopen,XD302,M. Martinez Sanchez,K. Srebotnik,,,,,,,,,ESP,SLO,M. Demoliner,S. Gonzalez,BRA,MEX
+2018-frenchopen-XD303,2018,frenchopen,XD303,A. Groenefeld,A. Spears,,,,,,,,,GER,USA,R. Farah,J. Cabal,COL,COL
+2018-frenchopen-XD304,2018,frenchopen,XD304,N. Melichar,L. Chan,,,,,,,,,USA,TPE,A. Peya,I. Dodig,AUT,CRO
+2018-frenchopen-XD401,2018,frenchopen,XD401,G. Dabrowski,K. Srebotnik,,,,,,,,,CAN,SLO,M. Pavic,S. Gonzalez,CRO,MEX
+2018-frenchopen-XD402,2018,frenchopen,XD402,A. Groenefeld,L. Chan,,,,,,,,,GER,TPE,R. Farah,I. Dodig,COL,CRO
+2018-frenchopen-XD501,2018,frenchopen,XD501,G. Dabrowski,L. Chan,,,,,,,,,CAN,TPE,M. Pavic,I. Dodig,CRO,CRO
