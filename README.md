@@ -12,13 +12,15 @@ I'll try to keep this updated after each tournament, but I can't make any promis
 
 # 'Missing' events
 
-This data is not available in the same format for the Australian Open or French Open beginning in 2018. Some similar data was published for those tournaments, but is more limited. I've transformed the published data from the 2018-19 French Open and 2019-20 AO into a similar format, and may at some point do the same with other 'missing' events.
+Most of the data in this repo was published by the grand slams as part of IBM's "Slamtracker" feature. Starting in 2018, the Australian Open and French Open no longer worked with IBM. They partnered with Infosys, which now offers a similar "MatchBeats" feature on the AO and FO websites. Much of the data is similar -- serve speeds, 1st/2nd serve indicators, rally lengths, and ace/double fault/winner/unforced error indicators -- though some of IBM's newer features, such as distance run, are not included.
+
+I've transformed the published data from the 2018-20 AO and FO into a format similar to the "Slamtracker" data from other events. Using data from both Slamtracker and MatchBeats events will require attention to which attributes are available for which slams. (As noted above, this is also true for Slamtracker alone, which was not consistent from year to year.) However, I've tried to make this as seamless as possible.
 
 From the 2018-19 AO and FO, there are many matches (especially doubles) in which serve speed and rally length were not recorded. In the original source data, serve speed is always noted as 0, and rally length is 3 or 0. Use of data from those matches would require careful attention to those limitations.
 
 # Doubles
 
-I've added 2018-19 French Open and 2019-20 Australian Open men's, women's, and mixed doubles, with the same limitations as the singles data from those events, as mentioned above. To accommodate doubles, I've added several columns to the 'matches' files for doubles events, such that 'partner1' is the partner of 'player1', and so on. I don't have equivalent doubles data for most of the other slams with singles data included here, but I do have a bit, and I hope to clean that up and include it in the future.
+I've added 2018-19 French Open and 2018-20 Australian Open men's, women's, and mixed doubles, with the same limitations as the singles data from those events, as mentioned above. To accommodate doubles, I've added several columns to the 'matches' files for doubles events, such that 'partner1' is the partner of 'player1', and so on. I don't have equivalent doubles data for most of the other slams with singles data included here, but I do have a bit, and I hope to clean that up and include it in the future.
 
 # License
 

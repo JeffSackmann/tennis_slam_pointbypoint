@@ -1,0 +1,127 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2,nation_partner1,nation_partner2
+2018-ausopen-MD101,2018,ausopen,MD101,L. Kubot,P. Lorenzi,,,,,,,,,POL,ITA,M. Melo,M. Zverev,BRA,GER
+2018-ausopen-MD102,2018,ausopen,MD102,M. Elgin,M. Purcell,,,,,,,,,RUS,AUS,A. Rublev,L. Saville,RUS,AUS
+2018-ausopen-MD103,2018,ausopen,MD103,F. Fognini,A. Bolt,,,,,,,,,ITA,AUS,M. Granollers,B. Mousley,ESP,AUS
+2018-ausopen-MD104,2018,ausopen,MD104,M. Copil,R. Ram,,,,,,,,,ROU,USA,V. Troicki,D. Sharan,SRB,IND
+2018-ausopen-MD105,2018,ausopen,MD105,F. Lopez,F. Mergea,,,,,,,,,ESP,ROU,M. Lopez,N. Zimonjic,ESP,SRB
+2018-ausopen-MD106,2018,ausopen,MD106,B. Mclachlan,T. Kokkinakis,,,,,,,,,JPN,AUS,J. Struff,J. Thompson,GER,AUS
+2018-ausopen-MD107,2018,ausopen,MD107,P. Carreno Busta,R. Haase,,,,,,,,,ESP,NED,G. Garcia-Lopez,M. Middelkoop,ESP,NED
+2018-ausopen-MD108,2018,ausopen,MD108,S. Lipsky,R. Klaasen,,,,,,,,,USA,RSA,D. Marrero,M. Venus,ESP,NZL
+2018-ausopen-MD109,2018,ausopen,MD109,P. Herbert,M. Ebden,,,,,,,,,FRA,AUS,N. Mahut,J. Millman,FRA,AUS
+2018-ausopen-MD110,2018,ausopen,MD110,G. Pella,H. Podlipnik-Castillo,,,,,,,,,ARG,CHI,D. Schwartzman,A. Vasilevski,ARG,BLR
+2018-ausopen-MD111,2018,ausopen,MD111,A. Shamasdin,M. Daniell,,,,,,,,,CAN,NZL,N. Skupski,D. Inglot,GBR,GBR
+2018-ausopen-MD112,2018,ausopen,MD112,H. Nys,S. Gonzalez,,,,,,,,,FRA,MEX,B. Paire,J. Peralta,FRA,CHI
+2018-ausopen-MD113,2018,ausopen,MD113,R. Bopanna,R. Harrison,,,,,,,,,IND,USA,E. Roger-Vasselin,V. Pospisil,FRA,CAN
+2018-ausopen-MD114,2018,ausopen,MD114,J. Cerretani,L. Mayer,,,,,,,,,USA,ARG,K. Skupski,J. Sousa,GBR,POR
+2018-ausopen-MD115,2018,ausopen,MD115,P. Gojowczyk,W. Koolhof,,,,,,,,,GER,NED,F. Mayer,A. Sitak,GER,NZL
+2018-ausopen-MD116,2018,ausopen,MD116,F. Delbonis,O. Marach,,,,,,,,,ARG,AUT,V. Estrella Burgos,M. Pavic,DOM,CRO
+2018-ausopen-MD117,2018,ausopen,MD117,J. Murray,F. Tiafoe,,,,,,,,,GBR,USA,B. Soares,D. Young,BRA,USA
+2018-ausopen-MD118,2018,ausopen,MD118,L. Paes,N. Basilashvili,,,,,,,,,IND,GEO,P. Raja,A. Haider-Maurer,IND,AUT
+2018-ausopen-MD119,2018,ausopen,MD119,J. Benneteau,N. Mektic,,,,,,,,,FRA,CRO,J. Eysseric,A. Peya,FRA,AUT
+2018-ausopen-MD120,2018,ausopen,MD120,M. Polmans,J. Cabal,,,,,,,,,AUS,COL,A. Whittington,R. Farah,AUS,COL
+2018-ausopen-MD121,2018,ausopen,MD121,I. Dodig,S. Johnson,,,,,,,,,CRO,USA,F. Verdasco,S. Querrey,ESP,USA
+2018-ausopen-MD122,2018,ausopen,MD122,P. Andujar,S. Ratiwatana,,,,,,,,,ESP,THA,A. Ramos-Vinolas,S. Ratiwatana,ESP,THA
+2018-ausopen-MD123,2018,ausopen,MD123,D. Istomin,S. Groth,,,,,,,,,UZB,AUS,M. Kukushkin,L. Hewitt,KAZ,AUS
+2018-ausopen-MD124,2018,ausopen,MD124,G. Duran,J. Rojer,,,,,,,,,ARG,NED,A. Molteni,H. Tecau,ARG,ROU
+2018-ausopen-MD125,2018,ausopen,MD125,B. Bryan,M. Fucsovics,,,,,,,,,USA,HUN,M. Bryan,Y. Nishioka,USA,JPN
+2018-ausopen-MD126,2018,ausopen,MD126,T. Fabbiano,M. Mirnyi,,,,,,,,,ITA,BLR,D. Sela,P. Oswald,ISR,AUT
+2018-ausopen-MD127,2018,ausopen,MD127,N. Monroe,N. Kyrgios,,,,,,,,,USA,AUS,J. Smith,M. Reid,AUS,AUS
+2018-ausopen-MD128,2018,ausopen,MD128,J. Chardy,P. Cuevas,,,,,,,,,FRA,URU,F. Martin,H. Zeballos,FRA,ARG
+2018-ausopen-MD129,2018,ausopen,MD129,M. Matkowski,M. Demoliner,,,,,,,,,POL,BRA,A. Qureshi,T. Huey,PAK,PHI
+2018-ausopen-MD130,2018,ausopen,MD130,R. Jebavy,R. Lindstedt,,,,,,,,,CZE,SWE,J. Vesely,F. Skugor,CZE,CRO
+2018-ausopen-MD131,2018,ausopen,MD131,R. Albot,J. Erlich,,,,,,,,,MDA,ISR,H. Chung,D. Nestor,KOR,CAN
+2018-ausopen-MD132,2018,ausopen,MD132,D. Dzumhur,H. Kontinen,,,,,,,,,BIH,FIN,D. Lajovic,J. Peers,SRB,AUS
+2018-ausopen-MD201,2018,ausopen,MD201,L. Kubot,M. Purcell,,,,,,,,,POL,AUS,M. Melo,L. Saville,BRA,AUS
+2018-ausopen-MD202,2018,ausopen,MD202,F. Fognini,R. Ram,,,,,,,,,ITA,USA,M. Granollers,D. Sharan,ESP,IND
+2018-ausopen-MD203,2018,ausopen,MD203,F. Lopez,B. Mclachlan,,,,,,,,,ESP,JPN,M. Lopez,J. Struff,ESP,GER
+2018-ausopen-MD204,2018,ausopen,MD204,P. Carreno Busta,S. Lipsky,,,,,,,,,ESP,USA,G. Garcia-Lopez,D. Marrero,ESP,ESP
+2018-ausopen-MD205,2018,ausopen,MD205,P. Herbert,H. Podlipnik-Castillo,,,,,,,,,FRA,CHI,N. Mahut,A. Vasilevski,FRA,BLR
+2018-ausopen-MD206,2018,ausopen,MD206,M. Daniell,H. Nys,,,,,,,,,NZL,FRA,D. Inglot,B. Paire,GBR,FRA
+2018-ausopen-MD207,2018,ausopen,MD207,R. Bopanna,L. Mayer,,,,,,,,,IND,ARG,E. Roger-Vasselin,J. Sousa,FRA,POR
+2018-ausopen-MD208,2018,ausopen,MD208,W. Koolhof,O. Marach,,,,,,,,,NED,AUT,A. Sitak,M. Pavic,NZL,CRO
+2018-ausopen-MD209,2018,ausopen,MD209,J. Murray,L. Paes,,,,,,,,,GBR,IND,B. Soares,P. Raja,BRA,IND
+2018-ausopen-MD210,2018,ausopen,MD210,N. Mektic,J. Cabal,,,,,,,,,CRO,COL,A. Peya,R. Farah,AUT,COL
+2018-ausopen-MD211,2018,ausopen,MD211,S. Johnson,P. Andujar,,,,,,,,,USA,ESP,S. Querrey,A. Ramos-Vinolas,USA,ESP
+2018-ausopen-MD212,2018,ausopen,MD212,S. Groth,J. Rojer,,,,,,,,,AUS,NED,L. Hewitt,H. Tecau,AUS,ROU
+2018-ausopen-MD213,2018,ausopen,MD213,B. Bryan,M. Mirnyi,,,,,,,,,USA,BLR,M. Bryan,P. Oswald,USA,AUT
+2018-ausopen-MD214,2018,ausopen,MD214,N. Kyrgios,J. Chardy,,,,,,,,,AUS,FRA,M. Reid,F. Martin,AUS,FRA
+2018-ausopen-MD215,2018,ausopen,MD215,M. Matkowski,R. Lindstedt,,,,,,,,,POL,SWE,A. Qureshi,F. Skugor,PAK,CRO
+2018-ausopen-MD216,2018,ausopen,MD216,R. Albot,H. Kontinen,,,,,,,,,MDA,FIN,H. Chung,J. Peers,KOR,AUS
+2018-ausopen-MD301,2018,ausopen,MD301,L. Kubot,R. Ram,,,,,,,,,POL,USA,M. Melo,D. Sharan,BRA,IND
+2018-ausopen-MD302,2018,ausopen,MD302,B. Mclachlan,P. Carreno Busta,,,,,,,,,JPN,ESP,J. Struff,G. Garcia-Lopez,GER,ESP
+2018-ausopen-MD303,2018,ausopen,MD303,H. Podlipnik-Castillo,M. Daniell,,,,,,,,,CHI,NZL,A. Vasilevski,D. Inglot,BLR,GBR
+2018-ausopen-MD304,2018,ausopen,MD304,R. Bopanna,O. Marach,,,,,,,,,IND,AUT,E. Roger-Vasselin,M. Pavic,FRA,CRO
+2018-ausopen-MD305,2018,ausopen,MD305,L. Paes,J. Cabal,,,,,,,,,IND,COL,P. Raja,R. Farah,IND,COL
+2018-ausopen-MD306,2018,ausopen,MD306,P. Andujar,S. Groth,,,,,,,,,ESP,AUS,A. Ramos-Vinolas,L. Hewitt,ESP,AUS
+2018-ausopen-MD307,2018,ausopen,MD307,B. Bryan,J. Chardy,,,,,,,,,USA,FRA,M. Bryan,F. Martin,USA,FRA
+2018-ausopen-MD308,2018,ausopen,MD308,M. Matkowski,R. Albot,,,,,,,,,POL,MDA,A. Qureshi,H. Chung,PAK,KOR
+2018-ausopen-MD401,2018,ausopen,MD401,L. Kubot,B. Mclachlan,,,,,,,,,POL,JPN,M. Melo,J. Struff,BRA,GER
+2018-ausopen-MD402,2018,ausopen,MD402,M. Daniell,O. Marach,,,,,,,,,NZL,AUT,D. Inglot,M. Pavic,GBR,CRO
+2018-ausopen-MD403,2018,ausopen,MD403,J. Cabal,S. Groth,,,,,,,,,COL,AUS,R. Farah,L. Hewitt,COL,AUS
+2018-ausopen-MD404,2018,ausopen,MD404,B. Bryan,M. Matkowski,,,,,,,,,USA,POL,M. Bryan,A. Qureshi,USA,PAK
+2018-ausopen-MD501,2018,ausopen,MD501,B. Mclachlan,O. Marach,,,,,,,,,JPN,AUT,J. Struff,M. Pavic,GER,CRO
+2018-ausopen-MD502,2018,ausopen,MD502,J. Cabal,B. Bryan,,,,,,,,,COL,USA,R. Farah,M. Bryan,COL,USA
+2018-ausopen-MD601,2018,ausopen,MD601,O. Marach,J. Cabal,,,,,,,,,AUT,COL,M. Pavic,R. Farah,CRO,COL
+2018-ausopen-WD101,2018,ausopen,WD101,L. Chan,X. Han,,,,,,,,,TPE,CHN,A. Sestini Hlavackova,C. Liang,CZE,CHN
+2018-ausopen-WD102,2018,ausopen,WD102,Q. Wang,O. Kalashnikova,,,,,,,,,CHN,GEO,Y. Wang,V. Lepchenko,CHN,USA
+2018-ausopen-WD103,2018,ausopen,WD103,T. Maria,M. Krajicek,,,,,,,,,GER,NED,P. Parmentier,A. Kudryavtseva,FRA,RUS
+2018-ausopen-WD104,2018,ausopen,WD104,L. Robson,H. Chan,,,,,,,,,GBR,TPE,C. Vandeweghe,K. Srebotnik,USA,SLO
+2018-ausopen-WD105,2018,ausopen,WD105,A. Klepac,V. Golubic,,,,,,,,,SLO,SUI,M. Martínez Sánchez,N. Stojanovic,ESP,SRB
+2018-ausopen-WD106,2018,ausopen,WD106,Ar. Rodionova,K. Bondarenko,,,,,,,,,AUS,UKR,N. Vikhlyantseva,A. Krunic,RUS,SRB
+2018-ausopen-WD107,2018,ausopen,WD107,J. Ostapenko,L. Arruabarrena,,,,,,,,,LAT,ESP,A. Pavlyuchenkova,A. Parra Santonja,RUS,ESP
+2018-ausopen-WD108,2018,ausopen,WD108,N. Dzalamidze,T. Babos,,,,,,,,,RUS,HUN,X. Knoll,K. Mladenovic,SUI,FRA
+2018-ausopen-WD109,2018,ausopen,WD109,L. Safarova,N. Broady,,,,,,,,,CZE,GBR,B. Strycova,A. Smith,CZE,GBR
+2018-ausopen-WD110,2018,ausopen,WD110,K. Kozlova,R. Olaru,,,,,,,,,UKR,ROU,Y. Putintseva,O. Savchuk,KAZ,UKR
+2018-ausopen-WD111,2018,ausopen,WD111,V. Kudermetova,S. Cirstea,,,,,,,,,RUS,ROU,A. Sabalenka,B. Haddad Maia,BLR,BRA
+2018-ausopen-WD112,2018,ausopen,WD112,A. Cornet,A. Rosolska,,,,,,,,,FRA,POL,H. Watson,A. Spears,GBR,USA
+2018-ausopen-WD113,2018,ausopen,WD113,R. Atawo,A. Sharma,,,,,,,,,USA,AUS,A. Groenefeld,B. Woolcock,GER,AUS
+2018-ausopen-WD114,2018,ausopen,WD114,M. Adamczak,E. Hozumi,,,,,,,,,AUS,JPN,S. Sanders,M. Kato,AUS,JPN
+2018-ausopen-WD115,2018,ausopen,WD115,L. Kichenok,L. Kerkhove,,,,,,,,,UKR,NED,M. Ninomiya,L. Marozava,JPN,BLR
+2018-ausopen-WD116,2018,ausopen,WD116,M. Buzarnescu,S. Hsieh,,,,,,,,,ROU,TPE,M. Irigoyen,S. Peng,ARG,CHN
+2018-ausopen-WD117,2018,ausopen,WD117,K. Bertens,N. Kichenok,,,,,,,,,NED,UKR,J. Larsson,An. Rodionova,SWE,AUS
+2018-ausopen-WD118,2018,ausopen,WD118,A. Friedsam,Kr. Pliskova,,,,,,,,,GER,CZE,A. Van Uytvanck,D. Vekic,BEL,CRO
+2018-ausopen-WD119,2018,ausopen,WD119,N. Hibino,J. Moore,,,,,,,,,JPN,AUS,D. Jurak,E. Perez,CRO,AUS
+2018-ausopen-WD120,2018,ausopen,WD120,M. Lucic-Baroni,I. Begu,,,,,,,,,CRO,ROU,A. Petkovic,M. Niculescu,GER,ROU
+2018-ausopen-WD121,2018,ausopen,WD121,N. Melichar,K. Birrell,,,,,,,,,USA,AUS,K. Peschke,J. Fourlis,CZE,AUS
+2018-ausopen-WD122,2018,ausopen,WD122,M. Brengle,A. Bai,,,,,,,,,USA,AUS,M. Puig,Z. Hives,PUR,AUS
+2018-ausopen-WD123,2018,ausopen,WD123,D. Gavrilova,J. Brady,,,,,,,,,AUS,USA,D. Kasatkina,V. King,RUS,USA
+2018-ausopen-WD124,2018,ausopen,WD124,E. Mertens,A. Barty,,,,,,,,,BEL,AUS,D. Schuurs,C. Dellacqua,NED,AUS
+2018-ausopen-WD125,2018,ausopen,WD125,G. Dabrowski,K. Flipkens,,,,,,,,,CAN,BEL,Y. Xu,F. Schiavone,CHN,ITA
+2018-ausopen-WD126,2018,ausopen,WD126,C. Bellis,E. Alexandrova,,,,,,,,,USA,RUS,M. Vondrousova,A. Sevastova,CZE,LAT
+2018-ausopen-WD127,2018,ausopen,WD127,X. Jiang,M. Barthel,,,,,,,,,CHN,GER,Q. Tang,C. Witthoeft,CHN,GER
+2018-ausopen-WD128,2018,ausopen,WD128,T. Townsend,S. Aoyama,,,,,,,,,USA,JPN,R. Voracova,Z. Yang,CZE,CHN
+2018-ausopen-WD129,2018,ausopen,WD129,B. Krejcikova,P. Hon,,,,,,,,,CZE,AUS,K. Siniakova,A. Tomljanovic,CZE,AUS
+2018-ausopen-WD130,2018,ausopen,WD130,Z. Diyas,N. Bains,,,,,,,,,KAZ,AUS,M. Linette,I. Wallace,POL,AUS
+2018-ausopen-WD131,2018,ausopen,WD131,D. Jakupovic,L. Davis,,,,,,,,,SLO,USA,I. Khromacheva,A. Riske,RUS,USA
+2018-ausopen-WD132,2018,ausopen,WD132,E. Bouchard,E. Makarova,,,,,,,,,CAN,RUS,S. Stephens,E. Vesnina,USA,RUS
+2018-ausopen-WD201,2018,ausopen,WD201,L. Chan,O. Kalashnikova,,,,,,,,,TPE,GEO,A. Sestini Hlavackova,V. Lepchenko,CZE,USA
+2018-ausopen-WD202,2018,ausopen,WD202,M. Krajicek,H. Chan,,,,,,,,,NED,TPE,A. Kudryavtseva,K. Srebotnik,RUS,SLO
+2018-ausopen-WD203,2018,ausopen,WD203,V. Golubic,K. Bondarenko,,,,,,,,,SUI,UKR,N. Stojanovic,A. Krunic,SRB,SRB
+2018-ausopen-WD204,2018,ausopen,WD204,L. Arruabarrena,T. Babos,,,,,,,,,ESP,HUN,A. Parra Santonja,K. Mladenovic,ESP,FRA
+2018-ausopen-WD205,2018,ausopen,WD205,L. Safarova,R. Olaru,,,,,,,,,CZE,ROU,B. Strycova,O. Savchuk,CZE,UKR
+2018-ausopen-WD206,2018,ausopen,WD206,S. Cirstea,A. Rosolska,,,,,,,,,ROU,POL,B. Haddad Maia,A. Spears,BRA,USA
+2018-ausopen-WD207,2018,ausopen,WD207,R. Atawo,E. Hozumi,,,,,,,,,USA,JPN,A. Groenefeld,M. Kato,GER,JPN
+2018-ausopen-WD208,2018,ausopen,WD208,L. Kerkhove,S. Hsieh,,,,,,,,,NED,TPE,L. Marozava,S. Peng,BLR,CHN
+2018-ausopen-WD209,2018,ausopen,WD209,N. Kichenok,Kr. Pliskova,,,,,,,,,UKR,CZE,An. Rodionova,D. Vekic,AUS,CRO
+2018-ausopen-WD210,2018,ausopen,WD210,J. Moore,I. Begu,,,,,,,,,AUS,ROU,E. Perez,M. Niculescu,AUS,ROU
+2018-ausopen-WD211,2018,ausopen,WD211,N. Melichar,M. Brengle,,,,,,,,,USA,USA,K. Peschke,M. Puig,CZE,PUR
+2018-ausopen-WD212,2018,ausopen,WD212,J. Brady,A. Barty,,,,,,,,,USA,AUS,V. King,C. Dellacqua,USA,AUS
+2018-ausopen-WD213,2018,ausopen,WD213,G. Dabrowski,E. Alexandrova,,,,,,,,,CAN,RUS,Y. Xu,A. Sevastova,CHN,LAT
+2018-ausopen-WD214,2018,ausopen,WD214,M. Barthel,S. Aoyama,,,,,,,,,GER,JPN,C. Witthoeft,Z. Yang,GER,CHN
+2018-ausopen-WD215,2018,ausopen,WD215,B. Krejcikova,Z. Diyas,,,,,,,,,CZE,KAZ,K. Siniakova,M. Linette,CZE,POL
+2018-ausopen-WD216,2018,ausopen,WD216,D. Jakupovic,E. Makarova,,,,,,,,,SLO,RUS,I. Khromacheva,E. Vesnina,RUS,RUS
+2018-ausopen-WD301,2018,ausopen,WD301,L. Chan,H. Chan,,,,,,,,,TPE,TPE,A. Sestini Hlavackova,K. Srebotnik,CZE,SLO
+2018-ausopen-WD302,2018,ausopen,WD302,V. Golubic,T. Babos,,,,,,,,,SUI,HUN,N. Stojanovic,K. Mladenovic,SRB,FRA
+2018-ausopen-WD303,2018,ausopen,WD303,L. Safarova,S. Cirstea,,,,,,,,,CZE,ROU,B. Strycova,B. Haddad Maia,CZE,BRA
+2018-ausopen-WD304,2018,ausopen,WD304,R. Atawo,S. Hsieh,,,,,,,,,USA,TPE,A. Groenefeld,S. Peng,GER,CHN
+2018-ausopen-WD305,2018,ausopen,WD305,N. Kichenok,I. Begu,,,,,,,,,UKR,ROU,An. Rodionova,M. Niculescu,AUS,ROU
+2018-ausopen-WD306,2018,ausopen,WD306,N. Melichar,J. Brady,,,,,,,,,USA,USA,K. Peschke,V. King,CZE,USA
+2018-ausopen-WD307,2018,ausopen,WD307,G. Dabrowski,S. Aoyama,,,,,,,,,CAN,JPN,Y. Xu,Z. Yang,CHN,CHN
+2018-ausopen-WD308,2018,ausopen,WD308,B. Krejcikova,E. Makarova,,,,,,,,,CZE,RUS,K. Siniakova,E. Vesnina,CZE,RUS
+2018-ausopen-WD401,2018,ausopen,WD401,L. Chan,T. Babos,,,,,,,,,TPE,HUN,A. Sestini Hlavackova,K. Mladenovic,CZE,FRA
+2018-ausopen-WD402,2018,ausopen,WD402,L. Safarova,S. Hsieh,,,,,,,,,CZE,TPE,B. Strycova,S. Peng,CZE,CHN
+2018-ausopen-WD403,2018,ausopen,WD403,I. Begu,J. Brady,,,,,,,,,ROU,USA,M. Niculescu,V. King,ROU,USA
+2018-ausopen-WD404,2018,ausopen,WD404,G. Dabrowski,E. Makarova,,,,,,,,,CAN,RUS,Y. Xu,E. Vesnina,CHN,RUS
+2018-ausopen-WD501,2018,ausopen,WD501,T. Babos,S. Hsieh,,,,,,,,,HUN,TPE,K. Mladenovic,S. Peng,FRA,CHN
+2018-ausopen-WD502,2018,ausopen,WD502,I. Begu,E. Makarova,,,,,,,,,ROU,RUS,M. Niculescu,E. Vesnina,ROU,RUS
+2018-ausopen-WD601,2018,ausopen,WD601,T. Babos,E. Makarova,,,,,,,,,HUN,RUS,K. Mladenovic,E. Vesnina,FRA,RUS

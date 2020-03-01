@@ -1,0 +1,32 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2,nation_partner1,nation_partner2
+2018-ausopen-XD101,2018,ausopen,XD101,L. Chan,A. Klepac,,,,,,,,,TPE,SLO,J. Murray,R. Ram,GBR,USA
+2018-ausopen-XD102,2018,ausopen,XD102,A. Groenefeld,S. Sanders,,,,,,,,,GER,AUS,R. Farah,M. Polmans,COL,AUS
+2018-ausopen-XD103,2018,ausopen,XD103,M. Martínez Sánchez,N. Melichar,,,,,,,,,ESP,USA,M. Demoliner,N. Monroe,BRA,USA
+2018-ausopen-XD104,2018,ausopen,XD104,Z. Yang,H. Chan,,,,,,,,,CHN,TPE,A. Qureshi,M. Venus,PAK,NZL
+2018-ausopen-XD105,2018,ausopen,XD105,K. Peschke,Z. Hives,,,,,,,,,CZE,AUS,H. Kontinen,B. Mousley,FIN,AUS
+2018-ausopen-XD106,2018,ausopen,XD106,A. Spears,R. Voracova,,,,,,,,,USA,CZE,J. Cabal,F. Martin,COL,FRA
+2018-ausopen-XD107,2018,ausopen,XD107,V. King,Ar. Rodionova,,,,,,,,,USA,AUS,F. Skugor,J. Smith,CRO,AUS
+2018-ausopen-XD108,2018,ausopen,XD108,E. Perez,T. Babos,,,,,,,,,AUS,HUN,A. Whittington,R. Bopanna,AUS,IND
+2018-ausopen-XD109,2018,ausopen,XD109,A. Sestini Hlavackova,S. Peng,,,,,,,,,CZE,CHN,E. Roger-Vasselin,M. Mirnyi,FRA,BLR
+2018-ausopen-XD110,2018,ausopen,XD110,O. Savchuk,N. Kichenok,,,,,,,,,UKR,UKR,A. Sitak,M. Granollers,NZL,ESP
+2018-ausopen-XD111,2018,ausopen,XD111,S. Stosur,P. Hon,,,,,,,,,AUS,AUS,S. Groth,M. Reid,AUS,AUS
+2018-ausopen-XD112,2018,ausopen,XD112,Y. Xu,E. Makarova,,,,,,,,,CHN,RUS,M. Daniell,B. Soares,NZL,BRA
+2018-ausopen-XD113,2018,ausopen,XD113,G. Dabrowski,L. Cabrera,,,,,,,,,CAN,AUS,M. Pavic,A. Bolt,CRO,AUS
+2018-ausopen-XD114,2018,ausopen,XD114,M. Adamczak,D. Schuurs,,,,,,,,,AUS,NED,M. Ebden,J. Rojer,AUS,NED
+2018-ausopen-XD115,2018,ausopen,XD115,A. Rosolska,J. Larsson,,,,,,,,,POL,SWE,S. Gonzalez,M. Middelkoop,MEX,NED
+2018-ausopen-XD116,2018,ausopen,XD116,A. Parra Santonja,C. Dellacqua,,,,,,,,,ESP,AUS,M. Lopez,J. Peers,ESP,AUS
+2018-ausopen-XD201,2018,ausopen,XD201,L. Chan,S. Sanders,,,,,,,,,TPE,AUS,J. Murray,M. Polmans,GBR,AUS
+2018-ausopen-XD202,2018,ausopen,XD202,M. Martínez Sánchez,H. Chan,,,,,,,,,ESP,TPE,M. Demoliner,M. Venus,BRA,NZL
+2018-ausopen-XD203,2018,ausopen,XD203,K. Peschke,A. Spears,,,,,,,,,CZE,USA,H. Kontinen,J. Cabal,FIN,COL
+2018-ausopen-XD204,2018,ausopen,XD204,V. King,T. Babos,,,,,,,,,USA,HUN,F. Skugor,R. Bopanna,CRO,IND
+2018-ausopen-XD205,2018,ausopen,XD205,A. Sestini Hlavackova,N. Kichenok,,,,,,,,,CZE,UKR,E. Roger-Vasselin,M. Granollers,FRA,ESP
+2018-ausopen-XD206,2018,ausopen,XD206,S. Stosur,E. Makarova,,,,,,,,,AUS,RUS,S. Groth,B. Soares,AUS,BRA
+2018-ausopen-XD207,2018,ausopen,XD207,G. Dabrowski,D. Schuurs,,,,,,,,,CAN,NED,M. Pavic,J. Rojer,CRO,NED
+2018-ausopen-XD208,2018,ausopen,XD208,J. Larsson,C. Dellacqua,,,,,,,,,SWE,AUS,M. Middelkoop,J. Peers,NED,AUS
+2018-ausopen-XD301,2018,ausopen,XD301,S. Sanders,M. Martínez Sánchez,,,,,,,,,AUS,ESP,M. Polmans,M. Demoliner,AUS,BRA
+2018-ausopen-XD302,2018,ausopen,XD302,A. Spears,T. Babos,,,,,,,,,USA,HUN,J. Cabal,R. Bopanna,COL,IND
+2018-ausopen-XD303,2018,ausopen,XD303,A. Sestini Hlavackova,E. Makarova,,,,,,,,,CZE,RUS,E. Roger-Vasselin,B. Soares,FRA,BRA
+2018-ausopen-XD304,2018,ausopen,XD304,G. Dabrowski,J. Larsson,,,,,,,,,CAN,SWE,M. Pavic,M. Middelkoop,CRO,NED
+2018-ausopen-XD401,2018,ausopen,XD401,M. Martínez Sánchez,T. Babos,,,,,,,,,ESP,HUN,M. Demoliner,R. Bopanna,BRA,IND
+2018-ausopen-XD402,2018,ausopen,XD402,E. Makarova,G. Dabrowski,,,,,,,,,RUS,CAN,B. Soares,M. Pavic,BRA,CRO
+2018-ausopen-XD501,2018,ausopen,XD501,T. Babos,G. Dabrowski,,,,,,,,,HUN,CAN,R. Bopanna,M. Pavic,IND,CRO
