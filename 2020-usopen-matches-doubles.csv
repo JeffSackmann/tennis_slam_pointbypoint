@@ -1,0 +1,58 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2
+2020-usopen-3101,2020,usopen,3101,Juan Sebastian Cabal,Jurgen Melzer,,,,,,,,,,,Robert Farah,Edouard Roger Vasselin
+2020-usopen-3103,2020,usopen,3103,Ernesto Escobedo,Rohan Bopanna,,,,,,,,,,,Noah Rubin,Denis Shapovalov
+2020-usopen-3104,2020,usopen,3104,Max Purcell,Kevin Krawietz,,,,,,,,,,,Luke Saville,Andreas Mies
+2020-usopen-3105,2020,usopen,3105,Ivan Dodig,Jamie Murray,,,,,,,,,,,Filip Polasek,Neal Skupski
+2020-usopen-3106,2020,usopen,3106,Marcelo Demoliner,Nicolas Mahut,,,,,,,,,,,Matwe Middelkoop,Jan Lennard Struff
+2020-usopen-3107,2020,usopen,3107,Dominic Inglot,Jack Sock,,,,,,,,,,,Aisam Ul Haq Qureshi,Jackson Withrow
+2020-usopen-3108,2020,usopen,3108,Mate Pavic,Marcel Granollers,,,,,,,,,,,Bruno Soares,Horacio Zeballos
+2020-usopen-3109,2020,usopen,3109,Raven Klaasen,Marcus Daniell,,,,,,,,,,,Oliver Marach,Philipp Oswald
+2020-usopen-3110,2020,usopen,3110,Luke Bambridge,Christopher Eubanks,,,,,,,,,,,Ben McLachlan,Mackenzie McDonald
+2020-usopen-3111,2020,usopen,3111,Jeremy Chardy,Christian Harrison,,,,,,,,,,,Fabrice Martin,Ryan Harrison
+2020-usopen-3112,2020,usopen,3112,Austin Krajicek,Rajeev Ram,,,,,,,,,,,Franko Skugor,Joe Salisbury
+2020-usopen-3113,2020,usopen,3113,Wesley Koolhof,Nikola Cacic,,,,,,,,,,,Nikola Mektic,Divij Sharan
+2020-usopen-3114,2020,usopen,3114,Simone Bolelli,Santiago Gonzalez,,,,,,,,,,,Maximo Gonzalez,Ken Skupski
+2020-usopen-3116,2020,usopen,3116,Sander Gille,Lukasz Kubot,,,,,,,,,,,Joran Vliegen,Marcelo Melo
+2020-usopen-3201,2020,usopen,3201,Juan Sebastian Cabal,Jean Julien Rojer,,,,,,,,,,,Robert Farah,Horia Tecau
+2020-usopen-3202,2020,usopen,3202,Rohan Bopanna,Kevin Krawietz,,,,,,,,,,,Denis Shapovalov,Andreas Mies
+2020-usopen-3203,2020,usopen,3203,Jamie Murray,Marcelo Demoliner,,,,,,,,,,,Neal Skupski,Matwe Middelkoop
+2020-usopen-3204,2020,usopen,3204,Jack Sock,Mate Pavic,,,,,,,,,,,Jackson Withrow,Bruno Soares
+2020-usopen-3205,2020,usopen,3205,Marcus Daniell,Christopher Eubanks,,,,,,,,,,,Philipp Oswald,Mackenzie McDonald
+2020-usopen-3206,2020,usopen,3206,Christian Harrison,Rajeev Ram,,,,,,,,,,,Ryan Harrison,Joe Salisbury
+2020-usopen-3207,2020,usopen,3207,Wesley Koolhof,Simone Bolelli,,,,,,,,,,,Nikola Mektic,Maximo Gonzalez
+2020-usopen-3208,2020,usopen,3208,John Peers,Sander Gille,,,,,,,,,,,Michael Venus,Joran Vliegen
+2020-usopen-3301,2020,usopen,3301,Jean Julien Rojer,Rohan Bopanna,,,,,,,,,,,Horia Tecau,Denis Shapovalov
+2020-usopen-3302,2020,usopen,3302,Jamie Murray,Mate Pavic,,,,,,,,,,,Neal Skupski,Bruno Soares
+2020-usopen-3303,2020,usopen,3303,Christopher Eubanks,Rajeev Ram,,,,,,,,,,,Mackenzie McDonald,Joe Salisbury
+2020-usopen-3304,2020,usopen,3304,Wesley Koolhof,Sander Gille,,,,,,,,,,,Nikola Mektic,Joran Vliegen
+2020-usopen-3401,2020,usopen,3401,Jean Julien Rojer,Mate Pavic,,,,,,,,,,,Horia Tecau,Bruno Soares
+2020-usopen-3402,2020,usopen,3402,Rajeev Ram,Wesley Koolhof,,,,,,,,,,,Joe Salisbury,Nikola Mektic
+2020-usopen-3501,2020,usopen,3501,Mate Pavic,Wesley Koolhof,,,,,,,,,,,Bruno Soares,Nikola Mektic
+2020-usopen-4101,2020,usopen,4101,Timea Babos,Kaitlyn Christian,,,,,,,,,,,Kristina Mladenovic,Giuliana Olmos
+2020-usopen-4103,2020,usopen,4103,Raluca Olaru,Lucie Hradecka,,,,,,,,,,,Sara Sorribes Tormo,Andreja Klepac
+2020-usopen-4104,2020,usopen,4104,Asia Muhammad,Bethanie Mattek Sands,,,,,,,,,,,Taylor Townsend,Shuai Zhang
+2020-usopen-4105,2020,usopen,4105,Nicole Melichar,Kirsten Flipkens,,,,,,,,,,,Yifan Xu,Alison Van Uytvanck
+2020-usopen-4106,2020,usopen,4106,Cori Gauff,Hailey Baptiste,,,,,,,,,,,Catherine McNally,Whitney Osuigwe
+2020-usopen-4107,2020,usopen,4107,Lyudmyla Kichenok,Hayley Carter,,,,,,,,,,,Nadiia Kichenok,Luisa Stefani
+2020-usopen-4108,2020,usopen,4108,Ann Li,Shuko Aoyama,,,,,,,,,,,Bernarda Pera,Ena Shibahara
+2020-usopen-4109,2020,usopen,4109,Anna Lena Friedsam,Usue Maitane Arconada,,,,,,,,,,,Katerina Siniakova,Christina McHale
+2020-usopen-4110,2020,usopen,4110,Nao Hibino,Anna Blinkova,,,,,,,,,,,Makoto Ninomiya,Veronika Kudermetova
+2020-usopen-4112,2020,usopen,4112,Sharon Fichman,Kveta Peschke,,,,,,,,,,,Darija Jurak,Demi Schuurs
+2020-usopen-4113,2020,usopen,4113,Victoria Azarenka,Ellen Perez,,,,,,,,,,,Sofia Kenin,Storm Sanders
+2020-usopen-4114,2020,usopen,4114,Alexa Guarachi,Laura Siegemund,,,,,,,,,,,Desirae Krawczyk,Vera Zvonareva
+2020-usopen-4115,2020,usopen,4115,Jessica Pegula,Viktoria Kuzmova,,,,,,,,,,,Shelby Rogers,Aliaksandra Sasnovich
+2020-usopen-4116,2020,usopen,4116,Arina Rodionova,Elise Mertens,,,,,,,,,,,Sabrina Santamaria,Aryna Sabalenka
+2020-usopen-4202,2020,usopen,4202,Lucie Hradecka,Asia Muhammad,,,,,,,,,,,Andreja Klepac,Taylor Townsend
+2020-usopen-4203,2020,usopen,4203,Nicole Melichar,Cori Gauff,,,,,,,,,,,Yifan Xu,Catherine McNally
+2020-usopen-4204,2020,usopen,4204,Hayley Carter,Shuko Aoyama,,,,,,,,,,,Luisa Stefani,Ena Shibahara
+2020-usopen-4205,2020,usopen,4205,Anna Lena Friedsam,Anna Blinkova,,,,,,,,,,,Katerina Siniakova,Veronika Kudermetova
+2020-usopen-4206,2020,usopen,4206,Oksana Kalashnikova,Kveta Peschke,,,,,,,,,,,Alla Kudryavtseva,Demi Schuurs
+2020-usopen-4207,2020,usopen,4207,Victoria Azarenka,Laura Siegemund,,,,,,,,,,,Sofia Kenin,Vera Zvonareva
+2020-usopen-4208,2020,usopen,4208,Jessica Pegula,Elise Mertens,,,,,,,,,,,Shelby Rogers,Aryna Sabalenka
+2020-usopen-4301,2020,usopen,4301,Gabriela Dabrowski,Asia Muhammad,,,,,,,,,,,Alison Riske,Taylor Townsend
+2020-usopen-4302,2020,usopen,4302,Nicole Melichar,Hayley Carter,,,,,,,,,,,Yifan Xu,Luisa Stefani
+2020-usopen-4303,2020,usopen,4303,Anna Blinkova,Kveta Peschke,,,,,,,,,,,Veronika Kudermetova,Demi Schuurs
+2020-usopen-4304,2020,usopen,4304,Laura Siegemund,Elise Mertens,,,,,,,,,,,Vera Zvonareva,Aryna Sabalenka
+2020-usopen-4401,2020,usopen,4401,Asia Muhammad,Nicole Melichar,,,,,,,,,,,Taylor Townsend,Yifan Xu
+2020-usopen-4402,2020,usopen,4402,Anna Blinkova,Laura Siegemund,,,,,,,,,,,Veronika Kudermetova,Vera Zvonareva
+2020-usopen-4501,2020,usopen,4501,Nicole Melichar,Laura Siegemund,,,,,,,,,,,Yifan Xu,Vera Zvonareva
