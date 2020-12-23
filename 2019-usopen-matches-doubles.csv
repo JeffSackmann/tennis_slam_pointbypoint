@@ -1,0 +1,104 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2
+2019-usopen-3101,2019,usopen,3101,Juan Sebastian Cabal,Pablo Cuevas,,,,,,,,,,,Robert Farah,Steve Johnson
+2019-usopen-3103,2019,usopen,3103,Pablo Carreno Busta,Cheng Peng Hsieh,,,,,,,,,,,Feliciano Lopez,Christopher Rungkat
+2019-usopen-3104,2019,usopen,3104,Roman Jebavy,Robin Haase,,,,,,,,,,,Matwe Middelkoop,Wesley Koolhof
+2019-usopen-3106,2019,usopen,3106,Luke Bambridge,Thai Son Kwiatkowski,,,,,,,,,,,Ben McLachlan,Noah Rubin
+2019-usopen-3108,2019,usopen,3108,Jeremy Chardy,Jean Julien Rojer,,,,,,,,,,,Fabrice Martin,Horia Tecau
+2019-usopen-3109,2019,usopen,3109,Pierre Hugues Herbert,Rohan Bopanna,,,,,,,,,,,Nicolas Mahut,Denis Shapovalov
+2019-usopen-3110,2019,usopen,3110,Marco Cecchinato,Pablo Andujar,,,,,,,,,,,Andreas Seppi,Fernando Verdasco
+2019-usopen-3111,2019,usopen,3111,Ricardas Berankis,Maxime Cressy,,,,,,,,,,,Juan Ignacio Londero,Keegan Smith
+2019-usopen-3112,2019,usopen,3112,Robert Galloway,Jamie Murray,,,,,,,,,,,Nathaniel Lammons,Neal Skupski
+2019-usopen-3113,2019,usopen,3113,Ivan Dodig,Jack Sock,,,,,,,,,,,Filip Polasek,Jackson Withrow
+2019-usopen-3115,2019,usopen,3115,Hugo Nys,Roberto Carballes Baena,,,,,,,,,,,Divij Sharan,Federico Delbonis
+2019-usopen-3116,2019,usopen,3116,Hubert Hurkacz,Bob Bryan,,,,,,,,,,,Vasek Pospisil,Mike Bryan
+2019-usopen-3117,2019,usopen,3117,Marcel Granollers,Sander Gille,,,,,,,,,,,Horacio Zeballos,Joran Vliegen
+2019-usopen-3119,2019,usopen,3119,Guido Pella,Alex de Minaur,,,,,,,,,,,Diego Schwartzman,Matt Reid
+2019-usopen-3120,2019,usopen,3120,Ryan Harrison,Rajeev Ram,,,,,,,,,,,Sam Querrey,Joe Salisbury
+2019-usopen-3121,2019,usopen,3121,Oliver Marach,Mikhail Kukushkin,,,,,,,,,,,Jurgen Melzer,Andrey Rublev
+2019-usopen-3122,2019,usopen,3122,Marcus Daniell,Marius Copil,,,,,,,,,,,Ken Skupski,Nick Kyrgios
+2019-usopen-3124,2019,usopen,3124,Adrian Mannarino,Raven Klaasen,,,,,,,,,,,Gilles Simon,Michael Venus
+2019-usopen-3125,2019,usopen,3125,Mate Pavic,Cristian Garin,,,,,,,,,,,Bruno Soares,Nicolas Jarry
+2019-usopen-3126,2019,usopen,3126,Marcelo Arevalo,Benoit Paire,,,,,,,,,,,Jonny O'Mara,Mischa Zverev
+2019-usopen-3127,2019,usopen,3127,Mitchell Krueger,Martin Damm,,,,,,,,,,,Tim Smyczek,Toby Alex Kodat
+2019-usopen-3128,2019,usopen,3128,Marcelo Demoliner,Kevin Krawietz,,,,,,,,,,,Dominic Inglot,Andreas Mies
+2019-usopen-3129,2019,usopen,3129,Henri Kontinen,Santiago Gonzalez,,,,,,,,,,,John Peers,Aisam Ul Haq Qureshi
+2019-usopen-3132,2019,usopen,3132,Denys Molchanov,Lukasz Kubot,,,,,,,,,,,Artem Sitak,Marcelo Melo
+2019-usopen-3201,2019,usopen,3201,Juan Sebastian Cabal,Daniel Evans,,,,,,,,,,,Robert Farah,Cameron Norrie
+2019-usopen-3202,2019,usopen,3202,Pablo Carreno Busta,Robin Haase,,,,,,,,,,,Feliciano Lopez,Wesley Koolhof
+2019-usopen-3203,2019,usopen,3203,Nikola Mektic,Luke Bambridge,,,,,,,,,,,Franko Skugor,Ben McLachlan
+2019-usopen-3206,2019,usopen,3206,Ricardas Berankis,Jamie Murray,,,,,,,,,,,Juan Ignacio Londero,Neal Skupski
+2019-usopen-3207,2019,usopen,3207,Jack Sock,Austin Krajicek,,,,,,,,,,,Jackson Withrow,Edouard Roger Vasselin
+2019-usopen-3208,2019,usopen,3208,Roberto Carballes Baena,Bob Bryan,,,,,,,,,,,Federico Delbonis,Mike Bryan
+2019-usopen-3209,2019,usopen,3209,Marcel Granollers,Evan King,,,,,,,,,,,Horacio Zeballos,Hunter Reese
+2019-usopen-3210,2019,usopen,3210,Alex de Minaur,Rajeev Ram,,,,,,,,,,,Matt Reid,Joe Salisbury
+2019-usopen-3212,2019,usopen,3212,Miomir Kecmanovic,Raven Klaasen,,,,,,,,,,,Casper Ruud,Michael Venus
+2019-usopen-3214,2019,usopen,3214,Martin Damm,Kevin Krawietz,,,,,,,,,,,Toby Alex Kodat,Andreas Mies
+2019-usopen-3215,2019,usopen,3215,Henri Kontinen,Leonardo Mayer,,,,,,,,,,,John Peers,Joao Sousa
+2019-usopen-3216,2019,usopen,3216,Jozef Kovalik,Lukasz Kubot,,,,,,,,,,,Albert Ramos Vinolas,Marcelo Melo
+2019-usopen-3301,2019,usopen,3301,Juan Sebastian Cabal,Robin Haase,,,,,,,,,,,Robert Farah,Wesley Koolhof
+2019-usopen-3304,2019,usopen,3304,Jack Sock,Bob Bryan,,,,,,,,,,,Jackson Withrow,Mike Bryan
+2019-usopen-3305,2019,usopen,3305,Marcel Granollers,Rajeev Ram,,,,,,,,,,,Horacio Zeballos,Joe Salisbury
+2019-usopen-3306,2019,usopen,3306,Oliver Marach,Miomir Kecmanovic,,,,,,,,,,,Jurgen Melzer,Casper Ruud
+2019-usopen-3307,2019,usopen,3307,Marcelo Arevalo,Kevin Krawietz,,,,,,,,,,,Jonny O'Mara,Andreas Mies
+2019-usopen-3308,2019,usopen,3308,Leonardo Mayer,Lukasz Kubot,,,,,,,,,,,Joao Sousa,Marcelo Melo
+2019-usopen-3401,2019,usopen,3401,Juan Sebastian Cabal,Luke Bambridge,,,,,,,,,,,Robert Farah,Ben McLachlan
+2019-usopen-3402,2019,usopen,3402,Jamie Murray,Jack Sock,,,,,,,,,,,Neal Skupski,Jackson Withrow
+2019-usopen-3403,2019,usopen,3403,Marcel Granollers,Oliver Marach,,,,,,,,,,,Horacio Zeballos,Jurgen Melzer
+2019-usopen-3404,2019,usopen,3404,Kevin Krawietz,Leonardo Mayer,,,,,,,,,,,Andreas Mies,Joao Sousa
+2019-usopen-3501,2019,usopen,3501,Juan Sebastian Cabal,Jamie Murray,,,,,,,,,,,Robert Farah,Neal Skupski
+2019-usopen-3502,2019,usopen,3502,Marcel Granollers,Kevin Krawietz,,,,,,,,,,,Horacio Zeballos,Andreas Mies
+2019-usopen-3601,2019,usopen,3601,Juan Sebastian Cabal,Marcel Granollers,,,,,,,,,,,Robert Farah,Horacio Zeballos
+2019-usopen-4101,2019,usopen,4101,Timea Babos,Jessica Moore,,,,,,,,,,,Kristina Mladenovic,Giuliana Olmos
+2019-usopen-4102,2019,usopen,4102,Madison Brengle,Ekaterina Alexandrova,,,,,,,,,,,Ena Shibahara,Oksana Kalashnikova
+2019-usopen-4103,2019,usopen,4103,Monica Puig,Anna Kalinskaya,,,,,,,,,,,Dayana Yastremska,Yulia Putintseva
+2019-usopen-4104,2019,usopen,4104,Shuai Peng,Darija Jurak,,,,,,,,,,,Alicja Rosolska,Maria Jose Martinez Sanchez
+2019-usopen-4106,2019,usopen,4106,Coco Gauff,Julia Goerges,,,,,,,,,,,Catherine McNally,Katerina Siniakova
+2019-usopen-4107,2019,usopen,4107,Usue Maitane Arconada,Nadiia Kichenok,,,,,,,,,,,Hayley Carter,Abigail Spears
+2019-usopen-4108,2019,usopen,4108,Margarita Gasparyan,Victoria Azarenka,,,,,,,,,,,Monica Niculescu,Ashleigh Barty
+2019-usopen-4109,2019,usopen,4109,Gabriela Dabrowski,Lidziya Marozava,,,,,,,,,,,Yifan Xu,Katarina Srebotnik
+2019-usopen-4110,2019,usopen,4110,Kristie Ahn,Hailey Baptiste,,,,,,,,,,,Christina McHale,Emma Navarro
+2019-usopen-4112,2019,usopen,4112,Anna Lena Friedsam,Veronika Kudermetova,,,,,,,,,,,Laura Siegemund,Galina Voskoboeva
+2019-usopen-4115,2019,usopen,4115,Shuko Aoyama,Rebecca Peterson,,,,,,,,,,,Aleksandra Krunic,Tamara Zidansek
+2019-usopen-4116,2019,usopen,4116,Danielle Collins,Samantha Stosur,,,,,,,,,,,Ellen Perez,Shuai Zhang
+2019-usopen-4118,2019,usopen,4118,Monique Adamczak,Anastasia Pavlyuchenkova,,,,,,,,,,,Xinyun Han,Anastasija Sevastova
+2019-usopen-4119,2019,usopen,4119,Dalila Jakupovic,Francesca Di Lorenzo,,,,,,,,,,,Sabrina Santamaria,Ann Li
+2019-usopen-4120,2019,usopen,4120,Lara Arruabarrena,Yingying Duan,,,,,,,,,,,Kaitlyn Christian,Saisai Zheng
+2019-usopen-4121,2019,usopen,4121,Raquel Atawo,Daria Kasatkina,,,,,,,,,,,Asia Muhammad,Anett Kontaveit
+2019-usopen-4122,2019,usopen,4122,Abigail Forbes,Viktorija Golubic,,,,,,,,,,,Alexa Noel,Sara Sorribes Tormo
+2019-usopen-4123,2019,usopen,4123,Karolina Muchova,Cornelia Lister,,,,,,,,,,,Jil Teichmann,Renata Voracova
+2019-usopen-4124,2019,usopen,4124,Anna Blinkova,Elise Mertens,,,,,,,,,,,Yafan Wang,Aryna Sabalenka
+2019-usopen-4125,2019,usopen,4125,Anna Lena Groenefeld,Alizé Cornet,,,,,,,,,,,Demi Schuurs,Fiona Ferro
+2019-usopen-4126,2019,usopen,4126,Eri Hozumi,Alexa Guarachi,,,,,,,,,,,Makoto Ninomiya,Bernarda Pera
+2019-usopen-4127,2019,usopen,4127,Desirae Krawczyk,Caroline Dolehide,,,,,,,,,,,Jessica Pegula,Vania King
+2019-usopen-4128,2019,usopen,4128,Ons Jabeur,Lucie Hradecka,,,,,,,,,,,Fanny Stollar,Andreja Klepac
+2019-usopen-4129,2019,usopen,4129,Lyudmyla Kichenok,Kateryna Kozlova,,,,,,,,,,,Jelena Ostapenko,Anastasia Potapova
+2019-usopen-4130,2019,usopen,4130,Jennifer Brady,Raluca Olaru,,,,,,,,,,,Alison Riske,Zhaoxuan Yang
+2019-usopen-4131,2019,usopen,4131,Bethanie Mattek Sands,Magda Linette,,,,,,,,,,,CoCo Vandeweghe,Iga Swiatek
+2019-usopen-4132,2019,usopen,4132,Lauren Davis,Su Wei Hsieh,,,,,,,,,,,Maria Sanchez,Barbora Strycova
+2019-usopen-4201,2019,usopen,4201,Timea Babos,Ekaterina Alexandrova,,,,,,,,,,,Kristina Mladenovic,Oksana Kalashnikova
+2019-usopen-4202,2019,usopen,4202,Anna Kalinskaya,Shuai Peng,,,,,,,,,,,Yulia Putintseva,Alicja Rosolska
+2019-usopen-4203,2019,usopen,4203,Nicole Melichar,Coco Gauff,,,,,,,,,,,Kveta Peschke,Catherine McNally
+2019-usopen-4204,2019,usopen,4204,Nadiia Kichenok,Victoria Azarenka,,,,,,,,,,,Abigail Spears,Ashleigh Barty
+2019-usopen-4205,2019,usopen,4205,Gabriela Dabrowski,Kristie Ahn,,,,,,,,,,,Yifan Xu,Christina McHale
+2019-usopen-4207,2019,usopen,4207,Viktoria Kuzmova,Whitney Osuigwe,,,,,,,,,,,Aliaksandra Sasnovich,Taylor Townsend
+2019-usopen-4208,2019,usopen,4208,Shuko Aoyama,Danielle Collins,,,,,,,,,,,Aleksandra Krunic,Ellen Perez
+2019-usopen-4209,2019,usopen,4209,Hao Ching Chan,Anastasia Pavlyuchenkova,,,,,,,,,,,Latisha Chan,Anastasija Sevastova
+2019-usopen-4210,2019,usopen,4210,Dalila Jakupovic,Yingying Duan,,,,,,,,,,,Sabrina Santamaria,Saisai Zheng
+2019-usopen-4212,2019,usopen,4212,Karolina Muchova,Elise Mertens,,,,,,,,,,,Jil Teichmann,Aryna Sabalenka
+2019-usopen-4213,2019,usopen,4213,Anna Lena Groenefeld,Alexa Guarachi,,,,,,,,,,,Demi Schuurs,Bernarda Pera
+2019-usopen-4214,2019,usopen,4214,Caroline Dolehide,Ons Jabeur,,,,,,,,,,,Vania King,Fanny Stollar
+2019-usopen-4216,2019,usopen,4216,Magda Linette,Su Wei Hsieh,,,,,,,,,,,Iga Swiatek,Barbora Strycova
+2019-usopen-4301,2019,usopen,4301,Timea Babos,Anna Kalinskaya,,,,,,,,,,,Kristina Mladenovic,Yulia Putintseva
+2019-usopen-4302,2019,usopen,4302,Coco Gauff,Victoria Azarenka,,,,,,,,,,,Catherine McNally,Ashleigh Barty
+2019-usopen-4303,2019,usopen,4303,Gabriela Dabrowski,Anna Lena Friedsam,,,,,,,,,,,Yifan Xu,Laura Siegemund
+2019-usopen-4305,2019,usopen,4305,Anastasia Pavlyuchenkova,Yingying Duan,,,,,,,,,,,Anastasija Sevastova,Saisai Zheng
+2019-usopen-4306,2019,usopen,4306,Viktorija Golubic,Elise Mertens,,,,,,,,,,,Sara Sorribes Tormo,Aryna Sabalenka
+2019-usopen-4307,2019,usopen,4307,Alexa Guarachi,Caroline Dolehide,,,,,,,,,,,Bernarda Pera,Vania King
+2019-usopen-4308,2019,usopen,4308,Lyudmyla Kichenok,Su Wei Hsieh,,,,,,,,,,,Jelena Ostapenko,Barbora Strycova
+2019-usopen-4401,2019,usopen,4401,Timea Babos,Victoria Azarenka,,,,,,,,,,,Kristina Mladenovic,Ashleigh Barty
+2019-usopen-4402,2019,usopen,4402,Gabriela Dabrowski,Viktoria Kuzmova,,,,,,,,,,,Yifan Xu,Aliaksandra Sasnovich
+2019-usopen-4403,2019,usopen,4403,Yingying Duan,Elise Mertens,,,,,,,,,,,Saisai Zheng,Aryna Sabalenka
+2019-usopen-4404,2019,usopen,4404,Caroline Dolehide,Lyudmyla Kichenok,,,,,,,,,,,Vania King,Jelena Ostapenko
+2019-usopen-4501,2019,usopen,4501,Victoria Azarenka,Viktoria Kuzmova,,,,,,,,,,,Ashleigh Barty,Aliaksandra Sasnovich
+2019-usopen-4502,2019,usopen,4502,Elise Mertens,Caroline Dolehide,,,,,,,,,,,Aryna Sabalenka,Vania King
+2019-usopen-4601,2019,usopen,4601,Victoria Azarenka,Elise Mertens,,,,,,,,,,,Ashleigh Barty,Aryna Sabalenka
