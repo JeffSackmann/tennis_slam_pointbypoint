@@ -1,0 +1,125 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2
+2019-wimbledon-3101,2019,wimbledon,3101,Lukasz Kubot,Ben McLachlan,,,,,,,,,,,Marcelo Melo,Jan Lennard Struff
+2019-wimbledon-3102,2019,wimbledon,3102,Alex De Minaur,Federico Delbonis,,,,,,,,,,,Matt Reid,Andres Molteni
+2019-wimbledon-3103,2019,wimbledon,3103,Sander Gille,Guillermo Duran,,,,,,,,,,,Joran Vliegen,Juan Ignacio Londero
+2019-wimbledon-3104,2019,wimbledon,3104,Marcelo Demoliner,Kevin Krawietz,,,,,,,,,,,Divij Sharan,Andreas Mies
+2019-wimbledon-3105,2019,wimbledon,3105,Nicolas Mahut,Liam Broady,,,,,,,,,,,Edouard Roger Vasselin,Scott Clayton
+2019-wimbledon-3106,2019,wimbledon,3106,Daniel Evans,Leonardo Mayer,,,,,,,,,,,Lloyd Glasspool,Joao Sousa
+2019-wimbledon-3107,2019,wimbledon,3107,Lloyd Harris,Marcelo Arevalo,,,,,,,,,,,Casper Ruud,Miguel Angel Reyes Varela
+2019-wimbledon-3108,2019,wimbledon,3108,Denys Molchanov,Bob Bryan,,,,,,,,,,,Igor Zelenay,Mike Bryan
+2019-wimbledon-3109,2019,wimbledon,3109,Mate Pavic,Sander Arends,,,,,,,,,,,Bruno Soares,Matwe Middelkoop
+2019-wimbledon-3110,2019,wimbledon,3110,Laslo Djere,Santiago Gonzalez,,,,,,,,,,,Janko Tipsarevic,Aisam Ul Haq Qureshi
+2019-wimbledon-3111,2019,wimbledon,3111,Marcus Daniell,Rohan Bopanna,,,,,,,,,,,Wesley Koolhof,Pablo Cuevas
+2019-wimbledon-3112,2019,wimbledon,3112,Jaume Munar,Dominic Inglot,,,,,,,,,,,Cameron Norrie,Austin Krajicek
+2019-wimbledon-3113,2019,wimbledon,3113,Jamie Murray,Ivan Dodig,,,,,,,,,,,Neal Skupski,Filip Polasek
+2019-wimbledon-3114,2019,wimbledon,3114,Nicholas Monroe,Evan Hoyt,,,,,,,,,,,Mischa Zverev,Luke Johnson
+2019-wimbledon-3115,2019,wimbledon,3115,Marius Copil,Pierre Hugues Herbert,,,,,,,,,,,Ugo Humbert,Andy Murray
+2019-wimbledon-3116,2019,wimbledon,3116,Ricardas Berankis,Nikola Mektic,,,,,,,,,,,Marton Fucsovics,Franko Skugor
+2019-wimbledon-3117,2019,wimbledon,3117,Henri Kontinen,Gerard Granollers,,,,,,,,,,,John Peers,Marcel Granollers
+2019-wimbledon-3118,2019,wimbledon,3118,Robert Lindstedt,Max Purcell,,,,,,,,,,,Tim Puetz,Luke Saville
+2019-wimbledon-3119,2019,wimbledon,3119,Filip Krajinovic,Matthew Ebden,,,,,,,,,,,Dusan Lajovic,Vasek Pospisil
+2019-wimbledon-3120,2019,wimbledon,3120,Radu Albot,Rajeev Ram,,,,,,,,,,,Malek Jaziri,Joe Salisbury
+2019-wimbledon-3121,2019,wimbledon,3121,Robin Haase,Romain Arneodo,,,,,,,,,,,Frederik Nielsen,Damir Dzumhur
+2019-wimbledon-3122,2019,wimbledon,3122,Ken Skupski,Jay Clarke,,,,,,,,,,,John Patrick Smith,James Ward
+2019-wimbledon-3123,2019,wimbledon,3123,Jeevan Nedunchezhiyan,Lleyton Hewitt,,,,,,,,,,,Purav Raja,Jordan Thompson
+2019-wimbledon-3124,2019,wimbledon,3124,Luke Bambridge,Raven Klaasen,,,,,,,,,,,Jonny O'Mara,Michael Venus
+2019-wimbledon-3125,2019,wimbledon,3125,Jean Julien Rojer,Marco Cecchinato,,,,,,,,,,,Horia Tecau,Andreas Seppi
+2019-wimbledon-3126,2019,wimbledon,3126,Roberto Carballes Baena,Fabrice Martin,,,,,,,,,,,Lorenzo Sonego,Hugo Nys
+2019-wimbledon-3127,2019,wimbledon,3127,Pablo Carreno Busta,Cristian Garin,,,,,,,,,,,Feliciano Lopez,Nicolas Jarry
+2019-wimbledon-3128,2019,wimbledon,3128,Jonathan Erlich,Maximo Gonzalez,,,,,,,,,,,Artem Sitak,Horacio Zeballos
+2019-wimbledon-3129,2019,wimbledon,3129,Oliver Marach,Cheng Peng Hsieh,,,,,,,,,,,Jurgen Melzer,Christopher Rungkat
+2019-wimbledon-3130,2019,wimbledon,3130,Roman Jebavy,Hugo Dellien,,,,,,,,,,,Philipp Oswald,Guido Pella
+2019-wimbledon-3131,2019,wimbledon,3131,Leander Paes,Alexander Bublik,,,,,,,,,,,Benoit Paire,Mikhail Kukushkin
+2019-wimbledon-3132,2019,wimbledon,3132,Jack Draper,Juan Sebastian Cabal,,,,,,,,,,,Paul Jubb,Robert Farah
+2019-wimbledon-3201,2019,wimbledon,3201,Lukasz Kubot,Alex De Minaur,,,,,,,,,,,Marcelo Melo,Matt Reid
+2019-wimbledon-3202,2019,wimbledon,3202,Sander Gille,Marcelo Demoliner,,,,,,,,,,,Joran Vliegen,Divij Sharan
+2019-wimbledon-3203,2019,wimbledon,3203,Nicolas Mahut,Leonardo Mayer,,,,,,,,,,,Edouard Roger Vasselin,Joao Sousa
+2019-wimbledon-3204,2019,wimbledon,3204,Marcelo Arevalo,Bob Bryan,,,,,,,,,,,Miguel Angel Reyes Varela,Mike Bryan
+2019-wimbledon-3205,2019,wimbledon,3205,Mate Pavic,Santiago Gonzalez,,,,,,,,,,,Bruno Soares,Aisam Ul Haq Qureshi
+2019-wimbledon-3206,2019,wimbledon,3206,Marcus Daniell,Jaume Munar,,,,,,,,,,,Wesley Koolhof,Cameron Norrie
+2019-wimbledon-3207,2019,wimbledon,3207,Ivan Dodig,Nicholas Monroe,,,,,,,,,,,Filip Polasek,Mischa Zverev
+2019-wimbledon-3208,2019,wimbledon,3208,Pierre Hugues Herbert,Nikola Mektic,,,,,,,,,,,Andy Murray,Franko Skugor
+2019-wimbledon-3209,2019,wimbledon,3209,Henri Kontinen,Robert Lindstedt,,,,,,,,,,,John Peers,Tim Puetz
+2019-wimbledon-3210,2019,wimbledon,3210,Matthew Ebden,Rajeev Ram,,,,,,,,,,,Vasek Pospisil,Joe Salisbury
+2019-wimbledon-3211,2019,wimbledon,3211,Robin Haase,Ken Skupski,,,,,,,,,,,Frederik Nielsen,John Patrick Smith
+2019-wimbledon-3212,2019,wimbledon,3212,Lleyton Hewitt,Raven Klaasen,,,,,,,,,,,Jordan Thompson,Michael Venus
+2019-wimbledon-3213,2019,wimbledon,3213,Jean Julien Rojer,Fabrice Martin,,,,,,,,,,,Horia Tecau,Hugo Nys
+2019-wimbledon-3214,2019,wimbledon,3214,Pablo Carreno Busta,Maximo Gonzalez,,,,,,,,,,,Feliciano Lopez,Horacio Zeballos
+2019-wimbledon-3215,2019,wimbledon,3215,Oliver Marach,Roman Jebavy,,,,,,,,,,,Jurgen Melzer,Philipp Oswald
+2019-wimbledon-3216,2019,wimbledon,3216,Alexander Bublik,Juan Sebastian Cabal,,,,,,,,,,,Mikhail Kukushkin,Robert Farah
+2019-wimbledon-3301,2019,wimbledon,3301,Lukasz Kubot,Marcelo Demoliner,,,,,,,,,,,Marcelo Melo,Divij Sharan
+2019-wimbledon-3302,2019,wimbledon,3302,Nicolas Mahut,Bob Bryan,,,,,,,,,,,Edouard Roger Vasselin,Mike Bryan
+2019-wimbledon-3303,2019,wimbledon,3303,Santiago Gonzalez,Marcus Daniell,,,,,,,,,,,Aisam Ul Haq Qureshi,Wesley Koolhof
+2019-wimbledon-3304,2019,wimbledon,3304,Ivan Dodig,Nikola Mektic,,,,,,,,,,,Filip Polasek,Franko Skugor
+2019-wimbledon-3305,2019,wimbledon,3305,Henri Kontinen,Rajeev Ram,,,,,,,,,,,John Peers,Joe Salisbury
+2019-wimbledon-3306,2019,wimbledon,3306,Robin Haase,Raven Klaasen,,,,,,,,,,,Frederik Nielsen,Michael Venus
+2019-wimbledon-3307,2019,wimbledon,3307,Jean Julien Rojer,Maximo Gonzalez,,,,,,,,,,,Horia Tecau,Horacio Zeballos
+2019-wimbledon-3308,2019,wimbledon,3308,Roman Jebavy,Juan Sebastian Cabal,,,,,,,,,,,Philipp Oswald,Robert Farah
+2019-wimbledon-3401,2019,wimbledon,3401,Lukasz Kubot,Nicolas Mahut,,,,,,,,,,,Marcelo Melo,Edouard Roger Vasselin
+2019-wimbledon-3402,2019,wimbledon,3402,Marcus Daniell,Ivan Dodig,,,,,,,,,,,Wesley Koolhof,Filip Polasek
+2019-wimbledon-3403,2019,wimbledon,3403,Henri Kontinen,Raven Klaasen,,,,,,,,,,,John Peers,Michael Venus
+2019-wimbledon-3404,2019,wimbledon,3404,Jean Julien Rojer,Juan Sebastian Cabal,,,,,,,,,,,Horia Tecau,Robert Farah
+2019-wimbledon-3501,2019,wimbledon,3501,Nicolas Mahut,Ivan Dodig,,,,,,,,,,,Edouard Roger Vasselin,Filip Polasek
+2019-wimbledon-3502,2019,wimbledon,3502,Raven Klaasen,Juan Sebastian Cabal,,,,,,,,,,,Michael Venus,Robert Farah
+2019-wimbledon-3601,2019,wimbledon,3601,Nicolas Mahut,Juan Sebastian Cabal,,,,,,,,,,,Edouard Roger Vasselin,Robert Farah
+2019-wimbledon-4101,2019,wimbledon,4101,Timea Babos,Jessica Pegula,,,,,,,,,,,Kristina Mladenovic,Maria Sanchez
+2019-wimbledon-4102,2019,wimbledon,4102,Anastasia Potapova,Jennifer Brady,,,,,,,,,,,Dayana Yastremska,Alison Riske
+2019-wimbledon-4103,2019,wimbledon,4103,Sorana Cirstea,Sarah Beth Grey,,,,,,,,,,,Galina Voskoboeva,Eden Silva
+2019-wimbledon-4104,2019,wimbledon,4104,Alize Cornet,Veronika Kudermetova,,,,,,,,,,,Petra Martic,Jelena Ostapenko
+2019-wimbledon-4105,2019,wimbledon,4105,Kirsten Flipkens,Belinda Bencic,,,,,,,,,,,Johanna Larsson,Viktoria Kuzmova
+2019-wimbledon-4106,2019,wimbledon,4106,Nadiia Kichenok,Sofia Kenin,,,,,,,,,,,Abigail Spears,Andrea Petkovic
+2019-wimbledon-4107,2019,wimbledon,4107,Desirae Krawczyk,Alexa Guarachi,,,,,,,,,,,Giuliana Olmos,Sabrina Santamaria
+2019-wimbledon-4108,2019,wimbledon,4108,Irina Bara,Nicole Melichar,,,,,,,,,,,Magda Linette,Kveta Peschke
+2019-wimbledon-4109,2019,wimbledon,4109,Su Wei Hsieh,Mona Barthel,,,,,,,,,,,Barbora Strycova,Xenia Knoll
+2019-wimbledon-4110,2019,wimbledon,4110,Ekaterina Alexandrova,Asia Muhammad,,,,,,,,,,,Viktorija Golubic,Taylor Townsend
+2019-wimbledon-4111,2019,wimbledon,4111,Madison Brengle,Xinyun Han,,,,,,,,,,,Erin Routliffe,Oksana Kalashnikova
+2019-wimbledon-4112,2019,wimbledon,4112,Daria Kasatkina,Irina Camelia Begu,,,,,,,,,,,Anett Kontaveit,Monica Niculescu
+2019-wimbledon-4113,2019,wimbledon,4113,Hao Ching Chan,Harriet Dart,,,,,,,,,,,Latisha Chan,Katy Dunne
+2019-wimbledon-4114,2019,wimbledon,4114,Freya Christie,Greet Minnen,,,,,,,,,,,Katie Swan,Alison Van Uytvanck
+2019-wimbledon-4115,2019,wimbledon,4115,Shuko Aoyama,Kaitlyn Christian,,,,,,,,,,,Aleksandra Krunic,Dalila Jakupovic
+2019-wimbledon-4116,2019,wimbledon,4116,Natela Dzalamidze,Elise Mertens,,,,,,,,,,,Cornelia Lister,Aryna Sabalenka
+2019-wimbledon-4117,2019,wimbledon,4117,Samantha Stosur,Margarita Gasparyan,,,,,,,,,,,Shuai Zhang,Alexandra Panova
+2019-wimbledon-4118,2019,wimbledon,4118,Andreea Mitu,Danielle Collins,,,,,,,,,,,Pauline Parmentier,Bethanie Mattek Sands
+2019-wimbledon-4119,2019,wimbledon,4119,Rebecca Peterson,Mihaela Buzarnescu,,,,,,,,,,,Tamara Zidansek,Raluca Olaru
+2019-wimbledon-4120,2019,wimbledon,4120,Lidziya Marozava,Victoria Azarenka,,,,,,,,,,,Storm Sanders,Ashleigh Barty
+2019-wimbledon-4121,2019,wimbledon,4121,Yingying Duan,Magdalena Rybarikova,,,,,,,,,,,Saisai Zheng,Stefanie Voegele
+2019-wimbledon-4122,2019,wimbledon,4122,Monica Puig,Makoto Ninomiya,,,,,,,,,,,Shelby Rogers,Renata Voracova
+2019-wimbledon-4123,2019,wimbledon,4123,Kateryna Kozlova,Darija Jurak,,,,,,,,,,,Arina Rodionova,Katarina Srebotnik
+2019-wimbledon-4124,2019,wimbledon,4124,Ons Jabeur,Gabriela Dabrowski,,,,,,,,,,,Fanny Stollar,Yifan Xu
+2019-wimbledon-4125,2019,wimbledon,4125,Anna Lena Groenefeld,Monique Adamczak,,,,,,,,,,,Demi Schuurs,Ellen Perez
+2019-wimbledon-4126,2019,wimbledon,4126,Vitalia Diatchenko,Alicja Rosolska,,,,,,,,,,,Yulia Putintseva,Astra Sharma
+2019-wimbledon-4127,2019,wimbledon,4127,Anna Blinkova,Nao Hibino,,,,,,,,,,,Yafan Wang,Miyu Kato
+2019-wimbledon-4128,2019,wimbledon,4128,Maria Sakkari,Lucie Hradecka,,,,,,,,,,,Ajla Tomljanovic,Andreja Klepac
+2019-wimbledon-4129,2019,wimbledon,4129,Raquel Atawo,Mandy Minella,,,,,,,,,,,Lyudmyla Kichenok,Heather Watson
+2019-wimbledon-4130,2019,wimbledon,4130,Shuai Peng,Anna Lena Friedsam,,,,,,,,,,,Zhaoxuan Yang,Laura Siegemund
+2019-wimbledon-4131,2019,wimbledon,4131,Timea Bacsinszky,Aliaksandra Sasnovich,,,,,,,,,,,Bernarda Pera,Lesia Tsurenko
+2019-wimbledon-4132,2019,wimbledon,4132,Naiktha Bains,Barbora Krejcikova,,,,,,,,,,,Naomi Broady,Katerina Siniakova
+2019-wimbledon-4201,2019,wimbledon,4201,Timea Babos,Jennifer Brady,,,,,,,,,,,Kristina Mladenovic,Alison Riske
+2019-wimbledon-4202,2019,wimbledon,4202,Sorana Cirstea,Alize Cornet,,,,,,,,,,,Galina Voskoboeva,Petra Martic
+2019-wimbledon-4203,2019,wimbledon,4203,Kirsten Flipkens,Nadiia Kichenok,,,,,,,,,,,Johanna Larsson,Abigail Spears
+2019-wimbledon-4204,2019,wimbledon,4204,Desirae Krawczyk,Nicole Melichar,,,,,,,,,,,Giuliana Olmos,Kveta Peschke
+2019-wimbledon-4205,2019,wimbledon,4205,Su Wei Hsieh,Ekaterina Alexandrova,,,,,,,,,,,Barbora Strycova,Viktorija Golubic
+2019-wimbledon-4206,2019,wimbledon,4206,Xinyun Han,Irina Camelia Begu,,,,,,,,,,,Oksana Kalashnikova,Monica Niculescu
+2019-wimbledon-4207,2019,wimbledon,4207,Hao Ching Chan,Greet Minnen,,,,,,,,,,,Latisha Chan,Alison Van Uytvanck
+2019-wimbledon-4208,2019,wimbledon,4208,Shuko Aoyama,Elise Mertens,,,,,,,,,,,Aleksandra Krunic,Aryna Sabalenka
+2019-wimbledon-4209,2019,wimbledon,4209,Samantha Stosur,Danielle Collins,,,,,,,,,,,Shuai Zhang,Bethanie Mattek Sands
+2019-wimbledon-4210,2019,wimbledon,4210,Rebecca Peterson,Victoria Azarenka,,,,,,,,,,,Tamara Zidansek,Ashleigh Barty
+2019-wimbledon-4211,2019,wimbledon,4211,Yingying Duan,Makoto Ninomiya,,,,,,,,,,,Saisai Zheng,Renata Voracova
+2019-wimbledon-4212,2019,wimbledon,4212,Kateryna Kozlova,Gabriela Dabrowski,,,,,,,,,,,Arina Rodionova,Yifan Xu
+2019-wimbledon-4213,2019,wimbledon,4213,Anna Lena Groenefeld,Alicja Rosolska,,,,,,,,,,,Demi Schuurs,Astra Sharma
+2019-wimbledon-4214,2019,wimbledon,4214,Anna Blinkova,Maria Sakkari,,,,,,,,,,,Yafan Wang,Ajla Tomljanovic
+2019-wimbledon-4215,2019,wimbledon,4215,Raquel Atawo,Anna Lena Friedsam,,,,,,,,,,,Lyudmyla Kichenok,Laura Siegemund
+2019-wimbledon-4216,2019,wimbledon,4216,Aliaksandra Sasnovich,Barbora Krejcikova,,,,,,,,,,,Lesia Tsurenko,Katerina Siniakova
+2019-wimbledon-4302,2019,wimbledon,4302,Nadiia Kichenok,Nicole Melichar,,,,,,,,,,,Abigail Spears,Kveta Peschke
+2019-wimbledon-4303,2019,wimbledon,4303,Su Wei Hsieh,Irina Camelia Begu,,,,,,,,,,,Barbora Strycova,Monica Niculescu
+2019-wimbledon-4304,2019,wimbledon,4304,Hao Ching Chan,Elise Mertens,,,,,,,,,,,Latisha Chan,Aryna Sabalenka
+2019-wimbledon-4306,2019,wimbledon,4306,Yingying Duan,Gabriela Dabrowski,,,,,,,,,,,Saisai Zheng,Yifan Xu
+2019-wimbledon-4307,2019,wimbledon,4307,Anna Lena Groenefeld,Anna Blinkova,,,,,,,,,,,Demi Schuurs,Yafan Wang
+2019-wimbledon-4308,2019,wimbledon,4308,Anna Lena Friedsam,Barbora Krejcikova,,,,,,,,,,,Laura Siegemund,Katerina Siniakova
+2019-wimbledon-4401,2019,wimbledon,4401,Timea Babos,Nicole Melichar,,,,,,,,,,,Kristina Mladenovic,Kveta Peschke
+2019-wimbledon-4402,2019,wimbledon,4402,Su Wei Hsieh,Elise Mertens,,,,,,,,,,,Barbora Strycova,Aryna Sabalenka
+2019-wimbledon-4403,2019,wimbledon,4403,Danielle Collins,Gabriela Dabrowski,,,,,,,,,,,Bethanie Mattek Sands,Yifan Xu
+2019-wimbledon-4404,2019,wimbledon,4404,Anna Lena Groenefeld,Barbora Krejcikova,,,,,,,,,,,Demi Schuurs,Katerina Siniakova
+2019-wimbledon-4501,2019,wimbledon,4501,Timea Babos,Su Wei Hsieh,,,,,,,,,,,Kristina Mladenovic,Barbora Strycova
+2019-wimbledon-4502,2019,wimbledon,4502,Gabriela Dabrowski,Barbora Krejcikova,,,,,,,,,,,Yifan Xu,Katerina Siniakova
+2019-wimbledon-4601,2019,wimbledon,4601,Su Wei Hsieh,Gabriela Dabrowski,,,,,,,,,,,Barbora Strycova,Yifan Xu
