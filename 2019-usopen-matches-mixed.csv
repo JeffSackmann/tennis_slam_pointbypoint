@@ -1,0 +1,28 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2
+2019-usopen-5101,2019,usopen,5101,Hao Ching Chan,Andreja Klepac,,,,,,,,,,,Michael Venus,Ken Skupski
+2019-usopen-5102,2019,usopen,5102,Desirae Krawczyk,Hailey Baptiste,,,,,,,,,,,Joe Salisbury,Jenson Brooksby
+2019-usopen-5103,2019,usopen,5103,Yingying Duan,Laura Siegemund,,,,,,,,,,,Marcelo Demoliner,Andreas Mies
+2019-usopen-5104,2019,usopen,5104,Christina McHale,Kveta Peschke,,,,,,,,,,,Ryan Harrison,Wesley Koolhof
+2019-usopen-5105,2019,usopen,5105,Latisha Chan,Maria Jose Martinez Sanchez,,,,,,,,,,,Ivan Dodig,Neal Skupski
+2019-usopen-5106,2019,usopen,5106,Lucie Hradecka,Raluca Olaru,,,,,,,,,,,Artem Sitak,Franko Skugor
+2019-usopen-5107,2019,usopen,5107,Alicja Rosolska,Abigail Spears,,,,,,,,,,,Nikola Mektic,Rohan Bopanna
+2019-usopen-5108,2019,usopen,5108,Raquel Atawo,Anna Lena Groenefeld,,,,,,,,,,,Fabrice Martin,Oliver Marach
+2019-usopen-5109,2019,usopen,5109,Demi Schuurs,Asia Muhammad,,,,,,,,,,,Henri Kontinen,Austin Krajicek
+2019-usopen-5110,2019,usopen,5110,Jennifer Brady,Saisai Zheng,,,,,,,,,,,Denis Kudla,Joran Vliegen
+2019-usopen-5111,2019,usopen,5111,Kirsten Flipkens,CoCo Vandeweghe,,,,,,,,,,,Edouard Roger Vasselin,Maxime Cressy
+2019-usopen-5112,2019,usopen,5112,Kaitlyn Christian,Samantha Stosur,,,,,,,,,,,Jamie Cerretani,Rajeev Ram
+2019-usopen-5113,2019,usopen,5113,Nicole Melichar,Su Wei Hsieh,,,,,,,,,,,Bruno Soares,Cheng Peng Hsieh
+2019-usopen-5114,2019,usopen,5114,Bethanie Mattek Sands,Shuai Zhang,,,,,,,,,,,Jamie Murray,John Peers
+2019-usopen-5115,2019,usopen,5115,Danielle Collins,Hayley Carter,,,,,,,,,,,Nicholas Monroe,Jackson Withrow
+2019-usopen-5116,2019,usopen,5116,Darija Jurak,Gabriela Dabrowski,,,,,,,,,,,Marcus Daniell,Mate Pavic
+2019-usopen-5201,2019,usopen,5201,Hao Ching Chan,Desirae Krawczyk,,,,,,,,,,,Michael Venus,Joe Salisbury
+2019-usopen-5206,2019,usopen,5206,Kirsten Flipkens,Samantha Stosur,,,,,,,,,,,Edouard Roger Vasselin,Rajeev Ram
+2019-usopen-5207,2019,usopen,5207,Nicole Melichar,Bethanie Mattek Sands,,,,,,,,,,,Bruno Soares,Jamie Murray
+2019-usopen-5208,2019,usopen,5208,Hayley Carter,Gabriela Dabrowski,,,,,,,,,,,Jackson Withrow,Mate Pavic
+2019-usopen-5301,2019,usopen,5301,Hao Ching Chan,Kveta Peschke,,,,,,,,,,,Michael Venus,Wesley Koolhof
+2019-usopen-5302,2019,usopen,5302,Latisha Chan,Raquel Atawo,,,,,,,,,,,Ivan Dodig,Fabrice Martin
+2019-usopen-5303,2019,usopen,5303,Demi Schuurs,Samantha Stosur,,,,,,,,,,,Henri Kontinen,Rajeev Ram
+2019-usopen-5304,2019,usopen,5304,Bethanie Mattek Sands,Gabriela Dabrowski,,,,,,,,,,,Jamie Murray,Mate Pavic
+2019-usopen-5401,2019,usopen,5401,Hao Ching Chan,Latisha Chan,,,,,,,,,,,Michael Venus,Ivan Dodig
+2019-usopen-5402,2019,usopen,5402,Samantha Stosur,Bethanie Mattek Sands,,,,,,,,,,,Rajeev Ram,Jamie Murray
+2019-usopen-5501,2019,usopen,5501,Hao Ching Chan,Bethanie Mattek Sands,,,,,,,,,,,Michael Venus,Jamie Murray
