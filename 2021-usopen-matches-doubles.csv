@@ -1,0 +1,126 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2
+2021-usopen-3101,2021,usopen,3101,Nikola Mektic,Nathaniel Lammons,,,,,,,,,,,Mate Pavic,Jackson Withrow
+2021-usopen-3102,2021,usopen,3102,Luke Saville,Ricardas Berankis,,,,,,,,,,,John Patrick Smith,Benoit Paire
+2021-usopen-3103,2021,usopen,3103,Steve Johnson,Marcelo Arevalo,,,,,,,,,,,Sam Querrey,Matwe Middelkoop
+2021-usopen-3104,2021,usopen,3104,Cameron Norrie,Simone Bolelli,,,,,,,,,,,Jan Lennard Struff,Maximo Gonzalez
+2021-usopen-3105,2021,usopen,3105,Raven Klaasen,Mitchell Krueger,,,,,,,,,,,Ben McLachlan,Michael Mmoh
+2021-usopen-3106,2021,usopen,3106,Santiago Gonzalez,Robin Haase,,,,,,,,,,,Andres Molteni,Mackenzie McDonald
+2021-usopen-3107,2021,usopen,3107,Frederik Nielsen,Marcos Giron,,,,,,,,,,,Vasek Pospisil,Andre Goransson
+2021-usopen-3108,2021,usopen,3108,Marton Fucsovics,Kevin Krawietz,,,,,,,,,,,Stefano Travaglia,Horia Tecau
+2021-usopen-3109,2021,usopen,3109,Rajeev Ram,Soonwoo Kwon,,,,,,,,,,,Joe Salisbury,Divij Sharan
+2021-usopen-3110,2021,usopen,3110,John Millman,Alex de Minaur,,,,,,,,,,,Thiago Monteiro,Matt Reid
+2021-usopen-3111,2021,usopen,3111,Miomir Kecmanovic,Hugo Nys,,,,,,,,,,,Casper Ruud,Arthur Rinderknech
+2021-usopen-3112,2021,usopen,3112,James Duckworth,Rohan Bopanna,,,,,,,,,,,Jordan Thompson,Ivan Dodig
+2021-usopen-3113,2021,usopen,3113,Lukasz Kubot,Evan King,,,,,,,,,,,Marcelo Melo,Hunter Reese
+2021-usopen-3114,2021,usopen,3114,Harri Heliovaara,Dominic Inglot,,,,,,,,,,,Henri Kontinen,Austin Krajicek
+2021-usopen-3115,2021,usopen,3115,Dusan Lajovic,Matthew Ebden,,,,,,,,,,,Brandon Nakashima,Max Purcell
+2021-usopen-3116,2021,usopen,3116,Hubert Hurkacz,Juan Sebastian Cabal,,,,,,,,,,,Szymon Walkow,Robert Farah
+2021-usopen-3117,2021,usopen,3117,John Peers,Luke Bambridge,,,,,,,,,,,Filip Polasek,Ken Skupski
+2021-usopen-3118,2021,usopen,3118,Oliver Marach,Jonathan Erlich,,,,,,,,,,,Philipp Oswald,Lloyd Harris
+2021-usopen-3119,2021,usopen,3119,Robert Galloway,Federico Coria,,,,,,,,,,,Alex Lawson,Gianluca Mager
+2021-usopen-3120,2021,usopen,3120,Aslan Karatsev,Wesley Koolhof,,,,,,,,,,,Aleksandr Nedovyesov,Jean Julien Rojer
+2021-usopen-3121,2021,usopen,3121,Andrey Golubev,Pedro Martinez,,,,,,,,,,,Andreas Mies,Albert Ramos Vinolas
+2021-usopen-3122,2021,usopen,3122,Pablo Cuevas,Tomislav Brkic,,,,,,,,,,,Adrian Mannarino,Nikola Cacic
+2021-usopen-3123,2021,usopen,3123,Marcus Daniell,Daniel Evans,,,,,,,,,,,Marcelo Demoliner,Lloyd Glasspool
+2021-usopen-3124,2021,usopen,3124,Eliot Spizzirri,Pierre Hugues Herbert,,,,,,,,,,,Tyler Zink,Nicolas Mahut
+2021-usopen-3125,2021,usopen,3125,Jamie Murray,Tommy Paul,,,,,,,,,,,Bruno Soares,Alexei Popyrin
+2021-usopen-3126,2021,usopen,3126,Christopher Eubanks,Nicholas Monroe,,,,,,,,,,,Bjorn Fratangelo,Frances Tiafoe
+2021-usopen-3127,2021,usopen,3127,Laslo Djere,Neal Skupski,,,,,,,,,,,Filip Krajinovic,Jack Sock
+2021-usopen-3128,2021,usopen,3128,Dominik Koepfer,Tim Puetz,,,,,,,,,,,Emil Ruusuvuori,Michael Venus
+2021-usopen-3129,2021,usopen,3129,Sander Gille,Ilya Ivashka,,,,,,,,,,,Joran Vliegen,Jaume Munar
+2021-usopen-3130,2021,usopen,3130,Jonny O'Mara,Ariel Behar,,,,,,,,,,,Aisam Qureshi,Gonzalo Escobar
+2021-usopen-3131,2021,usopen,3131,Jeremy Chardy,Jurgen Melzer,,,,,,,,,,,Fabrice Martin,Marc Polmans
+2021-usopen-3132,2021,usopen,3132,Facundo Bagnis,Marcel Granollers,,,,,,,,,,,Federico Delbonis,Horacio Zeballos
+2021-usopen-3201,2021,usopen,3201,Nathaniel Lammons,Ricardas Berankis,,,,,,,,,,,Jackson Withrow,Benoit Paire
+2021-usopen-3202,2021,usopen,3202,Steve Johnson,Simone Bolelli,,,,,,,,,,,Sam Querrey,Maximo Gonzalez
+2021-usopen-3203,2021,usopen,3203,Raven Klaasen,Santiago Gonzalez,,,,,,,,,,,Ben McLachlan,Andres Molteni
+2021-usopen-3204,2021,usopen,3204,Frederik Nielsen,Kevin Krawietz,,,,,,,,,,,Vasek Pospisil,Horia Tecau
+2021-usopen-3205,2021,usopen,3205,Rajeev Ram,John Millman,,,,,,,,,,,Joe Salisbury,Thiago Monteiro
+2021-usopen-3206,2021,usopen,3206,Hugo Nys,Rohan Bopanna,,,,,,,,,,,Arthur Rinderknech,Ivan Dodig
+2021-usopen-3207,2021,usopen,3207,Evan King,Dominic Inglot,,,,,,,,,,,Hunter Reese,Austin Krajicek
+2021-usopen-3208,2021,usopen,3208,Matthew Ebden,Hubert Hurkacz,,,,,,,,,,,Max Purcell,Szymon Walkow
+2021-usopen-3209,2021,usopen,3209,John Peers,Jonathan Erlich,,,,,,,,,,,Filip Polasek,Lloyd Harris
+2021-usopen-3210,2021,usopen,3210,Robert Galloway,Wesley Koolhof,,,,,,,,,,,Alex Lawson,Jean Julien Rojer
+2021-usopen-3211,2021,usopen,3211,Andrey Golubev,Tomislav Brkic,,,,,,,,,,,Andreas Mies,Nikola Cacic
+2021-usopen-3212,2021,usopen,3212,Marcus Daniell,Pierre Hugues Herbert,,,,,,,,,,,Marcelo Demoliner,Nicolas Mahut
+2021-usopen-3213,2021,usopen,3213,Jamie Murray,Christopher Eubanks,,,,,,,,,,,Bruno Soares,Bjorn Fratangelo
+2021-usopen-3215,2021,usopen,3215,Sander Gille,Jonny O'Mara,,,,,,,,,,,Joran Vliegen,Aisam Qureshi
+2021-usopen-3216,2021,usopen,3216,Jeremy Chardy,Marcel Granollers,,,,,,,,,,,Fabrice Martin,Horacio Zeballos
+2021-usopen-3301,2021,usopen,3301,Ricardas Berankis,Steve Johnson,,,,,,,,,,,Benoit Paire,Sam Querrey
+2021-usopen-3302,2021,usopen,3302,Santiago Gonzalez,Kevin Krawietz,,,,,,,,,,,Andres Molteni,Horia Tecau
+2021-usopen-3303,2021,usopen,3303,Rajeev Ram,Rohan Bopanna,,,,,,,,,,,Joe Salisbury,Ivan Dodig
+2021-usopen-3304,2021,usopen,3304,Evan King,Matthew Ebden,,,,,,,,,,,Hunter Reese,Max Purcell
+2021-usopen-3305,2021,usopen,3305,John Peers,Wesley Koolhof,,,,,,,,,,,Filip Polasek,Jean Julien Rojer
+2021-usopen-3306,2021,usopen,3306,Andrey Golubev,Pierre Hugues Herbert,,,,,,,,,,,Andreas Mies,Nicolas Mahut
+2021-usopen-3307,2021,usopen,3307,Jamie Murray,Dominik Koepfer,,,,,,,,,,,Bruno Soares,Emil Ruusuvuori
+2021-usopen-3308,2021,usopen,3308,Jonny O'Mara,Marcel Granollers,,,,,,,,,,,Aisam Qureshi,Horacio Zeballos
+2021-usopen-3401,2021,usopen,3401,Steve Johnson,Kevin Krawietz,,,,,,,,,,,Sam Querrey,Horia Tecau
+2021-usopen-3402,2021,usopen,3402,Rajeev Ram,Matthew Ebden,,,,,,,,,,,Joe Salisbury,Max Purcell
+2021-usopen-3403,2021,usopen,3403,John Peers,Pierre Hugues Herbert,,,,,,,,,,,Filip Polasek,Nicolas Mahut
+2021-usopen-3404,2021,usopen,3404,Jamie Murray,Marcel Granollers,,,,,,,,,,,Bruno Soares,Horacio Zeballos
+2021-usopen-3501,2021,usopen,3501,Steve Johnson,Rajeev Ram,,,,,,,,,,,Sam Querrey,Joe Salisbury
+2021-usopen-3502,2021,usopen,3502,John Peers,Jamie Murray,,,,,,,,,,,Filip Polasek,Bruno Soares
+2021-usopen-3601,2021,usopen,3601,Rajeev Ram,Jamie Murray,,,,,,,,,,,Joe Salisbury,Bruno Soares
+2021-usopen-4101,2021,usopen,4101,Su Wei Hsieh,Anna Kalinskaya,,,,,,,,,,,Elise Mertens,Yulia Putintseva
+2021-usopen-4102,2021,usopen,4102,Ekaterina Alexandrova,Ulrikke Eikeri,,,,,,,,,,,Oksana Kalashnikova,Elixane Lechemia
+2021-usopen-4103,2021,usopen,4103,Greet Minnen,Lyudmyla Kichenok,,,,,,,,,,,Alison Van Uytvanck,Makoto Ninomiya
+2021-usopen-4104,2021,usopen,4104,Ivana Jorovic,Ellen Perez,,,,,,,,,,,Lesley Pattinama Kerkhove,Kveta Peschke
+2021-usopen-4105,2021,usopen,4105,Coco Gauff,Sara Errani,,,,,,,,,,,Catherine McNally,Carla Suárez Navarro
+2021-usopen-4106,2021,usopen,4106,Tereza Martincova,Hayley Carter,,,,,,,,,,,Marketa Vondrousova,Astra Sharma
+2021-usopen-4107,2021,usopen,4107,Daria Kasatkina,Ann Li,,,,,,,,,,,Anett Kontaveit,Alison Riske
+2021-usopen-4108,2021,usopen,4108,Kateryna Bondarenko,Darija Jurak,,,,,,,,,,,Ankita Raina,Andreja Klepac
+2021-usopen-4109,2021,usopen,4109,Nicole Melichar Martinez,Anastasia Rodionova,,,,,,,,,,,Demi Schuurs,Arina Rodionova
+2021-usopen-4110,2021,usopen,4110,Kaitlyn Christian,Anhelina Kalinina,,,,,,,,,,,Nao Hibino,Renata Voracova
+2021-usopen-4111,2021,usopen,4111,Zarina Diyas,Misaki Doi,,,,,,,,,,,Varvara Gracheva,Anna Lena Friedsam
+2021-usopen-4112,2021,usopen,4112,Makenna Jones,Marie Bouzkova,,,,,,,,,,,Elizabeth Scotty,Lucie Hradecka
+2021-usopen-4113,2021,usopen,4113,Aleksandra Krunic,Usue Maitane Arconada,,,,,,,,,,,Nina Stojanovic,Whitney Osuigwe
+2021-usopen-4114,2021,usopen,4114,Hailey Baptiste,Marta Kostyuk,,,,,,,,,,,Emma Navarro,Dayana Yastremska
+2021-usopen-4115,2021,usopen,4115,Mandy Minella,Petra Martic,,,,,,,,,,,Liudmila Samsonova,Shelby Rogers
+2021-usopen-4116,2021,usopen,4116,Viktorija Golubic,Gabriela Dabrowski,,,,,,,,,,,Tamara Zidansek,Luisa Stefani
+2021-usopen-4117,2021,usopen,4117,Veronika Kudermetova,Aliaksandra Sasnovich,,,,,,,,,,,Bethanie Mattek Sands,Galina Voskoboeva
+2021-usopen-4118,2021,usopen,4118,Hao Ching Chan,Alizé Cornet,,,,,,,,,,,Harriet Dart,Fiona Ferro
+2021-usopen-4119,2021,usopen,4119,Caroline Garcia,Irina Camelia Begu,,,,,,,,,,,Nadia Podoroska,Andreea Mitu
+2021-usopen-4120,2021,usopen,4120,Lauren Davis,Caroline Dolehide,,,,,,,,,,,Ingrid Neel,Storm Sanders
+2021-usopen-4121,2021,usopen,4121,Samantha Stosur,Jasmine Paolini,,,,,,,,,,,Shuai Zhang,Jil Teichmann
+2021-usopen-4122,2021,usopen,4122,Viktoria Kuzmova,Miyu Kato,,,,,,,,,,,Arantxa Rus,Sabrina Santamaria
+2021-usopen-4123,2021,usopen,4123,Eri Hozumi,Julia Lohoff,,,,,,,,,,,Alicja Rosolska,Lidziya Marozava
+2021-usopen-4124,2021,usopen,4124,Madison Brengle,Shuko Aoyama,,,,,,,,,,,Claire Liu,Ena Shibahara
+2021-usopen-4125,2021,usopen,4125,Alexa Guarachi,Anna Danilina,,,,,,,,,,,Desirae Krawczyk,Yaroslava Shvedova
+2021-usopen-4126,2021,usopen,4126,Maria Camila Osorio Serrano,Danka Kovinic,,,,,,,,,,,Rosalie Van Der Hoek,Rebecca Peterson
+2021-usopen-4127,2021,usopen,4127,Andrea Petkovic,Emina Bektas,,,,,,,,,,,Ajla Tomljanovic,Tara Moore
+2021-usopen-4128,2021,usopen,4128,Sania Mirza,Nadiia Kichenok,,,,,,,,,,,CoCo Vandeweghe,Raluca Olaru
+2021-usopen-4129,2021,usopen,4129,Asia Muhammad,Ashlyn Krueger,,,,,,,,,,,Jessica Pegula,Robin Montgomery
+2021-usopen-4130,2021,usopen,4130,Christina McHale,Leylah Fernandez,,,,,,,,,,,Giuliana Olmos,Erin Routliffe
+2021-usopen-4131,2021,usopen,4131,Monica Niculescu,Polona Hercog,,,,,,,,,,,Elena Gabriela Ruse,Anastasija Sevastova
+2021-usopen-4132,2021,usopen,4132,Magda Linette,Barbora Krejcikova,,,,,,,,,,,Bernarda Pera,Katerina Siniakova
+2021-usopen-4201,2021,usopen,4201,Su Wei Hsieh,Ulrikke Eikeri,,,,,,,,,,,Elise Mertens,Elixane Lechemia
+2021-usopen-4202,2021,usopen,4202,Greet Minnen,Ellen Perez,,,,,,,,,,,Alison Van Uytvanck,Kveta Peschke
+2021-usopen-4203,2021,usopen,4203,Coco Gauff,Tereza Martincova,,,,,,,,,,,Catherine McNally,Marketa Vondrousova
+2021-usopen-4204,2021,usopen,4204,Daria Kasatkina,Darija Jurak,,,,,,,,,,,Anett Kontaveit,Andreja Klepac
+2021-usopen-4205,2021,usopen,4205,Anastasia Rodionova,Anhelina Kalinina,,,,,,,,,,,Arina Rodionova,Renata Voracova
+2021-usopen-4206,2021,usopen,4206,Zarina Diyas,Marie Bouzkova,,,,,,,,,,,Varvara Gracheva,Lucie Hradecka
+2021-usopen-4207,2021,usopen,4207,Aleksandra Krunic,Marta Kostyuk,,,,,,,,,,,Nina Stojanovic,Dayana Yastremska
+2021-usopen-4208,2021,usopen,4208,Petra Martic,Gabriela Dabrowski,,,,,,,,,,,Shelby Rogers,Luisa Stefani
+2021-usopen-4209,2021,usopen,4209,Veronika Kudermetova,Alizé Cornet,,,,,,,,,,,Bethanie Mattek Sands,Fiona Ferro
+2021-usopen-4210,2021,usopen,4210,Irina Camelia Begu,Caroline Dolehide,,,,,,,,,,,Andreea Mitu,Storm Sanders
+2021-usopen-4211,2021,usopen,4211,Samantha Stosur,Miyu Kato,,,,,,,,,,,Shuai Zhang,Sabrina Santamaria
+2021-usopen-4212,2021,usopen,4212,Eri Hozumi,Shuko Aoyama,,,,,,,,,,,Alicja Rosolska,Ena Shibahara
+2021-usopen-4213,2021,usopen,4213,Alexa Guarachi,Danka Kovinic,,,,,,,,,,,Desirae Krawczyk,Rebecca Peterson
+2021-usopen-4214,2021,usopen,4214,Andrea Petkovic,Nadiia Kichenok,,,,,,,,,,,Ajla Tomljanovic,Raluca Olaru
+2021-usopen-4215,2021,usopen,4215,Ashlyn Krueger,Leylah Fernandez,,,,,,,,,,,Robin Montgomery,Erin Routliffe
+2021-usopen-4216,2021,usopen,4216,Monica Niculescu,Magda Linette,,,,,,,,,,,Elena Gabriela Ruse,Bernarda Pera
+2021-usopen-4301,2021,usopen,4301,Su Wei Hsieh,Greet Minnen,,,,,,,,,,,Elise Mertens,Alison Van Uytvanck
+2021-usopen-4302,2021,usopen,4302,Coco Gauff,Darija Jurak,,,,,,,,,,,Catherine McNally,Andreja Klepac
+2021-usopen-4303,2021,usopen,4303,Anastasia Rodionova,Marie Bouzkova,,,,,,,,,,,Arina Rodionova,Lucie Hradecka
+2021-usopen-4304,2021,usopen,4304,Marta Kostyuk,Gabriela Dabrowski,,,,,,,,,,,Dayana Yastremska,Luisa Stefani
+2021-usopen-4305,2021,usopen,4305,Veronika Kudermetova,Caroline Dolehide,,,,,,,,,,,Bethanie Mattek Sands,Storm Sanders
+2021-usopen-4306,2021,usopen,4306,Samantha Stosur,Shuko Aoyama,,,,,,,,,,,Shuai Zhang,Ena Shibahara
+2021-usopen-4307,2021,usopen,4307,Alexa Guarachi,Nadiia Kichenok,,,,,,,,,,,Desirae Krawczyk,Raluca Olaru
+2021-usopen-4308,2021,usopen,4308,Leylah Fernandez,Monica Niculescu,,,,,,,,,,,Erin Routliffe,Elena Gabriela Ruse
+2021-usopen-4401,2021,usopen,4401,Su Wei Hsieh,Coco Gauff,,,,,,,,,,,Elise Mertens,Catherine McNally
+2021-usopen-4402,2021,usopen,4402,Marie Bouzkova,Gabriela Dabrowski,,,,,,,,,,,Lucie Hradecka,Luisa Stefani
+2021-usopen-4403,2021,usopen,4403,Caroline Dolehide,Samantha Stosur,,,,,,,,,,,Storm Sanders,Shuai Zhang
+2021-usopen-4404,2021,usopen,4404,Alexa Guarachi,Monica Niculescu,,,,,,,,,,,Desirae Krawczyk,Elena Gabriela Ruse
+2021-usopen-4501,2021,usopen,4501,Coco Gauff,Gabriela Dabrowski,,,,,,,,,,,Catherine McNally,Luisa Stefani
+2021-usopen-4502,2021,usopen,4502,Samantha Stosur,Alexa Guarachi,,,,,,,,,,,Shuai Zhang,Desirae Krawczyk
+2021-usopen-4601,2021,usopen,4601,Coco Gauff,Samantha Stosur,,,,,,,,,,,Catherine McNally,Shuai Zhang

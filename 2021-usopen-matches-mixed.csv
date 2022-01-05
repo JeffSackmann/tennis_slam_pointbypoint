@@ -1,0 +1,31 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2
+2021-usopen-5101,2021,usopen,5101,Nicole Melichar Martinez,Shuai Zhang,,,,,,,,,,,Ivan Dodig,John Peers
+2021-usopen-5102,2021,usopen,5102,Asia Muhammad,Giuliana Olmos,,,,,,,,,,,Jackson Withrow,Marcelo Arevalo
+2021-usopen-5103,2021,usopen,5103,Ellen Perez,Madison Keys,,,,,,,,,,,Marcelo Demoliner,Bjorn Fratangelo
+2021-usopen-5104,2021,usopen,5104,Andreja Klepac,Bethanie Mattek Sands,,,,,,,,,,,Joran Vliegen,Jamie Murray
+2021-usopen-5105,2021,usopen,5105,Luisa Stefani,Gabriela Dabrowski,,,,,,,,,,,Marcelo Melo,Marcus Daniell
+2021-usopen-5106,2021,usopen,5106,Dayana Yastremska,Sania Mirza,,,,,,,,,,,Max Purcell,Rajeev Ram
+2021-usopen-5107,2021,usopen,5107,Reese Brantmeier,Sachia Vickery,,,,,,,,,,,Nicholas Monroe,Nathan Pasha
+2021-usopen-5108,2021,usopen,5108,Yaroslava Shvedova,Hao Ching Chan,,,,,,,,,,,Fabrice Martin,Michael Venus
+2021-usopen-5109,2021,usopen,5109,Ena Shibahara,Hayley Carter,,,,,,,,,,,Ben McLachlan,Hunter Reese
+2021-usopen-5110,2021,usopen,5110,Lucie Hradecka,Jessica Pegula,,,,,,,,,,,Lukasz Kubot,Austin Krajicek
+2021-usopen-5111,2021,usopen,5111,Galina Voskoboeva,Darija Jurak,,,,,,,,,,,Nikola Cacic,Matwe Middelkoop
+2021-usopen-5112,2021,usopen,5112,Samantha Stosur,Alexa Guarachi,,,,,,,,,,,Bruno Soares,Neal Skupski
+2021-usopen-5113,2021,usopen,5113,Demi Schuurs,Elvina Kalieva,,,,,,,,,,,Sander Gille,Bruno Kuzuhara
+2021-usopen-5114,2021,usopen,5114,Sabrina Santamaria,Nadia Podoroska,,,,,,,,,,,Nathaniel Lammons,Maximo Gonzalez
+2021-usopen-5115,2021,usopen,5115,Storm Sanders,Belinda Bencic,,,,,,,,,,,Luke Saville,Filip Polasek
+2021-usopen-5116,2021,usopen,5116,Jamie Loeb,Desirae Krawczyk,,,,,,,,,,,Mitchell Krueger,Joe Salisbury
+2021-usopen-5201,2021,usopen,5201,Nicole Melichar Martinez,Giuliana Olmos,,,,,,,,,,,Ivan Dodig,Marcelo Arevalo
+2021-usopen-5202,2021,usopen,5202,Ellen Perez,Andreja Klepac,,,,,,,,,,,Marcelo Demoliner,Joran Vliegen
+2021-usopen-5203,2021,usopen,5203,Gabriela Dabrowski,Dayana Yastremska,,,,,,,,,,,Marcus Daniell,Max Purcell
+2021-usopen-5204,2021,usopen,5204,Sachia Vickery,Yaroslava Shvedova,,,,,,,,,,,Nathan Pasha,Fabrice Martin
+2021-usopen-5205,2021,usopen,5205,Ena Shibahara,Jessica Pegula,,,,,,,,,,,Ben McLachlan,Austin Krajicek
+2021-usopen-5206,2021,usopen,5206,Galina Voskoboeva,Alexa Guarachi,,,,,,,,,,,Nikola Cacic,Neal Skupski
+2021-usopen-5208,2021,usopen,5208,Belinda Bencic,Desirae Krawczyk,,,,,,,,,,,Filip Polasek,Joe Salisbury
+2021-usopen-5301,2021,usopen,5301,Giuliana Olmos,Ellen Perez,,,,,,,,,,,Marcelo Arevalo,Marcelo Demoliner
+2021-usopen-5302,2021,usopen,5302,Dayana Yastremska,Yaroslava Shvedova,,,,,,,,,,,Max Purcell,Fabrice Martin
+2021-usopen-5303,2021,usopen,5303,Jessica Pegula,Alexa Guarachi,,,,,,,,,,,Austin Krajicek,Neal Skupski
+2021-usopen-5304,2021,usopen,5304,Demi Schuurs,Desirae Krawczyk,,,,,,,,,,,Sander Gille,Joe Salisbury
+2021-usopen-5401,2021,usopen,5401,Giuliana Olmos,Dayana Yastremska,,,,,,,,,,,Marcelo Arevalo,Max Purcell
+2021-usopen-5402,2021,usopen,5402,Jessica Pegula,Desirae Krawczyk,,,,,,,,,,,Austin Krajicek,Joe Salisbury
+2021-usopen-5501,2021,usopen,5501,Giuliana Olmos,Desirae Krawczyk,,,,,,,,,,,Marcelo Arevalo,Joe Salisbury
