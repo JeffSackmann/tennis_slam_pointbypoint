@@ -20,3 +20,6 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+# Data files
+*.rds
