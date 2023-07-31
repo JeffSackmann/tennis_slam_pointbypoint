@@ -1,0 +1,126 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2
+2022-usopen-3101,2022,usopen,3101,Rajeev Ram,Federico Coria,,,,,,,,,,,Joe Salisbury,Cristian Rodriguez
+2022-usopen-3102,2022,usopen,3102,Sander Gille,Aslan Karatsev,,,,,,,,,,,Lukasz Kubot,Luke Saville
+2022-usopen-3103,2022,usopen,3103,Nicholas Monroe,Marton Fucsovics,,,,,,,,,,,Keegan Smith,Alex Molcan
+2022-usopen-3104,2022,usopen,3104,Nikola Cacic,Simone Bolelli,,,,,,,,,,,Ramkumar Ramanathan,Fabio Fognini
+2022-usopen-3105,2022,usopen,3105,Jamie Murray,Hunter Reese,,,,,,,,,,,Bruno Soares,Max Schnur
+2022-usopen-3106,2022,usopen,3106,Hugo Nys,Fabrice Martin,,,,,,,,,,,Jan Zielinski,Jonny O'Mara
+2022-usopen-3107,2022,usopen,3107,Albert Ramos Vinolas,Ariel Behar,,,,,,,,,,,Bernabe Zapata Miralles,Gonzalo Escobar
+2022-usopen-3108,2022,usopen,3108,Daniel Altmaier,Ivan Dodig,,,,,,,,,,,Thiago Monteiro,Austin Krajicek
+2022-usopen-3109,2022,usopen,3109,Tim Puetz,Andrey Golubev,,,,,,,,,,,Michael Venus,Pedro Martinez
+2022-usopen-3110,2022,usopen,3110,Nuno Borges,Nicolas Barrientos,,,,,,,,,,,Francisco Cabral,Miguel Angel Reyes Varela
+2022-usopen-3111,2022,usopen,3111,Diego Hidalgo,Rafael Matos,,,,,,,,,,,Fabien Reboul,David Vega Hernandez
+2022-usopen-3112,2022,usopen,3112,Sebastian Gorzny,Juan Sebastian Cabal,,,,,,,,,,,Alex Michelsen,Robert Farah
+2022-usopen-3113,2022,usopen,3113,Lloyd Glasspool,William Blumberg,,,,,,,,,,,Harri Heliovaara,Miomir Kecmanovic
+2022-usopen-3114,2022,usopen,3114,Tomislav Brkic,Raven Klaasen,,,,,,,,,,,Maximo Gonzalez,Marcelo Melo
+2022-usopen-3115,2022,usopen,3115,Ben McLachlan,Andre Goransson,,,,,,,,,,,Franko Skugor,Yoshihito Nishioka
+2022-usopen-3116,2022,usopen,3116,Hugo Gaston,Thanasi Kokkinakis,,,,,,,,,,,Lorenzo Musetti,Nick Kyrgios
+2022-usopen-3117,2022,usopen,3117,Nikola Mektic,Brandon Holt,,,,,,,,,,,Mate Pavic,Govind Nanda
+2022-usopen-3118,2022,usopen,3118,Nicholas Godsick,Nikoloz Basilashvili,,,,,,,,,,,Ethan Quinn,Hans Hach Verdugo
+2022-usopen-3119,2022,usopen,3119,Ilya Ivashka,Robin Haase,,,,,,,,,,,Soonwoo Kwon,Philipp Oswald
+2022-usopen-3120,2022,usopen,3120,Marcos Giron,Kevin Krawietz,,,,,,,,,,,Mackenzie McDonald,Andreas Mies
+2022-usopen-3121,2022,usopen,3121,Nicolas Mahut,Quentin Halys,,,,,,,,,,,Edouard Roger Vasselin,Adrian Mannarino
+2022-usopen-3122,2022,usopen,3122,Alexander Bublik,Denis Kudla,,,,,,,,,,,Holger Rune,Frances Tiafoe
+2022-usopen-3123,2022,usopen,3123,Sebastian Baez,Aleksandr Nedovyesov,,,,,,,,,,,Tomas Martin Etcheverry,Aisam Ul Haq Qureshi
+2022-usopen-3124,2022,usopen,3124,John Peers,Marcelo Arevalo,,,,,,,,,,,Alexei Popyrin,Jean Julien Rojer
+2022-usopen-3125,2022,usopen,3125,Marcel Granollers,Marcelo Demoliner,,,,,,,,,,,Horacio Zeballos,Joao Sousa
+2022-usopen-3126,2022,usopen,3126,Feliciano Lopez,Benjamin Bonzi,,,,,,,,,,,Jaume Munar,Arthur Rinderknech
+2022-usopen-3127,2022,usopen,3127,Christopher Eubanks,Petros Tsitsipas,,,,,,,,,,,Ben Shelton,Stefanos Tsitsipas
+2022-usopen-3128,2022,usopen,3128,Lorenzo Sonego,Rohan Bopanna,,,,,,,,,,,Andrea Vavassori,Matwe Middelkoop
+2022-usopen-3129,2022,usopen,3129,Santiago Gonzalez,Matthew Ebden,,,,,,,,,,,Andres Molteni,Max Purcell
+2022-usopen-3130,2022,usopen,3130,Robert Galloway,Aljaz Bedene,,,,,,,,,,,Alex Lawson,Emil Ruusuvuori
+2022-usopen-3131,2022,usopen,3131,Nathaniel Lammons,Jiri Lehecka,,,,,,,,,,,Jackson Withrow,Jiri Vesely
+2022-usopen-3132,2022,usopen,3132,Steve Johnson,Wesley Koolhof,,,,,,,,,,,Sam Querrey,Neal Skupski
+2022-usopen-3201,2022,usopen,3201,Rajeev Ram,Aslan Karatsev,,,,,,,,,,,Joe Salisbury,Luke Saville
+2022-usopen-3202,2022,usopen,3202,Nicholas Monroe,Simone Bolelli,,,,,,,,,,,Keegan Smith,Fabio Fognini
+2022-usopen-3203,2022,usopen,3203,Jamie Murray,Hugo Nys,,,,,,,,,,,Bruno Soares,Jan Zielinski
+2022-usopen-3204,2022,usopen,3204,Ariel Behar,Ivan Dodig,,,,,,,,,,,Gonzalo Escobar,Austin Krajicek
+2022-usopen-3205,2022,usopen,3205,Tim Puetz,Nuno Borges,,,,,,,,,,,Michael Venus,Francisco Cabral
+2022-usopen-3206,2022,usopen,3206,Diego Hidalgo,Juan Sebastian Cabal,,,,,,,,,,,Fabien Reboul,Robert Farah
+2022-usopen-3207,2022,usopen,3207,Lloyd Glasspool,Raven Klaasen,,,,,,,,,,,Harri Heliovaara,Marcelo Melo
+2022-usopen-3208,2022,usopen,3208,Andre Goransson,Thanasi Kokkinakis,,,,,,,,,,,Yoshihito Nishioka,Nick Kyrgios
+2022-usopen-3209,2022,usopen,3209,Nikola Mektic,Nicholas Godsick,,,,,,,,,,,Mate Pavic,Ethan Quinn
+2022-usopen-3210,2022,usopen,3210,Robin Haase,Kevin Krawietz,,,,,,,,,,,Philipp Oswald,Andreas Mies
+2022-usopen-3211,2022,usopen,3211,Quentin Halys,Alexander Bublik,,,,,,,,,,,Adrian Mannarino,Holger Rune
+2022-usopen-3212,2022,usopen,3212,Aleksandr Nedovyesov,Marcelo Arevalo,,,,,,,,,,,Aisam Ul Haq Qureshi,Jean Julien Rojer
+2022-usopen-3213,2022,usopen,3213,Marcelo Demoliner,Feliciano Lopez,,,,,,,,,,,Joao Sousa,Jaume Munar
+2022-usopen-3214,2022,usopen,3214,Christopher Eubanks,Lorenzo Sonego,,,,,,,,,,,Ben Shelton,Andrea Vavassori
+2022-usopen-3215,2022,usopen,3215,Matthew Ebden,Robert Galloway,,,,,,,,,,,Max Purcell,Alex Lawson
+2022-usopen-3216,2022,usopen,3216,Nathaniel Lammons,Wesley Koolhof,,,,,,,,,,,Jackson Withrow,Neal Skupski
+2022-usopen-3301,2022,usopen,3301,Rajeev Ram,Simone Bolelli,,,,,,,,,,,Joe Salisbury,Fabio Fognini
+2022-usopen-3302,2022,usopen,3302,Hugo Nys,Ariel Behar,,,,,,,,,,,Jan Zielinski,Gonzalo Escobar
+2022-usopen-3303,2022,usopen,3303,Tim Puetz,Juan Sebastian Cabal,,,,,,,,,,,Michael Venus,Robert Farah
+2022-usopen-3304,2022,usopen,3304,Lloyd Glasspool,Thanasi Kokkinakis,,,,,,,,,,,Harri Heliovaara,Nick Kyrgios
+2022-usopen-3305,2022,usopen,3305,Nikola Mektic,Robin Haase,,,,,,,,,,,Mate Pavic,Philipp Oswald
+2022-usopen-3306,2022,usopen,3306,Quentin Halys,Marcelo Arevalo,,,,,,,,,,,Adrian Mannarino,Jean Julien Rojer
+2022-usopen-3307,2022,usopen,3307,Marcelo Demoliner,Lorenzo Sonego,,,,,,,,,,,Joao Sousa,Andrea Vavassori
+2022-usopen-3308,2022,usopen,3308,Matthew Ebden,Wesley Koolhof,,,,,,,,,,,Max Purcell,Neal Skupski
+2022-usopen-3401,2022,usopen,3401,Rajeev Ram,Hugo Nys,,,,,,,,,,,Joe Salisbury,Jan Zielinski
+2022-usopen-3402,2022,usopen,3402,Juan Sebastian Cabal,Lloyd Glasspool,,,,,,,,,,,Robert Farah,Harri Heliovaara
+2022-usopen-3403,2022,usopen,3403,Nikola Mektic,Marcelo Arevalo,,,,,,,,,,,Mate Pavic,Jean Julien Rojer
+2022-usopen-3404,2022,usopen,3404,Marcelo Demoliner,Wesley Koolhof,,,,,,,,,,,Joao Sousa,Neal Skupski
+2022-usopen-3501,2022,usopen,3501,Rajeev Ram,Juan Sebastian Cabal,,,,,,,,,,,Joe Salisbury,Robert Farah
+2022-usopen-3502,2022,usopen,3502,Marcelo Arevalo,Wesley Koolhof,,,,,,,,,,,Jean Julien Rojer,Neal Skupski
+2022-usopen-3601,2022,usopen,3601,Rajeev Ram,Wesley Koolhof,,,,,,,,,,,Joe Salisbury,Neal Skupski
+2022-usopen-4101,2022,usopen,4101,Veronika Kudermetova,Anna Kalinskaya,,,,,,,,,,,Elise Mertens,Donna Vekic
+2022-usopen-4102,2022,usopen,4102,Kirsten Flipkens,Eri Hozumi,,,,,,,,,,,Sara Sorribes Tormo,Makoto Ninomiya
+2022-usopen-4103,2022,usopen,4103,Lucie Hradecka,Serena Williams,,,,,,,,,,,Linda Noskova,Venus Williams
+2022-usopen-4104,2022,usopen,4104,Alicia Barnett,Alexa Guarachi,,,,,,,,,,,Olivia Nicholls,Andreja Klepac
+2022-usopen-4105,2022,usopen,4105,Nicole Melichar Martinez,Madison Brengle,,,,,,,,,,,Ellen Perez,Claire Liu
+2022-usopen-4106,2022,usopen,4106,Rosalie Van Der Hoek,Reese Brantmeier,,,,,,,,,,,Alison Van Uytvanck,Clervie Ngounoue
+2022-usopen-4107,2022,usopen,4107,Irina Camelia Begu,Aliona Bolsova,,,,,,,,,,,Raluca Olaru,Ulrikke Eikeri
+2022-usopen-4108,2022,usopen,4108,Aleksandra Krunic,Anna Danilina,,,,,,,,,,,Magda Linette,Beatriz Haddad Maia
+2022-usopen-4109,2022,usopen,4109,Barbora Krejcikova,Monica Niculescu,,,,,,,,,,,Katerina Siniakova,Elena Gabriela Ruse
+2022-usopen-4110,2022,usopen,4110,Elizabeth Mandlik,Ana Bogdan,,,,,,,,,,,Katrina Scott,Sabrina Santamaria
+2022-usopen-4111,2022,usopen,4111,Kaitlyn Christian,Ann Li,,,,,,,,,,,Lidziya Marozava,Clara Tauson
+2022-usopen-4112,2022,usopen,4112,Robin Montgomery,Shuko Aoyama,,,,,,,,,,,CoCo Vandeweghe,Hao Ching Chan
+2022-usopen-4113,2022,usopen,4113,Asia Muhammad,Varvara Gracheva,,,,,,,,,,,Ena Shibahara,Katarzyna Piter
+2022-usopen-4114,2022,usopen,4114,Catherine Harrison,Harriet Dart,,,,,,,,,,,Ingrid Neel,Liudmila Samsonova
+2022-usopen-4115,2022,usopen,4115,Hailey Baptiste,Sofia Kenin,,,,,,,,,,,Whitney Osuigwe,Ajla Tomljanovic
+2022-usopen-4116,2022,usopen,4116,Ashlyn Krueger,Gabriela Dabrowski,,,,,,,,,,,Peyton Stearns,Giuliana Olmos
+2022-usopen-4117,2022,usopen,4117,YiFan Xu,Xinyun Han,,,,,,,,,,,Zhaoxuan Yang,Evgeniya Rodina
+2022-usopen-4118,2022,usopen,4118,Yulia Putintseva,Rebecca Peterson,,,,,,,,,,,Yanina Wickmayer,Anastasia Potapova
+2022-usopen-4119,2022,usopen,4119,Natela Dzalamidze,Sophie Chang,,,,,,,,,,,Kamilla Rakhimova,Angela Kulikov
+2022-usopen-4120,2022,usopen,4120,Lucia Bronzetti,Caroline Dolehide,,,,,,,,,,,Camila Osorio,Storm Sanders
+2022-usopen-4121,2022,usopen,4121,Caroline Garcia,Ekaterina Alexandrova,,,,,,,,,,,Kristina Mladenovic,Yana Sizikova
+2022-usopen-4122,2022,usopen,4122,Tereza Martincova,Nadia Podoroska,,,,,,,,,,,Alexandra Panova,Mayar Sherif
+2022-usopen-4123,2022,usopen,4123,Xinyu Wang,Anna Bondar,,,,,,,,,,,Lin Zhu,Greet Minnen
+2022-usopen-4124,2022,usopen,4124,Panna Udvardy,Lyudmyla Kichenok,,,,,,,,,,,Tamara Zidansek,Jelena Ostapenko
+2022-usopen-4125,2022,usopen,4125,Desirae Krawczyk,Alizé Cornet,,,,,,,,,,,Demi Schuurs,Jil Teichmann
+2022-usopen-4126,2022,usopen,4126,Latisha Chan,Miyu Kato,,,,,,,,,,,Samantha Stosur,Aldila Sutjiadi
+2022-usopen-4127,2022,usopen,4127,Tereza Mihalikova,Irina Maria Bara,,,,,,,,,,,Aliaksandra Sasnovich,Ekaterine Gorgodze
+2022-usopen-4128,2022,usopen,4128,Oksana Kalashnikova,Marta Kostyuk,,,,,,,,,,,Nadiia Kichenok,Shuai Zhang
+2022-usopen-4129,2022,usopen,4129,Alicja Rosolska,Vivian Heisen,,,,,,,,,,,Erin Routliffe,Katarzyna Kawa
+2022-usopen-4130,2022,usopen,4130,Nuria Parrizas Diaz,Caty McNally,,,,,,,,,,,Arantxa Rus,Taylor Townsend
+2022-usopen-4131,2022,usopen,4131,Dalma Galfi,Maryna Zanevska,,,,,,,,,,,Bernarda Pera,Kimberley Zimmermann
+2022-usopen-4132,2022,usopen,4132,Leylah Fernandez,Coco Gauff,,,,,,,,,,,Daria Saville,Jessica Pegula
+2022-usopen-4202,2022,usopen,4202,Lucie Hradecka,Alexa Guarachi,,,,,,,,,,,Linda Noskova,Andreja Klepac
+2022-usopen-4203,2022,usopen,4203,Nicole Melichar Martinez,Reese Brantmeier,,,,,,,,,,,Ellen Perez,Clervie Ngounoue
+2022-usopen-4204,2022,usopen,4204,Aliona Bolsova,Anna Danilina,,,,,,,,,,,Ulrikke Eikeri,Beatriz Haddad Maia
+2022-usopen-4205,2022,usopen,4205,Barbora Krejcikova,Ana Bogdan,,,,,,,,,,,Katerina Siniakova,Sabrina Santamaria
+2022-usopen-4206,2022,usopen,4206,Kaitlyn Christian,Shuko Aoyama,,,,,,,,,,,Lidziya Marozava,Hao Ching Chan
+2022-usopen-4207,2022,usopen,4207,Asia Muhammad,Catherine Harrison,,,,,,,,,,,Ena Shibahara,Ingrid Neel
+2022-usopen-4208,2022,usopen,4208,Hailey Baptiste,Gabriela Dabrowski,,,,,,,,,,,Whitney Osuigwe,Giuliana Olmos
+2022-usopen-4209,2022,usopen,4209,YiFan Xu,Rebecca Peterson,,,,,,,,,,,Zhaoxuan Yang,Anastasia Potapova
+2022-usopen-4210,2022,usopen,4210,Sophie Chang,Caroline Dolehide,,,,,,,,,,,Angela Kulikov,Storm Sanders
+2022-usopen-4211,2022,usopen,4211,Caroline Garcia,Nadia Podoroska,,,,,,,,,,,Kristina Mladenovic,Mayar Sherif
+2022-usopen-4212,2022,usopen,4212,Anna Bondar,Lyudmyla Kichenok,,,,,,,,,,,Greet Minnen,Jelena Ostapenko
+2022-usopen-4213,2022,usopen,4213,Desirae Krawczyk,Miyu Kato,,,,,,,,,,,Demi Schuurs,Aldila Sutjiadi
+2022-usopen-4214,2022,usopen,4214,Tereza Mihalikova,Marta Kostyuk,,,,,,,,,,,Aliaksandra Sasnovich,Shuai Zhang
+2022-usopen-4215,2022,usopen,4215,Alicja Rosolska,Caty McNally,,,,,,,,,,,Erin Routliffe,Taylor Townsend
+2022-usopen-4216,2022,usopen,4216,Dalma Galfi,Leylah Fernandez,,,,,,,,,,,Bernarda Pera,Daria Saville
+2022-usopen-4301,2022,usopen,4301,Kirsten Flipkens,Alexa Guarachi,,,,,,,,,,,Sara Sorribes Tormo,Andreja Klepac
+2022-usopen-4302,2022,usopen,4302,Nicole Melichar Martinez,Anna Danilina,,,,,,,,,,,Ellen Perez,Beatriz Haddad Maia
+2022-usopen-4303,2022,usopen,4303,Barbora Krejcikova,Shuko Aoyama,,,,,,,,,,,Katerina Siniakova,Hao Ching Chan
+2022-usopen-4304,2022,usopen,4304,Asia Muhammad,Gabriela Dabrowski,,,,,,,,,,,Ena Shibahara,Giuliana Olmos
+2022-usopen-4305,2022,usopen,4305,YiFan Xu,Caroline Dolehide,,,,,,,,,,,Zhaoxuan Yang,Storm Sanders
+2022-usopen-4306,2022,usopen,4306,Caroline Garcia,Lyudmyla Kichenok,,,,,,,,,,,Kristina Mladenovic,Jelena Ostapenko
+2022-usopen-4307,2022,usopen,4307,Desirae Krawczyk,Marta Kostyuk,,,,,,,,,,,Demi Schuurs,Shuai Zhang
+2022-usopen-4308,2022,usopen,4308,Caty McNally,Dalma Galfi,,,,,,,,,,,Taylor Townsend,Bernarda Pera
+2022-usopen-4401,2022,usopen,4401,Kirsten Flipkens,Nicole Melichar Martinez,,,,,,,,,,,Sara Sorribes Tormo,Ellen Perez
+2022-usopen-4402,2022,usopen,4402,Barbora Krejcikova,Gabriela Dabrowski,,,,,,,,,,,Katerina Siniakova,Giuliana Olmos
+2022-usopen-4403,2022,usopen,4403,Caroline Dolehide,Caroline Garcia,,,,,,,,,,,Storm Sanders,Kristina Mladenovic
+2022-usopen-4404,2022,usopen,4404,Desirae Krawczyk,Caty McNally,,,,,,,,,,,Demi Schuurs,Taylor Townsend
+2022-usopen-4501,2022,usopen,4501,Nicole Melichar Martinez,Barbora Krejcikova,,,,,,,,,,,Ellen Perez,Katerina Siniakova
+2022-usopen-4502,2022,usopen,4502,Caroline Dolehide,Caty McNally,,,,,,,,,,,Storm Sanders,Taylor Townsend
+2022-usopen-4601,2022,usopen,4601,Barbora Krejcikova,Caty McNally,,,,,,,,,,,Katerina Siniakova,Taylor Townsend

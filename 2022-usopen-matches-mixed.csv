@@ -1,0 +1,32 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2
+2022-usopen-5101,2022,usopen,5101,Desirae Krawczyk,Alycia Parks,,,,,,,,,,,Neal Skupski,Christopher Eubanks
+2022-usopen-5102,2022,usopen,5102,Caty McNally,Victoria Azarenka,,,,,,,,,,,William Blumberg,Thanasi Kokkinakis
+2022-usopen-5103,2022,usopen,5103,Jelena Ostapenko,Lyudmyla Kichenok,,,,,,,,,,,David Vega Hernandez,Rafael Matos
+2022-usopen-5104,2022,usopen,5104,Laura Siegemund,Ellen Perez,,,,,,,,,,,Jamie Murray,Michael Venus
+2022-usopen-5105,2022,usopen,5105,Storm Sanders,Catherine Harrison,,,,,,,,,,,John Peers,Robert Galloway
+2022-usopen-5106,2022,usopen,5106,Bernarda Pera,Alexa Guarachi,,,,,,,,,,,Jackson Withrow,Harri Heliovaara
+2022-usopen-5107,2022,usopen,5107,Leylah Fernandez,Kimberley Zimmermann,,,,,,,,,,,Jack Sock,Tim Puetz
+2022-usopen-5108,2022,usopen,5108,Gabriela Dabrowski,Zhaoxuan Yang,,,,,,,,,,,Max Purcell,Rohan Bopanna
+2022-usopen-5109,2022,usopen,5109,Jessica Pegula,Robin Montgomery,,,,,,,,,,,Austin Krajicek,Nicholas Monroe
+2022-usopen-5110,2022,usopen,5110,Samantha Stosur,Andreja Klepac,,,,,,,,,,,Matthew Ebden,Santiago Gonzalez
+2022-usopen-5111,2022,usopen,5111,Nicole Melichar Martinez,Erin Routliffe,,,,,,,,,,,Kevin Krawietz,Andreas Mies
+2022-usopen-5112,2022,usopen,5112,Kirsten Flipkens,Giuliana Olmos,,,,,,,,,,,Edouard Roger Vasselin,Marcelo Arevalo
+2022-usopen-5113,2022,usopen,5113,Demi Schuurs,Lucie Hradecka,,,,,,,,,,,Matwe Middelkoop,Lukasz Kubot
+2022-usopen-5114,2022,usopen,5114,Ena Shibahara,Kristina Mladenovic,,,,,,,,,,,Franko Skugor,Nikola Mektic
+2022-usopen-5115,2022,usopen,5115,Jaeda Daniel,Madison Keys,,,,,,,,,,,Richard Ciamarra,Bjorn Fratangelo
+2022-usopen-5116,2022,usopen,5116,Louisa Chirico,Shuai Zhang,,,,,,,,,,,Bradley Klahn,Mate Pavic
+2022-usopen-5201,2022,usopen,5201,Desirae Krawczyk,Caty McNally,,,,,,,,,,,Neal Skupski,William Blumberg
+2022-usopen-5202,2022,usopen,5202,Jelena Ostapenko,Ellen Perez,,,,,,,,,,,David Vega Hernandez,Michael Venus
+2022-usopen-5203,2022,usopen,5203,Storm Sanders,Bernarda Pera,,,,,,,,,,,John Peers,Jackson Withrow
+2022-usopen-5204,2022,usopen,5204,Leylah Fernandez,Gabriela Dabrowski,,,,,,,,,,,Jack Sock,Max Purcell
+2022-usopen-5205,2022,usopen,5205,Jessica Pegula,Samantha Stosur,,,,,,,,,,,Austin Krajicek,Matthew Ebden
+2022-usopen-5206,2022,usopen,5206,Nicole Melichar Martinez,Kirsten Flipkens,,,,,,,,,,,Kevin Krawietz,Edouard Roger Vasselin
+2022-usopen-5207,2022,usopen,5207,Lucie Hradecka,Ena Shibahara,,,,,,,,,,,Lukasz Kubot,Franko Skugor
+2022-usopen-5208,2022,usopen,5208,Madison Keys,Shuai Zhang,,,,,,,,,,,Bjorn Fratangelo,Mate Pavic
+2022-usopen-5301,2022,usopen,5301,Caty McNally,Jelena Ostapenko,,,,,,,,,,,William Blumberg,David Vega Hernandez
+2022-usopen-5302,2022,usopen,5302,Storm Sanders,Leylah Fernandez,,,,,,,,,,,John Peers,Jack Sock
+2022-usopen-5303,2022,usopen,5303,Samantha Stosur,Kirsten Flipkens,,,,,,,,,,,Matthew Ebden,Edouard Roger Vasselin
+2022-usopen-5304,2022,usopen,5304,Ena Shibahara,Shuai Zhang,,,,,,,,,,,Franko Skugor,Mate Pavic
+2022-usopen-5401,2022,usopen,5401,Caty McNally,Storm Sanders,,,,,,,,,,,William Blumberg,John Peers
+2022-usopen-5402,2022,usopen,5402,Kirsten Flipkens,Shuai Zhang,,,,,,,,,,,Edouard Roger Vasselin,Mate Pavic
+2022-usopen-5501,2022,usopen,5501,Storm Sanders,Kirsten Flipkens,,,,,,,,,,,John Peers,Edouard Roger Vasselin
