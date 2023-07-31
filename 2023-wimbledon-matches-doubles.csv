@@ -1,0 +1,124 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2
+2023-wimbledon-3101,2023,wimbledon,3101,Wesley Koolhof,Daniel Altmaier,,,,,,,,,,,Neal Skupski,Aslan Karatsev
+2023-wimbledon-3102,2023,wimbledon,3102,Rinky Hijikata,Marco Cecchinato,,,,,,,,,,,Jason Kubler,Thiago Monteiro
+2023-wimbledon-3103,2023,wimbledon,3103,John Isner,Max Purcell,,,,,,,,,,,Jack Sock,Jordan Thompson
+2023-wimbledon-3104,2023,wimbledon,3104,Julian Cash,Maximo Gonzalez,,,,,,,,,,,Luke Johnson,Andres Molteni
+2023-wimbledon-3105,2023,wimbledon,3105,Nikola Mektic,Marcelo Demoliner,,,,,,,,,,,Mate Pavic,Matwe Middelkoop
+2023-wimbledon-3106,2023,wimbledon,3106,Liam Broady,Francisco Cabral,,,,,,,,,,,Jonny O'Mara,Rafael Matos
+2023-wimbledon-3107,2023,wimbledon,3107,Ariel Behar,Guido Andreozzi,,,,,,,,,,,Adam Pavlasek,Francisco Cerundolo
+2023-wimbledon-3108,2023,wimbledon,3108,Jeremy Chardy,Fabrice Martin,,,,,,,,,,,Ugo Humbert,Andreas Mies
+2023-wimbledon-3109,2023,wimbledon,3109,Rajeev Ram,Tallon Griekspoor,,,,,,,,,,,Joe Salisbury,Bart Stevens
+2023-wimbledon-3110,2023,wimbledon,3110,Gonzalo Escobar,Simone Bolelli,,,,,,,,,,,Aleksandr Nedovyesov,Andrea Vavassori
+2023-wimbledon-3111,2023,wimbledon,3111,Christopher Eubanks,Sadio Doumbia,,,,,,,,,,,J.J. Wolf,Fabien Reboul
+2023-wimbledon-3112,2023,wimbledon,3112,Robin Haase,Marcelo Melo,,,,,,,,,,,Philipp Oswald,John Peers
+2023-wimbledon-3113,2023,wimbledon,3113,Lloyd Glasspool,Maxime Cressy,,,,,,,,,,,Nicolas Mahut,Andrey Golubev
+2023-wimbledon-3114,2023,wimbledon,3114,David Pel,Constant Lestienne,,,,,,,,,,,Reese Stalder,Corentin Moutet
+2023-wimbledon-3115,2023,wimbledon,3115,Jacob Fearnley,Andre Goransson,,,,,,,,,,,Johannus Monday,Ben McLachlan
+2023-wimbledon-3116,2023,wimbledon,3116,Guillermo Duran,Rohan Bopanna,,,,,,,,,,,Tomas Martin Etcheverry,Matthew Ebden
+2023-wimbledon-3117,2023,wimbledon,3117,Santiago Gonzalez,Gregoire Barrere,,,,,,,,,,,Edouard Roger Vasselin,Quentin Halys
+2023-wimbledon-3118,2023,wimbledon,3118,Pedro Cachin,Toby Samuel,,,,,,,,,,,Yannick Hanfmann,Connor Thomson
+2023-wimbledon-3119,2023,wimbledon,3119,Roberto Carballes Baena,William Blumberg,,,,,,,,,,,Daniel Elahi Galan,Casper Ruud
+2023-wimbledon-3120,2023,wimbledon,3120,Nikola Cacic,Kevin Krawietz,,,,,,,,,,,Miguel Angel Reyes Varela,Tim Puetz
+2023-wimbledon-3121,2023,wimbledon,3121,Jamie Murray,Albano Olivetti,,,,,,,,,,,Michael Venus,David Vega Hernandez
+2023-wimbledon-3122,2023,wimbledon,3122,Alexander Erler,Pierre Hugues Herbert,,,,,,,,,,,Lucas Miedler,Arthur Rinderknech
+2023-wimbledon-3123,2023,wimbledon,3123,Yuki Bhambri,Alejandro Davidovich Fokina,,,,,,,,,,,Saketh Myneni,Adrian Mannarino
+2023-wimbledon-3124,2023,wimbledon,3124,Mackenzie McDonald,Hugo Nys,,,,,,,,,,,Ben Shelton,Jan Zielinski
+2023-wimbledon-3125,2023,wimbledon,3125,Marcelo Arevalo,Marc Andrea Huesler,,,,,,,,,,,Jean Julien Rojer,Brandon Nakashima
+2023-wimbledon-3126,2023,wimbledon,3126,Sebastian Baez,Nathaniel Lammons,,,,,,,,,,,Guido Pella,Jackson Withrow
+2023-wimbledon-3127,2023,wimbledon,3127,Romain Arneodo,Hugo Dellien,,,,,,,,,,,Sam Weissborn,Juan Pablo Varillas
+2023-wimbledon-3128,2023,wimbledon,3128,Laslo Djere,Sander Gille,,,,,,,,,,,Christopher O'Connell,Joran Vliegen
+2023-wimbledon-3129,2023,wimbledon,3129,Marcel Granollers,Juan Sebastian Cabal,,,,,,,,,,,Horacio Zeballos,Robert Farah
+2023-wimbledon-3130,2023,wimbledon,3130,Petros Tsitsipas,Arthur Fils,,,,,,,,,,,Stefanos Tsitsipas,Luca Van Assche
+2023-wimbledon-3131,2023,wimbledon,3131,Robert Galloway,Marcos Giron,,,,,,,,,,,Lloyd Harris,Botic Van De Zandschulp
+2023-wimbledon-3132,2023,wimbledon,3132,N.Sriram Balaji,Ivan Dodig,,,,,,,,,,,Jeevan Nedunchezhiyan,Austin Krajicek
+2023-wimbledon-3201,2023,wimbledon,3201,Wesley Koolhof,Rinky Hijikata,,,,,,,,,,,Neal Skupski,Jason Kubler
+2023-wimbledon-3202,2023,wimbledon,3202,Max Purcell,Maximo Gonzalez,,,,,,,,,,,Jordan Thompson,Andres Molteni
+2023-wimbledon-3203,2023,wimbledon,3203,Nikola Mektic,Francisco Cabral,,,,,,,,,,,Mate Pavic,Rafael Matos
+2023-wimbledon-3204,2023,wimbledon,3204,Ariel Behar,Fabrice Martin,,,,,,,,,,,Adam Pavlasek,Andreas Mies
+2023-wimbledon-3205,2023,wimbledon,3205,Tallon Griekspoor,Simone Bolelli,,,,,,,,,,,Bart Stevens,Andrea Vavassori
+2023-wimbledon-3206,2023,wimbledon,3206,Sadio Doumbia,Marcelo Melo,,,,,,,,,,,Fabien Reboul,John Peers
+2023-wimbledon-3207,2023,wimbledon,3207,Lloyd Glasspool,David Pel,,,,,,,,,,,Nicolas Mahut,Reese Stalder
+2023-wimbledon-3208,2023,wimbledon,3208,Jacob Fearnley,Rohan Bopanna,,,,,,,,,,,Johannus Monday,Matthew Ebden
+2023-wimbledon-3209,2023,wimbledon,3209,Santiago Gonzalez,Toby Samuel,,,,,,,,,,,Edouard Roger Vasselin,Connor Thomson
+2023-wimbledon-3211,2023,wimbledon,3211,Jamie Murray,Alexander Erler,,,,,,,,,,,Michael Venus,Lucas Miedler
+2023-wimbledon-3212,2023,wimbledon,3212,Alejandro Davidovich Fokina,Hugo Nys,,,,,,,,,,,Adrian Mannarino,Jan Zielinski
+2023-wimbledon-3213,2023,wimbledon,3213,Marcelo Arevalo,Nathaniel Lammons,,,,,,,,,,,Jean Julien Rojer,Jackson Withrow
+2023-wimbledon-3214,2023,wimbledon,3214,Romain Arneodo,Sander Gille,,,,,,,,,,,Sam Weissborn,Joran Vliegen
+2023-wimbledon-3215,2023,wimbledon,3215,Marcel Granollers,Arthur Fils,,,,,,,,,,,Horacio Zeballos,Luca Van Assche
+2023-wimbledon-3216,2023,wimbledon,3216,Robert Galloway,Ivan Dodig,,,,,,,,,,,Lloyd Harris,Austin Krajicek
+2023-wimbledon-3301,2023,wimbledon,3301,Wesley Koolhof,Max Purcell,,,,,,,,,,,Neal Skupski,Jordan Thompson
+2023-wimbledon-3302,2023,wimbledon,3302,Nikola Mektic,Ariel Behar,,,,,,,,,,,Mate Pavic,Adam Pavlasek
+2023-wimbledon-3303,2023,wimbledon,3303,Tallon Griekspoor,Marcelo Melo,,,,,,,,,,,Bart Stevens,John Peers
+2023-wimbledon-3304,2023,wimbledon,3304,David Pel,Rohan Bopanna,,,,,,,,,,,Reese Stalder,Matthew Ebden
+2023-wimbledon-3305,2023,wimbledon,3305,Santiago Gonzalez,Kevin Krawietz,,,,,,,,,,,Edouard Roger Vasselin,Tim Puetz
+2023-wimbledon-3306,2023,wimbledon,3306,Jamie Murray,Hugo Nys,,,,,,,,,,,Michael Venus,Jan Zielinski
+2023-wimbledon-3307,2023,wimbledon,3307,Nathaniel Lammons,Sander Gille,,,,,,,,,,,Jackson Withrow,Joran Vliegen
+2023-wimbledon-3308,2023,wimbledon,3308,Marcel Granollers,Robert Galloway,,,,,,,,,,,Horacio Zeballos,Lloyd Harris
+2023-wimbledon-3401,2023,wimbledon,3401,Wesley Koolhof,Ariel Behar,,,,,,,,,,,Neal Skupski,Adam Pavlasek
+2023-wimbledon-3402,2023,wimbledon,3402,Tallon Griekspoor,Rohan Bopanna,,,,,,,,,,,Bart Stevens,Matthew Ebden
+2023-wimbledon-3403,2023,wimbledon,3403,Kevin Krawietz,Jamie Murray,,,,,,,,,,,Tim Puetz,Michael Venus
+2023-wimbledon-3404,2023,wimbledon,3404,Nathaniel Lammons,Marcel Granollers,,,,,,,,,,,Jackson Withrow,Horacio Zeballos
+2023-wimbledon-3501,2023,wimbledon,3501,Wesley Koolhof,Rohan Bopanna,,,,,,,,,,,Neal Skupski,Matthew Ebden
+2023-wimbledon-3502,2023,wimbledon,3502,Kevin Krawietz,Marcel Granollers,,,,,,,,,,,Tim Puetz,Horacio Zeballos
+2023-wimbledon-3601,2023,wimbledon,3601,Wesley Koolhof,Marcel Granollers,,,,,,,,,,,Neal Skupski,Horacio Zeballos
+2023-wimbledon-4101,2023,wimbledon,4101,Ysaline Bonaventure,Fang Hsien Wu,,,,,,,,,,,Maryna Zanevska,Lin Zhu
+2023-wimbledon-4102,2023,wimbledon,4102,Kateryna Baindl,Anna Lena Friedsam,,,,,,,,,,,Daria Saville,Mayar Sherif
+2023-wimbledon-4103,2023,wimbledon,4103,Jasmine Paolini,Eri Hozumi,,,,,,,,,,,Martina Trevisan,Rebeka Masarova
+2023-wimbledon-4104,2023,wimbledon,4104,Emma Navarro,Caroline Dolehide,,,,,,,,,,,Ingrid Neel,Shuai Zhang
+2023-wimbledon-4105,2023,wimbledon,4105,Lidziya Marozava,Alicia Barnett,,,,,,,,,,,Ingrid Martins,Olivia Nicholls
+2023-wimbledon-4106,2023,wimbledon,4106,Danielle Collins,Ana Bogdan,,,,,,,,,,,Alison Riske Amritraj,Jaqueline Cristian
+2023-wimbledon-4107,2023,wimbledon,4107,Ulrikke Eikeri,Linda Fruhvirtova,,,,,,,,,,,Alexandra Panova,Yulia Putintseva
+2023-wimbledon-4108,2023,wimbledon,4108,Oksana Kalashnikova,Shuko Aoyama,,,,,,,,,,,Iryna Shymanovich,Ena Shibahara
+2023-wimbledon-4109,2023,wimbledon,4109,Storm Hunter,Nadiia Kichenok,,,,,,,,,,,Elise Mertens,Alicja Rosolska
+2023-wimbledon-4110,2023,wimbledon,4110,Alexa Guarachi,Irina Camelia Begu,,,,,,,,,,,Erin Routliffe,Anhelina Kalinina
+2023-wimbledon-4111,2023,wimbledon,4111,Sara Errani,Miriam Kolodziejova,,,,,,,,,,,Julia Grabher,Marketa Vondrousova
+2023-wimbledon-4112,2023,wimbledon,4112,Rebecca Peterson,Marta Kostyuk,,,,,,,,,,,Anna Karolina Schmiedlova,Elena Gabriela Ruse
+2023-wimbledon-4113,2023,wimbledon,4113,Anna Danilina,Naiktha Bains,,,,,,,,,,,Yifan Xu,Maia Lumsden
+2023-wimbledon-4114,2023,wimbledon,4114,Magda Linette,Tatjana Maria,,,,,,,,,,,Bernarda Pera,Katarzyna Piter
+2023-wimbledon-4115,2023,wimbledon,4115,Monica Niculescu,Viktoria Hruncakova,,,,,,,,,,,Nadia Podoroska,Tereza Mihalikova
+2023-wimbledon-4116,2023,wimbledon,4116,Harriet Dart,Lyudmyla Kichenok,,,,,,,,,,,Heather Watson,Jelena Ostapenko
+2023-wimbledon-4117,2023,wimbledon,4117,Leylah Fernandez,Alycia Parks,,,,,,,,,,,Taylor Townsend,Peyton Stearns
+2023-wimbledon-4118,2023,wimbledon,4118,Ashlyn Krueger,Caroline Garcia,,,,,,,,,,,Caty McNally,Luisa Stefani
+2023-wimbledon-4119,2023,wimbledon,4119,Gabriela Dabrowski,Lauren Davis,,,,,,,,,,,Aleksandra Krunic,Rosalie Van Der Hoek
+2023-wimbledon-4120,2023,wimbledon,4120,Timea Babos,Asia Muhammad,,,,,,,,,,,Kirsten Flipkens,Giuliana Olmos
+2023-wimbledon-4121,2023,wimbledon,4121,Miyu Kato,Lucia Bronzetti,,,,,,,,,,,Aldila Sutjiadi,Viktoriya Tomova
+2023-wimbledon-4122,2023,wimbledon,4122,Emily Appleton,Yana Sizikova,,,,,,,,,,,Jodie Burrage,Kimberley Zimmermann
+2023-wimbledon-4123,2023,wimbledon,4123,Su Wei Hsieh,Anna Blinkova,,,,,,,,,,,Barbora Strycova,Varvara Gracheva
+2023-wimbledon-4124,2023,wimbledon,4124,Ekaterina Alexandrova,Nicole Melichar Martinez,,,,,,,,,,,Zhaoxuan Yang,Ellen Perez
+2023-wimbledon-4125,2023,wimbledon,4125,Desirae Krawczyk,Natela Dzalamidze,,,,,,,,,,,Demi Schuurs,Sabrina Santamaria
+2023-wimbledon-4126,2023,wimbledon,4126,Anna Bondar,Makenna Jones,,,,,,,,,,,Greet Minnen,Sloane Stephens
+2023-wimbledon-4127,2023,wimbledon,4127,Linda Noskova,Marie Bouzkova,,,,,,,,,,,Xiyu Wang,Sara Sorribes Tormo
+2023-wimbledon-4128,2023,wimbledon,4128,Sophie Chang,Hao Ching Chan,,,,,,,,,,,Angela Kulikov,Latisha Chan
+2023-wimbledon-4129,2023,wimbledon,4129,Victoria Azarenka,Cristina Bucsa,,,,,,,,,,,Beatriz Haddad Maia,Makoto Ninomiya
+2023-wimbledon-4130,2023,wimbledon,4130,Laura Siegemund,Tereza Martincova,,,,,,,,,,,Vera Zvonareva,Donna Vekic
+2023-wimbledon-4131,2023,wimbledon,4131,Anastasia Detiuc,Freya Christie,,,,,,,,,,,Andrea Gamiz,Ali Collins
+2023-wimbledon-4132,2023,wimbledon,4132,Kamilla Rakhimova,Coco Gauff,,,,,,,,,,,Aliaksandra Sasnovich,Jessica Pegula
+2023-wimbledon-4201,2023,wimbledon,4201,Fang Hsien Wu,Kateryna Baindl,,,,,,,,,,,Lin Zhu,Daria Saville
+2023-wimbledon-4202,2023,wimbledon,4202,Eri Hozumi,Caroline Dolehide,,,,,,,,,,,Rebeka Masarova,Shuai Zhang
+2023-wimbledon-4203,2023,wimbledon,4203,Lidziya Marozava,Ana Bogdan,,,,,,,,,,,Ingrid Martins,Jaqueline Cristian
+2023-wimbledon-4204,2023,wimbledon,4204,Ulrikke Eikeri,Oksana Kalashnikova,,,,,,,,,,,Alexandra Panova,Iryna Shymanovich
+2023-wimbledon-4205,2023,wimbledon,4205,Storm Hunter,Irina Camelia Begu,,,,,,,,,,,Elise Mertens,Anhelina Kalinina
+2023-wimbledon-4206,2023,wimbledon,4206,Miriam Kolodziejova,Marta Kostyuk,,,,,,,,,,,Marketa Vondrousova,Elena Gabriela Ruse
+2023-wimbledon-4207,2023,wimbledon,4207,Naiktha Bains,Magda Linette,,,,,,,,,,,Maia Lumsden,Bernarda Pera
+2023-wimbledon-4208,2023,wimbledon,4208,Viktoria Hruncakova,Harriet Dart,,,,,,,,,,,Tereza Mihalikova,Heather Watson
+2023-wimbledon-4209,2023,wimbledon,4209,Leylah Fernandez,Caroline Garcia,,,,,,,,,,,Taylor Townsend,Luisa Stefani
+2023-wimbledon-4210,2023,wimbledon,4210,Lauren Davis,Timea Babos,,,,,,,,,,,Rosalie Van Der Hoek,Kirsten Flipkens
+2023-wimbledon-4211,2023,wimbledon,4211,Miyu Kato,Yana Sizikova,,,,,,,,,,,Aldila Sutjiadi,Kimberley Zimmermann
+2023-wimbledon-4212,2023,wimbledon,4212,Su Wei Hsieh,Ekaterina Alexandrova,,,,,,,,,,,Barbora Strycova,Zhaoxuan Yang
+2023-wimbledon-4213,2023,wimbledon,4213,Desirae Krawczyk,Anna Bondar,,,,,,,,,,,Demi Schuurs,Greet Minnen
+2023-wimbledon-4214,2023,wimbledon,4214,Marie Bouzkova,Hao Ching Chan,,,,,,,,,,,Sara Sorribes Tormo,Latisha Chan
+2023-wimbledon-4216,2023,wimbledon,4216,Anastasia Detiuc,Coco Gauff,,,,,,,,,,,Andrea Gamiz,Jessica Pegula
+2023-wimbledon-4301,2023,wimbledon,4301,Fang Hsien Wu,Caroline Dolehide,,,,,,,,,,,Lin Zhu,Shuai Zhang
+2023-wimbledon-4302,2023,wimbledon,4302,Lidziya Marozava,Oksana Kalashnikova,,,,,,,,,,,Ingrid Martins,Iryna Shymanovich
+2023-wimbledon-4304,2023,wimbledon,4304,Naiktha Bains,Viktoria Hruncakova,,,,,,,,,,,Maia Lumsden,Tereza Mihalikova
+2023-wimbledon-4305,2023,wimbledon,4305,Caroline Garcia,Timea Babos,,,,,,,,,,,Luisa Stefani,Kirsten Flipkens
+2023-wimbledon-4306,2023,wimbledon,4306,Miyu Kato,Su Wei Hsieh,,,,,,,,,,,Aldila Sutjiadi,Barbora Strycova
+2023-wimbledon-4307,2023,wimbledon,4307,Anna Bondar,Marie Bouzkova,,,,,,,,,,,Greet Minnen,Sara Sorribes Tormo
+2023-wimbledon-4308,2023,wimbledon,4308,Laura Siegemund,Coco Gauff,,,,,,,,,,,Vera Zvonareva,Jessica Pegula
+2023-wimbledon-4401,2023,wimbledon,4401,Caroline Dolehide,Oksana Kalashnikova,,,,,,,,,,,Shuai Zhang,Iryna Shymanovich
+2023-wimbledon-4402,2023,wimbledon,4402,Storm Hunter,Naiktha Bains,,,,,,,,,,,Elise Mertens,Maia Lumsden
+2023-wimbledon-4403,2023,wimbledon,4403,Caroline Garcia,Su Wei Hsieh,,,,,,,,,,,Luisa Stefani,Barbora Strycova
+2023-wimbledon-4404,2023,wimbledon,4404,Marie Bouzkova,Laura Siegemund,,,,,,,,,,,Sara Sorribes Tormo,Vera Zvonareva
+2023-wimbledon-4501,2023,wimbledon,4501,Caroline Dolehide,Storm Hunter,,,,,,,,,,,Shuai Zhang,Elise Mertens
+2023-wimbledon-4502,2023,wimbledon,4502,Su Wei Hsieh,Marie Bouzkova,,,,,,,,,,,Barbora Strycova,Sara Sorribes Tormo
+2023-wimbledon-4601,2023,wimbledon,4601,Storm Hunter,Su Wei Hsieh,,,,,,,,,,,Elise Mertens,Barbora Strycova
