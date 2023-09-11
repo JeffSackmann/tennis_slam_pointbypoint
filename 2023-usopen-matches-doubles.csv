@@ -1,0 +1,125 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2
+2023-usopen-3101,2023,usopen,3101,Wesley Koolhof,Christopher Eubanks,,,,,,,,,,,Neal Skupski,Ben Shelton
+2023-usopen-3102,2023,usopen,3102,Juan Sebastian Cabal,Nicholas Godsick,,,,,,,,,,,Robert Farah,Ethan Quinn
+2023-usopen-3103,2023,usopen,3103,Ariel Behar,Philipp Oswald,,,,,,,,,,,Adam Pavlasek,Botic van De Zandschulp
+2023-usopen-3104,2023,usopen,3104,Guillermo Duran,Nathaniel Lammons,,,,,,,,,,,Tomas Martin Etcheverry,Jackson Withrow
+2023-usopen-3105,2023,usopen,3105,Kevin Krawietz,Gregoire Barrere,,,,,,,,,,,Tim Puetz,Quentin Halys
+2023-usopen-3106,2023,usopen,3106,William Blumberg,Julian Cash,,,,,,,,,,,Steve Johnson,Henry Patten
+2023-usopen-3107,2023,usopen,3107,Andrey Golubev,Aleksandar Kovacevic,,,,,,,,,,,Roman Safiullin,Nicolas Moreno De Alboran
+2023-usopen-3108,2023,usopen,3108,Christopher O'Connell,Rohan Bopanna,,,,,,,,,,,Aleksandar Vukic,Matthew Ebden
+2023-usopen-3109,2023,usopen,3109,Marcelo Arevalo,Denys Molchanov,,,,,,,,,,,Jean Julien Rojer,David Pel
+2023-usopen-3110,2023,usopen,3110,Sebastian Baez,Matteo Arnaldi,,,,,,,,,,,Luis David Martinez,Bart Stevens
+2023-usopen-3111,2023,usopen,3111,Robert Galloway,John Isner,,,,,,,,,,,Albano Olivetti,Jack Sock
+2023-usopen-3112,2023,usopen,3112,Marcelo Melo,Lloyd Glasspool,,,,,,,,,,,John Peers,Harri Heliovaara
+2023-usopen-3113,2023,usopen,3113,Jamie Murray,Gonzalo Escobar,,,,,,,,,,,Michael Venus,Aleksandr Nedovyesov
+2023-usopen-3114,2023,usopen,3114,Pierre Hugues Herbert,Marton Fucsovics,,,,,,,,,,,Nicolas Mahut,Alexei Popyrin
+2023-usopen-3115,2023,usopen,3115,Max Purcell,Lloyd Harris,,,,,,,,,,,Jordan Thompson,Miomir Kecmanovic
+2023-usopen-3116,2023,usopen,3116,Daniel Elahi Galan,Marcel Granollers,,,,,,,,,,,Zhizhen Zhang,Horacio Zeballos
+2023-usopen-3117,2023,usopen,3117,Maximo Gonzalez,Pedro Cachin,,,,,,,,,,,Andres Molteni,Juan Pablo Varillas
+2023-usopen-3118,2023,usopen,3118,Adrian Mannarino,Eliot Spizzirri,,,,,,,,,,,Arthur Rinderknech,Tyler Zink
+2023-usopen-3119,2023,usopen,3119,Tallon Griekspoor,Alexander Frusina,,,,,,,,,,,Thanasi Kokkinakis,Adhithya Ganesan
+2023-usopen-3120,2023,usopen,3120,Francisco Cabral,Sander Gille,,,,,,,,,,,Rafael Matos,Joran Vliegen
+2023-usopen-3121,2023,usopen,3121,Robin Haase,Nikola Cacic,,,,,,,,,,,Nikola Mektic,Victor Vlad Cornea
+2023-usopen-3122,2023,usopen,3122,Mackenzie McDonald,Arthur Fils,,,,,,,,,,,Andreas Mies,Luca Van Assche
+2023-usopen-3123,2023,usopen,3123,Ben McLachlan,Alexander Erler,,,,,,,,,,,Yoshihito Nishioka,Lucas Miedler
+2023-usopen-3124,2023,usopen,3124,Simone Bolelli,Rajeev Ram,,,,,,,,,,,Andrea Vavassori,Joe Salisbury
+2023-usopen-3125,2023,usopen,3125,Santiago Gonzalez,Maxime Cressy,,,,,,,,,,,Edouard Roger Vasselin,Fabrice Martin
+2023-usopen-3126,2023,usopen,3126,Nicolas Barrientos,Romain Arneodo,,,,,,,,,,,Andre Goransson,Sam Weissborn
+2023-usopen-3127,2023,usopen,3127,Aslan Karatsev,Laslo Djere,,,,,,,,,,,Saketh Myneni,Marc Andrea Huesler
+2023-usopen-3128,2023,usopen,3128,Yuki Bhambri,Hugo Nys,,,,,,,,,,,Marcelo Demoliner,Jan Zielinski
+2023-usopen-3129,2023,usopen,3129,Matwe Middelkoop,Sadio Doumbia,,,,,,,,,,,Mate Pavic,Fabien Reboul
+2023-usopen-3130,2023,usopen,3130,Alexandre Muller,Vasil Kirkov,,,,,,,,,,,Sebastian Ofner,Denis Kudla
+2023-usopen-3131,2023,usopen,3131,Petros Tsitsipas,Miguel Angel Reyes Varela,,,,,,,,,,,Stefanos Tsitsipas,David Vega Hernandez
+2023-usopen-3132,2023,usopen,3132,Roberto Carballes Baena,Ivan Dodig,,,,,,,,,,,Bernabe Zapata Miralles,Austin Krajicek
+2023-usopen-3201,2023,usopen,3201,Wesley Koolhof,Juan Sebastian Cabal,,,,,,,,,,,Neal Skupski,Robert Farah
+2023-usopen-3202,2023,usopen,3202,Ariel Behar,Nathaniel Lammons,,,,,,,,,,,Adam Pavlasek,Jackson Withrow
+2023-usopen-3203,2023,usopen,3203,Gregoire Barrere,Julian Cash,,,,,,,,,,,Quentin Halys,Henry Patten
+2023-usopen-3204,2023,usopen,3204,Andrey Golubev,Rohan Bopanna,,,,,,,,,,,Roman Safiullin,Matthew Ebden
+2023-usopen-3205,2023,usopen,3205,Marcelo Arevalo,Matteo Arnaldi,,,,,,,,,,,Jean Julien Rojer,Bart Stevens
+2023-usopen-3206,2023,usopen,3206,Robert Galloway,Lloyd Glasspool,,,,,,,,,,,Albano Olivetti,Harri Heliovaara
+2023-usopen-3207,2023,usopen,3207,Jamie Murray,Pierre Hugues Herbert,,,,,,,,,,,Michael Venus,Nicolas Mahut
+2023-usopen-3208,2023,usopen,3208,Lloyd Harris,Marcel Granollers,,,,,,,,,,,Miomir Kecmanovic,Horacio Zeballos
+2023-usopen-3209,2023,usopen,3209,Maximo Gonzalez,Adrian Mannarino,,,,,,,,,,,Andres Molteni,Arthur Rinderknech
+2023-usopen-3210,2023,usopen,3210,Tallon Griekspoor,Francisco Cabral,,,,,,,,,,,Thanasi Kokkinakis,Rafael Matos
+2023-usopen-3211,2023,usopen,3211,Robin Haase,Mackenzie McDonald,,,,,,,,,,,Nikola Mektic,Andreas Mies
+2023-usopen-3212,2023,usopen,3212,Ben McLachlan,Rajeev Ram,,,,,,,,,,,Yoshihito Nishioka,Joe Salisbury
+2023-usopen-3213,2023,usopen,3213,Santiago Gonzalez,Nicolas Barrientos,,,,,,,,,,,Edouard Roger Vasselin,Andre Goransson
+2023-usopen-3214,2023,usopen,3214,Laslo Djere,Hugo Nys,,,,,,,,,,,Marc Andrea Huesler,Jan Zielinski
+2023-usopen-3215,2023,usopen,3215,Matwe Middelkoop,Vasil Kirkov,,,,,,,,,,,Mate Pavic,Denis Kudla
+2023-usopen-3216,2023,usopen,3216,Petros Tsitsipas,Ivan Dodig,,,,,,,,,,,Stefanos Tsitsipas,Austin Krajicek
+2023-usopen-3301,2023,usopen,3301,Wesley Koolhof,Nathaniel Lammons,,,,,,,,,,,Neal Skupski,Jackson Withrow
+2023-usopen-3302,2023,usopen,3302,Julian Cash,Rohan Bopanna,,,,,,,,,,,Henry Patten,Matthew Ebden
+2023-usopen-3303,2023,usopen,3303,Marcelo Arevalo,Robert Galloway,,,,,,,,,,,Jean Julien Rojer,Albano Olivetti
+2023-usopen-3304,2023,usopen,3304,Pierre Hugues Herbert,Marcel Granollers,,,,,,,,,,,Nicolas Mahut,Horacio Zeballos
+2023-usopen-3305,2023,usopen,3305,Maximo Gonzalez,Tallon Griekspoor,,,,,,,,,,,Andres Molteni,Thanasi Kokkinakis
+2023-usopen-3306,2023,usopen,3306,Mackenzie McDonald,Rajeev Ram,,,,,,,,,,,Andreas Mies,Joe Salisbury
+2023-usopen-3307,2023,usopen,3307,Santiago Gonzalez,Hugo Nys,,,,,,,,,,,Edouard Roger Vasselin,Jan Zielinski
+2023-usopen-3308,2023,usopen,3308,Vasil Kirkov,Ivan Dodig,,,,,,,,,,,Denis Kudla,Austin Krajicek
+2023-usopen-3401,2023,usopen,3401,Nathaniel Lammons,Rohan Bopanna,,,,,,,,,,,Jackson Withrow,Matthew Ebden
+2023-usopen-3402,2023,usopen,3402,Robert Galloway,Pierre Hugues Herbert,,,,,,,,,,,Albano Olivetti,Nicolas Mahut
+2023-usopen-3403,2023,usopen,3403,Maximo Gonzalez,Rajeev Ram,,,,,,,,,,,Andres Molteni,Joe Salisbury
+2023-usopen-3404,2023,usopen,3404,Hugo Nys,Ivan Dodig,,,,,,,,,,,Jan Zielinski,Austin Krajicek
+2023-usopen-3501,2023,usopen,3501,Rohan Bopanna,Pierre Hugues Herbert,,,,,,,,,,,Matthew Ebden,Nicolas Mahut
+2023-usopen-3502,2023,usopen,3502,Rajeev Ram,Ivan Dodig,,,,,,,,,,,Joe Salisbury,Austin Krajicek
+2023-usopen-3601,2023,usopen,3601,Rohan Bopanna,Rajeev Ram,,,,,,,,,,,Matthew Ebden,Joe Salisbury
+2023-usopen-4101,2023,usopen,4101,Barbora Krejcikova,Makoto Ninomiya,,,,,,,,,,,Katerina Siniakova,Sabrina Santamaria
+2023-usopen-4102,2023,usopen,4102,Barbora Strycova,Tereza Mihalikova,,,,,,,,,,,Marketa Vondrousova,Yifan Xu
+2023-usopen-4103,2023,usopen,4103,Katie Boulter,Fang Hsien Wu,,,,,,,,,,,Yulia Putintseva,Lin Zhu
+2023-usopen-4104,2023,usopen,4104,Lauren Davis,Gabriela Dabrowski,,,,,,,,,,,Anastasia Detiuc,Erin Routliffe
+2023-usopen-4105,2023,usopen,4105,Latisha Chan,Anna Blinkova,,,,,,,,,,,Zhaoxuan Yang,Varvara Gracheva
+2023-usopen-4106,2023,usopen,4106,Lucia Bronzetti,Karolina Pliskova,,,,,,,,,,,Eri Hozumi,Donna Vekic
+2023-usopen-4107,2023,usopen,4107,Aliona Bolsova,Alizé Cornet,,,,,,,,,,,Rebeka Masarova,Katarzyna Piter
+2023-usopen-4108,2023,usopen,4108,Olivia Center,Leylah Fernandez,,,,,,,,,,,Kate Fakih,Taylor Townsend
+2023-usopen-4109,2023,usopen,4109,Coco Gauff,Quinn Gleason,,,,,,,,,,,Jessica Pegula,Elizabeth Mandlik
+2023-usopen-4110,2023,usopen,4110,Sofia Kenin,Cristina Bucsa,,,,,,,,,,,CoCo Vandeweghe,Alexandra Panova
+2023-usopen-4111,2023,usopen,4111,Irina Khromacheva,Fiona Crawley,,,,,,,,,,,Daria Saville,Carson Tanguilig
+2023-usopen-4112,2023,usopen,4112,Irina Camelia Begu,Marta Kostyuk,,,,,,,,,,,Anhelina Kalinina,Elena Gabriela Ruse
+2023-usopen-4113,2023,usopen,4113,Lyudmyla Kichenok,Andrea Gamiz,,,,,,,,,,,Jelena Ostapenko,Sara Sorribes Tormo
+2023-usopen-4114,2023,usopen,4114,Elina Avanesyan,Clara Burel,,,,,,,,,,,Kamilla Rakhimova,Diane Parry
+2023-usopen-4115,2023,usopen,4115,Lidziya Marozava,Bethanie Mattek Sands,,,,,,,,,,,Ingrid Martins,Anastasia Potapova
+2023-usopen-4116,2023,usopen,4116,Linda Fruhvirtova,Su Wei Hsieh,,,,,,,,,,,Camila Osorio,Xinyu Wang
+2023-usopen-4117,2023,usopen,4117,Shuko Aoyama,Robin Montgomery,,,,,,,,,,,Ena Shibahara,Clervie Ngounoue
+2023-usopen-4118,2023,usopen,4118,Makenna Jones,Miriam Kolodziejova,,,,,,,,,,,Jamie Loeb,Linda Noskova
+2023-usopen-4119,2023,usopen,4119,Greet Minnen,Yana Sizikova,,,,,,,,,,,Yanina Wickmayer,Kimberley Zimmermann
+2023-usopen-4120,2023,usopen,4120,Caroline Dolehide,Laura Siegemund,,,,,,,,,,,Asia Muhammad,Vera Zvonareva
+2023-usopen-4121,2023,usopen,4121,Miyu Kato,Ekaterina Alexandrova,,,,,,,,,,,Aldila Sutjiadi,Aliaksandra Sasnovich
+2023-usopen-4122,2023,usopen,4122,Emma Navarro,Anna Danilina,,,,,,,,,,,Peyton Stearns,Heather Watson
+2023-usopen-4123,2023,usopen,4123,Victoria Azarenka,Timea Babos,,,,,,,,,,,Beatriz Haddad Maia,Anna Bondar
+2023-usopen-4124,2023,usopen,4124,Oksana Kalashnikova,Desirae Krawczyk,,,,,,,,,,,Iryna Shymanovich,Demi Schuurs
+2023-usopen-4125,2023,usopen,4125,Nicole Melichar Martinez,Nadia Podoroska,,,,,,,,,,,Ellen Perez,Mayar Sherif
+2023-usopen-4126,2023,usopen,4126,Elisabetta Cocciaretto,Magda Linette,,,,,,,,,,,Martina Trevisan,Bernarda Pera
+2023-usopen-4127,2023,usopen,4127,Sophie Chang,Alexa Guarachi,,,,,,,,,,,Alycia Parks,Monica Niculescu
+2023-usopen-4128,2023,usopen,4128,Ulrikke Eikeri,Hao Ching Chan,,,,,,,,,,,Ingrid Neel,Giuliana Olmos
+2023-usopen-4129,2023,usopen,4129,Veronika Kudermetova,Jasmine Paolini,,,,,,,,,,,Liudmila Samsonova,Xiyu Wang
+2023-usopen-4130,2023,usopen,4130,Anna Kalinskaya,Jennifer Brady,,,,,,,,,,,Anastasia Pavlyuchenkova,Luisa Stefani
+2023-usopen-4131,2023,usopen,4131,Tatjana Maria,Ashlyn Krueger,,,,,,,,,,,Arantxa Rus,Angela Kulikov
+2023-usopen-4132,2023,usopen,4132,Danielle Collins,Storm Hunter,,,,,,,,,,,Nadiia Kichenok,Elise Mertens
+2023-usopen-4201,2023,usopen,4201,Barbora Krejcikova,Barbora Strycova,,,,,,,,,,,Katerina Siniakova,Marketa Vondrousova
+2023-usopen-4202,2023,usopen,4202,Fang Hsien Wu,Gabriela Dabrowski,,,,,,,,,,,Lin Zhu,Erin Routliffe
+2023-usopen-4203,2023,usopen,4203,Latisha Chan,Karolina Pliskova,,,,,,,,,,,Zhaoxuan Yang,Donna Vekic
+2023-usopen-4204,2023,usopen,4204,Aliona Bolsova,Leylah Fernandez,,,,,,,,,,,Rebeka Masarova,Taylor Townsend
+2023-usopen-4205,2023,usopen,4205,Coco Gauff,Cristina Bucsa,,,,,,,,,,,Jessica Pegula,Alexandra Panova
+2023-usopen-4206,2023,usopen,4206,Irina Khromacheva,Marta Kostyuk,,,,,,,,,,,Daria Saville,Elena Gabriela Ruse
+2023-usopen-4207,2023,usopen,4207,Lyudmyla Kichenok,Elina Avanesyan,,,,,,,,,,,Jelena Ostapenko,Kamilla Rakhimova
+2023-usopen-4208,2023,usopen,4208,Bethanie Mattek Sands,Su Wei Hsieh,,,,,,,,,,,Anastasia Potapova,Xinyu Wang
+2023-usopen-4209,2023,usopen,4209,Robin Montgomery,Miriam Kolodziejova,,,,,,,,,,,Clervie Ngounoue,Linda Noskova
+2023-usopen-4210,2023,usopen,4210,Greet Minnen,Laura Siegemund,,,,,,,,,,,Yanina Wickmayer,Vera Zvonareva
+2023-usopen-4211,2023,usopen,4211,Miyu Kato,Anna Danilina,,,,,,,,,,,Aldila Sutjiadi,Heather Watson
+2023-usopen-4213,2023,usopen,4213,Nicole Melichar Martinez,Magda Linette,,,,,,,,,,,Ellen Perez,Bernarda Pera
+2023-usopen-4214,2023,usopen,4214,Sophie Chang,Hao Ching Chan,,,,,,,,,,,Alycia Parks,Giuliana Olmos
+2023-usopen-4215,2023,usopen,4215,Veronika Kudermetova,Jennifer Brady,,,,,,,,,,,Liudmila Samsonova,Luisa Stefani
+2023-usopen-4216,2023,usopen,4216,Tatjana Maria,Danielle Collins,,,,,,,,,,,Arantxa Rus,Nadiia Kichenok
+2023-usopen-4302,2023,usopen,4302,Karolina Pliskova,Leylah Fernandez,,,,,,,,,,,Donna Vekic,Taylor Townsend
+2023-usopen-4303,2023,usopen,4303,Coco Gauff,Marta Kostyuk,,,,,,,,,,,Jessica Pegula,Elena Gabriela Ruse
+2023-usopen-4304,2023,usopen,4304,Elina Avanesyan,Su Wei Hsieh,,,,,,,,,,,Kamilla Rakhimova,Xinyu Wang
+2023-usopen-4305,2023,usopen,4305,Robin Montgomery,Laura Siegemund,,,,,,,,,,,Clervie Ngounoue,Vera Zvonareva
+2023-usopen-4306,2023,usopen,4306,Miyu Kato,Victoria Azarenka,,,,,,,,,,,Aldila Sutjiadi,Beatriz Haddad Maia
+2023-usopen-4307,2023,usopen,4307,Magda Linette,Sophie Chang,,,,,,,,,,,Bernarda Pera,Alycia Parks
+2023-usopen-4308,2023,usopen,4308,Jennifer Brady,Tatjana Maria,,,,,,,,,,,Luisa Stefani,Arantxa Rus
+2023-usopen-4401,2023,usopen,4401,Gabriela Dabrowski,Leylah Fernandez,,,,,,,,,,,Erin Routliffe,Taylor Townsend
+2023-usopen-4402,2023,usopen,4402,Coco Gauff,Su Wei Hsieh,,,,,,,,,,,Jessica Pegula,Xinyu Wang
+2023-usopen-4403,2023,usopen,4403,Laura Siegemund,Victoria Azarenka,,,,,,,,,,,Vera Zvonareva,Beatriz Haddad Maia
+2023-usopen-4404,2023,usopen,4404,Magda Linette,Jennifer Brady,,,,,,,,,,,Bernarda Pera,Luisa Stefani
+2023-usopen-4501,2023,usopen,4501,Gabriela Dabrowski,Su Wei Hsieh,,,,,,,,,,,Erin Routliffe,Xinyu Wang
+2023-usopen-4502,2023,usopen,4502,Laura Siegemund,Jennifer Brady,,,,,,,,,,,Vera Zvonareva,Luisa Stefani
+2023-usopen-4601,2023,usopen,4601,Gabriela Dabrowski,Laura Siegemund,,,,,,,,,,,Erin Routliffe,Vera Zvonareva

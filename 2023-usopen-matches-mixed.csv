@@ -1,0 +1,32 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2
+2023-usopen-5101,2023,usopen,5101,Jessica Pegula,Laura Siegemund,,,,,,,,,,,Austin Krajicek,Sander Gille
+2023-usopen-5102,2023,usopen,5102,Katerina Siniakova,Bethanie Mattek Sands,,,,,,,,,,,Marcelo Melo,Jamie Murray
+2023-usopen-5103,2023,usopen,5103,Maria Mateas,Robin Montgomery,,,,,,,,,,,Mackenzie McDonald,Alex Michelsen
+2023-usopen-5104,2023,usopen,5104,Hao Ching Chan,Ellen Perez,,,,,,,,,,,Lloyd Glasspool,Jean Julien Rojer
+2023-usopen-5105,2023,usopen,5105,Luisa Stefani,Taylor Townsend,,,,,,,,,,,Joe Salisbury,Ben Shelton
+2023-usopen-5106,2023,usopen,5106,Aldila Sutjiadi,Vera Zvonareva,,,,,,,,,,,Rohan Bopanna,Andreas Mies
+2023-usopen-5107,2023,usopen,5107,Latisha Chan,Giuliana Olmos,,,,,,,,,,,Ivan Dodig,Tim Puetz
+2023-usopen-5108,2023,usopen,5108,Gabriela Dabrowski,Demi Schuurs,,,,,,,,,,,Nathaniel Lammons,Hugo Nys
+2023-usopen-5109,2023,usopen,5109,Zhaoxuan Yang,Lyudmyla Kichenok,,,,,,,,,,,Kevin Krawietz,Jan Zielinski
+2023-usopen-5110,2023,usopen,5110,Storm Hunter,Barbora Strycova,,,,,,,,,,,John Peers,Santiago Gonzalez
+2023-usopen-5111,2023,usopen,5111,Nadiia Kichenok,Ena Shibahara,,,,,,,,,,,Maximo Gonzalez,Mate Pavic
+2023-usopen-5112,2023,usopen,5112,Danielle Collins,Su Wei Hsieh,,,,,,,,,,,Ryan Harrison,Marcelo Arevalo
+2023-usopen-5113,2023,usopen,5113,Nicole Melichar Martinez,Anna Danilina,,,,,,,,,,,Matthew Ebden,Harri Heliovaara
+2023-usopen-5114,2023,usopen,5114,Coco Gauff,Alycia Parks,,,,,,,,,,,Jack Sock,Denis Kudla
+2023-usopen-5115,2023,usopen,5115,Ashlyn Krueger,Asia Muhammad,,,,,,,,,,,Ethan Quinn,Jackson Withrow
+2023-usopen-5116,2023,usopen,5116,Yifan Xu,Alexa Guarachi,,,,,,,,,,,Joran Vliegen,Andres Molteni
+2023-usopen-5201,2023,usopen,5201,Jessica Pegula,Bethanie Mattek Sands,,,,,,,,,,,Austin Krajicek,Jamie Murray
+2023-usopen-5202,2023,usopen,5202,Robin Montgomery,Ellen Perez,,,,,,,,,,,Alex Michelsen,Jean Julien Rojer
+2023-usopen-5203,2023,usopen,5203,Taylor Townsend,Aldila Sutjiadi,,,,,,,,,,,Ben Shelton,Rohan Bopanna
+2023-usopen-5204,2023,usopen,5204,Giuliana Olmos,Demi Schuurs,,,,,,,,,,,Tim Puetz,Hugo Nys
+2023-usopen-5205,2023,usopen,5205,Zhaoxuan Yang,Barbora Strycova,,,,,,,,,,,Kevin Krawietz,Santiago Gonzalez
+2023-usopen-5206,2023,usopen,5206,Ena Shibahara,Su Wei Hsieh,,,,,,,,,,,Mate Pavic,Marcelo Arevalo
+2023-usopen-5207,2023,usopen,5207,Anna Danilina,Alycia Parks,,,,,,,,,,,Harri Heliovaara,Denis Kudla
+2023-usopen-5208,2023,usopen,5208,Ashlyn Krueger,Yifan Xu,,,,,,,,,,,Ethan Quinn,Joran Vliegen
+2023-usopen-5301,2023,usopen,5301,Jessica Pegula,Ellen Perez,,,,,,,,,,,Austin Krajicek,Jean Julien Rojer
+2023-usopen-5302,2023,usopen,5302,Taylor Townsend,Demi Schuurs,,,,,,,,,,,Ben Shelton,Hugo Nys
+2023-usopen-5303,2023,usopen,5303,Barbora Strycova,Ena Shibahara,,,,,,,,,,,Santiago Gonzalez,Mate Pavic
+2023-usopen-5304,2023,usopen,5304,Anna Danilina,Yifan Xu,,,,,,,,,,,Harri Heliovaara,Joran Vliegen
+2023-usopen-5401,2023,usopen,5401,Jessica Pegula,Taylor Townsend,,,,,,,,,,,Austin Krajicek,Ben Shelton
+2023-usopen-5402,2023,usopen,5402,Ena Shibahara,Anna Danilina,,,,,,,,,,,Mate Pavic,Harri Heliovaara
+2023-usopen-5501,2023,usopen,5501,Jessica Pegula,Anna Danilina,,,,,,,,,,,Austin Krajicek,Harri Heliovaara
