@@ -1,0 +1,31 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2
+2024-usopen-5101,2024,usopen,5101,Gabriela Dabrowski,Anna Danilina,,,,,,,,,,,Joe Salisbury,Harri Heliovaara
+2024-usopen-5102,2024,usopen,5102,Shuai Zhang,Cristina Bucsa,,,,,,,,,,,Marcelo Arevalo,Joran Vliegen
+2024-usopen-5103,2024,usopen,5103,Taylor Townsend,Asia Muhammad,,,,,,,,,,,Donald Young,Andres Molteni
+2024-usopen-5104,2024,usopen,5104,Nadiia Kichenok,Nicole Melichar Martinez,,,,,,,,,,,Hugo Nys,Ivan Dodig
+2024-usopen-5105,2024,usopen,5105,Barbora Krejcikova,Hao Ching Chan,,,,,,,,,,,Matthew Ebden,Austin Krajicek
+2024-usopen-5106,2024,usopen,5106,Iva Jovic,Dayana Yastremska,,,,,,,,,,,Kaylan Bigun,Max Purcell
+2024-usopen-5107,2024,usopen,5107,Luisa Stefani,Katerina Siniakova,,,,,,,,,,,Rafael Matos,John Peers
+2024-usopen-5108,2024,usopen,5108,Demi Schuurs,Aldila Sutjiadi,,,,,,,,,,,Tim Puetz,Rohan Bopanna
+2024-usopen-5109,2024,usopen,5109,Su Wei Hsieh,Ulrikke Eikeri,,,,,,,,,,,Jan Zielinski,Maximo Gonzalez
+2024-usopen-5110,2024,usopen,5110,Giuliana Olmos,Paula Badosa,,,,,,,,,,,Santiago Gonzalez,Stefanos Tsitsipas
+2024-usopen-5111,2024,usopen,5111,Alexandra Panova,Maria Mateas,,,,,,,,,,,Fabrice Martin,Mackenzie McDonald
+2024-usopen-5112,2024,usopen,5112,Shelby Rogers,Sara Errani,,,,,,,,,,,Robert Galloway,Andrea Vavassori
+2024-usopen-5113,2024,usopen,5113,Desirae Krawczyk,Ashlyn Krueger,,,,,,,,,,,Neal Skupski,Thai Son Kwiatkowski
+2024-usopen-5114,2024,usopen,5114,Lyudmyla Kichenok,Ellen Perez,,,,,,,,,,,Sadio Doumbia,Sander Gille
+2024-usopen-5115,2024,usopen,5115,Tyra Caterina Grant,Clervie Ngounoue,,,,,,,,,,,Aleksandar Kovacevic,Learner Tien
+2024-usopen-5116,2024,usopen,5116,Alycia Parks,Erin Routliffe,,,,,,,,,,,Jackson Withrow,Michael Venus
+2024-usopen-5201,2024,usopen,5201,Anna Danilina,Cristina Bucsa,,,,,,,,,,,Harri Heliovaara,Joran Vliegen
+2024-usopen-5202,2024,usopen,5202,Taylor Townsend,Nadiia Kichenok,,,,,,,,,,,Donald Young,Hugo Nys
+2024-usopen-5203,2024,usopen,5203,Barbora Krejcikova,Iva Jovic,,,,,,,,,,,Matthew Ebden,Kaylan Bigun
+2024-usopen-5204,2024,usopen,5204,Katerina Siniakova,Aldila Sutjiadi,,,,,,,,,,,John Peers,Rohan Bopanna
+2024-usopen-5205,2024,usopen,5205,Su Wei Hsieh,Giuliana Olmos,,,,,,,,,,,Jan Zielinski,Santiago Gonzalez
+2024-usopen-5206,2024,usopen,5206,Maria Mateas,Sara Errani,,,,,,,,,,,Mackenzie McDonald,Andrea Vavassori
+2024-usopen-5207,2024,usopen,5207,Ashlyn Krueger,Ellen Perez,,,,,,,,,,,Thai Son Kwiatkowski,Sander Gille
+2024-usopen-5208,2024,usopen,5208,Tyra Caterina Grant,Alycia Parks,,,,,,,,,,,Aleksandar Kovacevic,Jackson Withrow
+2024-usopen-5301,2024,usopen,5301,Anna Danilina,Taylor Townsend,,,,,,,,,,,Harri Heliovaara,Donald Young
+2024-usopen-5302,2024,usopen,5302,Barbora Krejcikova,Aldila Sutjiadi,,,,,,,,,,,Matthew Ebden,Rohan Bopanna
+2024-usopen-5303,2024,usopen,5303,Su Wei Hsieh,Sara Errani,,,,,,,,,,,Jan Zielinski,Andrea Vavassori
+2024-usopen-5401,2024,usopen,5401,Taylor Townsend,Aldila Sutjiadi,,,,,,,,,,,Donald Young,Rohan Bopanna
+2024-usopen-5402,2024,usopen,5402,Sara Errani,Tyra Caterina Grant,,,,,,,,,,,Andrea Vavassori,Aleksandar Kovacevic
+2024-usopen-5501,2024,usopen,5501,Taylor Townsend,Sara Errani,,,,,,,,,,,Donald Young,Andrea Vavassori

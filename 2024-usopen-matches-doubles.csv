@@ -1,0 +1,126 @@
+match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,partner1,partner2
+2024-usopen-3101,2024,usopen,3101,Marcel Granollers,Francisco Cerundolo,,,,,,,,,,,Horacio Zeballos,Camilo Ugo Carabelli
+2024-usopen-3102,2024,usopen,3102,Alexander Erler,Ariel Behar,,,,,,,,,,,Matwe Middelkoop,Luke Johnson
+2024-usopen-3103,2024,usopen,3103,Ryan Seggerman,Yuki Bhambri,,,,,,,,,,,Patrik Trhac,Albano Olivetti
+2024-usopen-3104,2024,usopen,3104,Constantin Frantzen,Austin Krajicek,,,,,,,,,,,Hendrik Jebens,Jean Julien Rojer
+2024-usopen-3105,2024,usopen,3105,Hugo Nys,Pedro Martinez,,,,,,,,,,,Jan Zielinski,Jaume Munar
+2024-usopen-3106,2024,usopen,3106,Nuno Borges,Zizou Bergs,,,,,,,,,,,Francisco Cabral,Fabian Marozsan
+2024-usopen-3107,2024,usopen,3107,Alexandre Muller,Andreas Mies,,,,,,,,,,,Sebastian Ofner,John Patrick Smith
+2024-usopen-3108,2024,usopen,3108,Marcos Giron,Max Purcell,,,,,,,,,,,Botic van De Zandschulp,Jordan Thompson
+2024-usopen-3109,2024,usopen,3109,Rajeev Ram,Luciano Darderi,,,,,,,,,,,Joe Salisbury,Fernando Romboli
+2024-usopen-3110,2024,usopen,3110,Diego Hidalgo,Lloyd Glasspool,,,,,,,,,,,Alejandro Tabilo,Rinky Hijikata
+2024-usopen-3111,2024,usopen,3111,Jonathan Eysseric,Evan King,,,,,,,,,,,Fabrice Martin,Brandon Nakashima
+2024-usopen-3112,2024,usopen,3112,Mitchell Krueger,Nathaniel Lammons,,,,,,,,,,,Reese Stalder,Jackson Withrow
+2024-usopen-3113,2024,usopen,3113,Wesley Koolhof,Tallon Griekspoor,,,,,,,,,,,Nikola Mektic,Thanasi Kokkinakis
+2024-usopen-3114,2024,usopen,3114,Pablo Carreno Busta,Rafael Matos,,,,,,,,,,,Sergio Martos Gornes,Marcelo Melo
+2024-usopen-3115,2024,usopen,3115,Flavio Cobolli,Soonwoo Kwon,,,,,,,,,,,Dominic Stricker,Denis Shapovalov
+2024-usopen-3116,2024,usopen,3116,Sadio Doumbia,Harri Heliovaara,,,,,,,,,,,Manuel Guinard,Henry Patten
+2024-usopen-3117,2024,usopen,3117,Neal Skupski,Hugo Gaston,,,,,,,,,,,Michael Venus,Gregoire Jacq
+2024-usopen-3118,2024,usopen,3118,Guido Andreozzi,Marcus Daniell,,,,,,,,,,,N.Sriram Balaji,Miguel Reyes Varela
+2024-usopen-3119,2024,usopen,3119,Mackenzie McDonald,Julian Cash,,,,,,,,,,,Alex Michelsen,Robert Galloway
+2024-usopen-3120,2024,usopen,3120,Tristan Boyer,Santiago Gonzalez,,,,,,,,,,,Emilio Nava,Edouard Roger Vasselin
+2024-usopen-3121,2024,usopen,3121,Ivan Dodig,Christian Harrison,,,,,,,,,,,Adam Pavlasek,Vasil Kirkov
+2024-usopen-3122,2024,usopen,3122,Nicolas Barrientos,Nikita Filin,,,,,,,,,,,Skander Mansouri,Alexander Razeghi
+2024-usopen-3123,2024,usopen,3123,Sander Gille,Miomir Kecmanovic,,,,,,,,,,,Joran Vliegen,Roman Safiullin
+2024-usopen-3124,2024,usopen,3124,Arthur Fils,Marcelo Arevalo,,,,,,,,,,,Giovanni Mpetshi Perricard,Mate Pavic
+2024-usopen-3125,2024,usopen,3125,Simone Bolelli,William Blumberg,,,,,,,,,,,Andrea Vavassori,Casper Ruud
+2024-usopen-3126,2024,usopen,3126,Jamie Murray,Andre Goransson,,,,,,,,,,,John Peers,Sem Verbeek
+2024-usopen-3127,2024,usopen,3127,Adrian Mannarino,Thiago Monteiro,,,,,,,,,,,Arthur Rinderknech,Mariano Navone
+2024-usopen-3128,2024,usopen,3128,Gonzalo Escobar,Kevin Krawietz,,,,,,,,,,,Aleksandr Nedovyesov,Tim Puetz
+2024-usopen-3129,2024,usopen,3129,Maximo Gonzalez,Nicolas Jarry,,,,,,,,,,,Andres Molteni,Cristian Rodriguez
+2024-usopen-3130,2024,usopen,3130,Robert Cash,Alexander Shevchenko,,,,,,,,,,,JJ Tracy,Sam Weissborn
+2024-usopen-3131,2024,usopen,3131,Pavel Kotov,Roberto Carballes Baena,,,,,,,,,,,Thiago Seyboth Wild,Federico Coria
+2024-usopen-3132,2024,usopen,3132,Sander Arends,Rohan Bopanna,,,,,,,,,,,Robin Haase,Matthew Ebden
+2024-usopen-3201,2024,usopen,3201,Marcel Granollers,Alexander Erler,,,,,,,,,,,Horacio Zeballos,Matwe Middelkoop
+2024-usopen-3202,2024,usopen,3202,Yuki Bhambri,Austin Krajicek,,,,,,,,,,,Albano Olivetti,Jean Julien Rojer
+2024-usopen-3203,2024,usopen,3203,Hugo Nys,Nuno Borges,,,,,,,,,,,Jan Zielinski,Francisco Cabral
+2024-usopen-3204,2024,usopen,3204,Andreas Mies,Max Purcell,,,,,,,,,,,John Patrick Smith,Jordan Thompson
+2024-usopen-3205,2024,usopen,3205,Rajeev Ram,Lloyd Glasspool,,,,,,,,,,,Joe Salisbury,Rinky Hijikata
+2024-usopen-3206,2024,usopen,3206,Jonathan Eysseric,Nathaniel Lammons,,,,,,,,,,,Fabrice Martin,Jackson Withrow
+2024-usopen-3207,2024,usopen,3207,Wesley Koolhof,Rafael Matos,,,,,,,,,,,Nikola Mektic,Marcelo Melo
+2024-usopen-3208,2024,usopen,3208,Flavio Cobolli,Harri Heliovaara,,,,,,,,,,,Dominic Stricker,Henry Patten
+2024-usopen-3209,2024,usopen,3209,Neal Skupski,Guido Andreozzi,,,,,,,,,,,Michael Venus,N.Sriram Balaji
+2024-usopen-3210,2024,usopen,3210,Julian Cash,Tristan Boyer,,,,,,,,,,,Robert Galloway,Emilio Nava
+2024-usopen-3211,2024,usopen,3211,Ivan Dodig,Nicolas Barrientos,,,,,,,,,,,Adam Pavlasek,Skander Mansouri
+2024-usopen-3212,2024,usopen,3212,Sander Gille,Marcelo Arevalo,,,,,,,,,,,Joran Vliegen,Mate Pavic
+2024-usopen-3213,2024,usopen,3213,Simone Bolelli,Andre Goransson,,,,,,,,,,,Andrea Vavassori,Sem Verbeek
+2024-usopen-3214,2024,usopen,3214,Thiago Monteiro,Kevin Krawietz,,,,,,,,,,,Mariano Navone,Tim Puetz
+2024-usopen-3215,2024,usopen,3215,Maximo Gonzalez,Robert Cash,,,,,,,,,,,Andres Molteni,JJ Tracy
+2024-usopen-3216,2024,usopen,3216,Roberto Carballes Baena,Rohan Bopanna,,,,,,,,,,,Federico Coria,Matthew Ebden
+2024-usopen-3301,2024,usopen,3301,Marcel Granollers,Yuki Bhambri,,,,,,,,,,,Horacio Zeballos,Albano Olivetti
+2024-usopen-3302,2024,usopen,3302,Nuno Borges,Max Purcell,,,,,,,,,,,Francisco Cabral,Jordan Thompson
+2024-usopen-3303,2024,usopen,3303,Rajeev Ram,Nathaniel Lammons,,,,,,,,,,,Joe Salisbury,Jackson Withrow
+2024-usopen-3304,2024,usopen,3304,Wesley Koolhof,Harri Heliovaara,,,,,,,,,,,Nikola Mektic,Henry Patten
+2024-usopen-3305,2024,usopen,3305,Neal Skupski,Tristan Boyer,,,,,,,,,,,Michael Venus,Emilio Nava
+2024-usopen-3306,2024,usopen,3306,Ivan Dodig,Marcelo Arevalo,,,,,,,,,,,Adam Pavlasek,Mate Pavic
+2024-usopen-3307,2024,usopen,3307,Simone Bolelli,Kevin Krawietz,,,,,,,,,,,Andrea Vavassori,Tim Puetz
+2024-usopen-3308,2024,usopen,3308,Maximo Gonzalez,Rohan Bopanna,,,,,,,,,,,Andres Molteni,Matthew Ebden
+2024-usopen-3401,2024,usopen,3401,Marcel Granollers,Max Purcell,,,,,,,,,,,Horacio Zeballos,Jordan Thompson
+2024-usopen-3402,2024,usopen,3402,Nathaniel Lammons,Wesley Koolhof,,,,,,,,,,,Jackson Withrow,Nikola Mektic
+2024-usopen-3403,2024,usopen,3403,Neal Skupski,Marcelo Arevalo,,,,,,,,,,,Michael Venus,Mate Pavic
+2024-usopen-3404,2024,usopen,3404,Kevin Krawietz,Maximo Gonzalez,,,,,,,,,,,Tim Puetz,Andres Molteni
+2024-usopen-3501,2024,usopen,3501,Max Purcell,Nathaniel Lammons,,,,,,,,,,,Jordan Thompson,Jackson Withrow
+2024-usopen-3502,2024,usopen,3502,Marcelo Arevalo,Kevin Krawietz,,,,,,,,,,,Mate Pavic,Tim Puetz
+2024-usopen-3601,2024,usopen,3601,Max Purcell,Kevin Krawietz,,,,,,,,,,,Jordan Thompson,Tim Puetz
+2024-usopen-4101,2024,usopen,4101,Gabriela Dabrowski,Leylah Fernandez,,,,,,,,,,,Erin Routliffe,Yulia Putintseva
+2024-usopen-4102,2024,usopen,4102,Anhelina Kalinina,Catherine Harrison,,,,,,,,,,,Martina Trevisan,Alicja Rosolska
+2024-usopen-4103,2024,usopen,4103,Petra Martic,Ajla Tomljanovic,,,,,,,,,,,Shelby Rogers,Viktoriya Tomova
+2024-usopen-4104,2024,usopen,4104,Jaqueline Cristian,Ulrikke Eikeri,,,,,,,,,,,Angelica Moratelli,Ingrid Neel
+2024-usopen-4105,2024,usopen,4105,Hao Ching Chan,Elisabetta Cocciaretto,,,,,,,,,,,Veronika Kudermetova,Clara Tauson
+2024-usopen-4106,2024,usopen,4106,Ekaterina Alexandrova,Carmen Corley,,,,,,,,,,,Anna Blinkova,Ivana Corley
+2024-usopen-4107,2024,usopen,4107,Harriet Dart,Linda Noskova,,,,,,,,,,,Diane Parry,Diana Shnaider
+2024-usopen-4108,2024,usopen,4108,Miyu Kato,Sara Errani,,,,,,,,,,,Yafan Wang,Jasmine Paolini
+2024-usopen-4109,2024,usopen,4109,Caroline Dolehide,Hailey Baptiste,,,,,,,,,,,Desirae Krawczyk,Whitney Osuigwe
+2024-usopen-4110,2024,usopen,4110,Anna Danilina,Tyra Caterina Grant,,,,,,,,,,,Irina Khromacheva,Iva Jovic
+2024-usopen-4111,2024,usopen,4111,Lulu Sun,Tereza Mihalikova,,,,,,,,,,,Xiyu Wang,Olivia Nicholls
+2024-usopen-4112,2024,usopen,4112,Tatjana Maria,Ena Shibahara,,,,,,,,,,,Anna Karolina Schmiedlova,Aldila Sutjiadi
+2024-usopen-4113,2024,usopen,4113,Beatriz Haddad Maia,Varvara Gracheva,,,,,,,,,,,Laura Siegemund,Oksana Kalashnikova
+2024-usopen-4114,2024,usopen,4114,Samantha Murray Sharan,Robin Montgomery,,,,,,,,,,,Camilla Rosatello,Clervie Ngounoue
+2024-usopen-4115,2024,usopen,4115,Xinyu Jiang,Anna Bondar,,,,,,,,,,,Makoto Ninomiya,Clara Burel
+2024-usopen-4116,2024,usopen,4116,Jessie Aney,Lyudmyla Kichenok,,,,,,,,,,,Jessica Failla,Jelena Ostapenko
+2024-usopen-4117,2024,usopen,4117,Demi Schuurs,Shuko Aoyama,,,,,,,,,,,Luisa Stefani,Eri Hozumi
+2024-usopen-4118,2024,usopen,4118,Katie Boulter,Xinyu Wang,,,,,,,,,,,Anna Kalinskaya,Saisai Zheng
+2024-usopen-4119,2024,usopen,4119,Maia Lumsden,Hanyu Guo,,,,,,,,,,,Anna Siskova,Monica Niculescu
+2024-usopen-4120,2024,usopen,4120,Timea Babos,Sofia Kenin,,,,,,,,,,,Nadiia Kichenok,Bethanie Mattek Sands
+2024-usopen-4121,2024,usopen,4121,Giuliana Olmos,Arantxa Rus,,,,,,,,,,,Alexandra Panova,Nina Stojanovic
+2024-usopen-4122,2024,usopen,4122,Asia Muhammad,Moyuka Uchijima,,,,,,,,,,,Heather Watson,Yue Yuan
+2024-usopen-4123,2024,usopen,4123,Kateryna Baindl,Marta Kostyuk,,,,,,,,,,,Katie Volynets,Elena Gabriela Ruse
+2024-usopen-4124,2024,usopen,4124,Lucia Bronzetti,Katerina Siniakova,,,,,,,,,,,Liudmila Samsonova,Taylor Townsend
+2024-usopen-4125,2024,usopen,4125,Nicole Melichar Martinez,McCartney Kessler,,,,,,,,,,,Ellen Perez,Sabrina Santamaria
+2024-usopen-4126,2024,usopen,4126,Viktorija Golubic,Anna Rogers,,,,,,,,,,,Tara Moore,Alana Smith
+2024-usopen-4127,2024,usopen,4127,Kamilla Rakhimova,Elina Avanesyan,,,,,,,,,,,Aliaksandra Sasnovich,Katarzyna Piter
+2024-usopen-4128,2024,usopen,4128,Ashlyn Krueger,Marie Bouzkova,,,,,,,,,,,Sloane Stephens,Sara Sorribes Tormo
+2024-usopen-4129,2024,usopen,4129,Cristina Bucsa,Mirra Andreeva,,,,,,,,,,,Yifan Xu,Anastasia Pavlyuchenkova
+2024-usopen-4130,2024,usopen,4130,Olivia Gadecki,Camila Osorio,,,,,,,,,,,Fang Hsien Wu,Alycia Parks
+2024-usopen-4131,2024,usopen,4131,Anastasia Potapova,Magda Linette,,,,,,,,,,,Yana Sizikova,Peyton Stearns
+2024-usopen-4132,2024,usopen,4132,Kristina Mladenovic,Su Wei Hsieh,,,,,,,,,,,Shuai Zhang,Elise Mertens
+2024-usopen-4201,2024,usopen,4201,Gabriela Dabrowski,Catherine Harrison,,,,,,,,,,,Erin Routliffe,Alicja Rosolska
+2024-usopen-4202,2024,usopen,4202,Petra Martic,Jaqueline Cristian,,,,,,,,,,,Shelby Rogers,Angelica Moratelli
+2024-usopen-4203,2024,usopen,4203,Hao Ching Chan,Carmen Corley,,,,,,,,,,,Veronika Kudermetova,Ivana Corley
+2024-usopen-4204,2024,usopen,4204,Harriet Dart,Sara Errani,,,,,,,,,,,Diane Parry,Jasmine Paolini
+2024-usopen-4205,2024,usopen,4205,Caroline Dolehide,Anna Danilina,,,,,,,,,,,Desirae Krawczyk,Irina Khromacheva
+2024-usopen-4206,2024,usopen,4206,Tereza Mihalikova,Ena Shibahara,,,,,,,,,,,Olivia Nicholls,Aldila Sutjiadi
+2024-usopen-4207,2024,usopen,4207,Beatriz Haddad Maia,Robin Montgomery,,,,,,,,,,,Laura Siegemund,Clervie Ngounoue
+2024-usopen-4208,2024,usopen,4208,Xinyu Jiang,Lyudmyla Kichenok,,,,,,,,,,,Makoto Ninomiya,Jelena Ostapenko
+2024-usopen-4209,2024,usopen,4209,Demi Schuurs,Katie Boulter,,,,,,,,,,,Luisa Stefani,Anna Kalinskaya
+2024-usopen-4210,2024,usopen,4210,Maia Lumsden,Sofia Kenin,,,,,,,,,,,Anna Siskova,Bethanie Mattek Sands
+2024-usopen-4211,2024,usopen,4211,Giuliana Olmos,Asia Muhammad,,,,,,,,,,,Alexandra Panova,Heather Watson
+2024-usopen-4213,2024,usopen,4213,Nicole Melichar Martinez,Viktorija Golubic,,,,,,,,,,,Ellen Perez,Tara Moore
+2024-usopen-4214,2024,usopen,4214,Kamilla Rakhimova,Marie Bouzkova,,,,,,,,,,,Aliaksandra Sasnovich,Sara Sorribes Tormo
+2024-usopen-4215,2024,usopen,4215,Mirra Andreeva,Camila Osorio,,,,,,,,,,,Anastasia Pavlyuchenkova,Alycia Parks
+2024-usopen-4216,2024,usopen,4216,Magda Linette,Kristina Mladenovic,,,,,,,,,,,Peyton Stearns,Shuai Zhang
+2024-usopen-4301,2024,usopen,4301,Gabriela Dabrowski,Jaqueline Cristian,,,,,,,,,,,Erin Routliffe,Angelica Moratelli
+2024-usopen-4302,2024,usopen,4302,Hao Ching Chan,Harriet Dart,,,,,,,,,,,Veronika Kudermetova,Diane Parry
+2024-usopen-4303,2024,usopen,4303,Anna Danilina,Tereza Mihalikova,,,,,,,,,,,Irina Khromacheva,Olivia Nicholls
+2024-usopen-4304,2024,usopen,4304,Beatriz Haddad Maia,Lyudmyla Kichenok,,,,,,,,,,,Laura Siegemund,Jelena Ostapenko
+2024-usopen-4305,2024,usopen,4305,Demi Schuurs,Sofia Kenin,,,,,,,,,,,Luisa Stefani,Bethanie Mattek Sands
+2024-usopen-4306,2024,usopen,4306,Asia Muhammad,Katerina Siniakova,,,,,,,,,,,Heather Watson,Taylor Townsend
+2024-usopen-4307,2024,usopen,4307,Nicole Melichar Martinez,Marie Bouzkova,,,,,,,,,,,Ellen Perez,Sara Sorribes Tormo
+2024-usopen-4308,2024,usopen,4308,Mirra Andreeva,Kristina Mladenovic,,,,,,,,,,,Anastasia Pavlyuchenkova,Shuai Zhang
+2024-usopen-4401,2024,usopen,4401,Gabriela Dabrowski,Hao Ching Chan,,,,,,,,,,,Erin Routliffe,Veronika Kudermetova
+2024-usopen-4402,2024,usopen,4402,Anna Danilina,Lyudmyla Kichenok,,,,,,,,,,,Irina Khromacheva,Jelena Ostapenko
+2024-usopen-4403,2024,usopen,4403,Demi Schuurs,Katerina Siniakova,,,,,,,,,,,Luisa Stefani,Taylor Townsend
+2024-usopen-4404,2024,usopen,4404,Nicole Melichar Martinez,Kristina Mladenovic,,,,,,,,,,,Ellen Perez,Shuai Zhang
+2024-usopen-4501,2024,usopen,4501,Hao Ching Chan,Lyudmyla Kichenok,,,,,,,,,,,Veronika Kudermetova,Jelena Ostapenko
+2024-usopen-4502,2024,usopen,4502,Katerina Siniakova,Kristina Mladenovic,,,,,,,,,,,Taylor Townsend,Shuai Zhang
+2024-usopen-4601,2024,usopen,4601,Lyudmyla Kichenok,Kristina Mladenovic,,,,,,,,,,,Jelena Ostapenko,Shuai Zhang
